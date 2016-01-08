@@ -1,0 +1,561 @@
+rg	R_ASPTA	Cthe_0755 or Cthe_0363
+rg	R_ASPKi	Cthe_1375
+rg	R_NBAHH	Cthe_3149
+rg	R_ASP1DC	Cthe_0900
+rg	R_ARGSL	Cthe_0178
+rg	R_ALAR	Cthe_2697
+rg	R_ASPTRS	Cthe_1543 or Cthe_1331
+rg	R_ASNTRS	Cthe_0070
+rg	R_ALATRS	Cthe_3200
+rg	R_ASNS2	Cthe_0069
+rg	R_ASNS1	Cthe_0556
+rg	R_UAGPT3	.
+rg	R_CHTNASE1	Cthe_0269 and Cthe_0270 and Cthe_0271
+rg	R_CHTBNASE	.
+rg	R_AGDC_r	Cthe_2190
+rg	R_UAG4E	Cthe_0229
+rg	R_ACNAM9PL	Cthe_2641 or Cthe_2229
+rg	R_GF6PTA	Cthe_1162
+rg	R_UAGDP	Cthe_2629
+rg	R_CMPSAS	Cthe_2639
+rg	R_CHTNASE	Cthe_0269 and Cthe_0270 and Cthe_0271
+rg	R_ACNMSr	.
+rg	R_G5SD	Cthe_0262
+rg	R_PRO1x_r	Cthe_0672
+rg	R_EHGLAT	Cthe_0755 or Cthe_0363
+rg	R_PROTRS	Cthe_2947
+rg	R_ARGTRS	Cthe_1935
+rg	R_G5SADr	spontaneous
+rg	R_BIOMASS	.
+rg	R_BIOMASScell	.
+rg	R_CELLOME	.
+rg	R_AMAA	Cthe_0185 or Cthe_0605 or Cthe_1804 or Cthe_1953 or Cthe_2498
+rg	R_G3POA_CT	.
+rg	R_LIPO1S24_CT	.
+rg	R_LIPO2S24_CT	.
+rg	R_LIPO3S24_CT	.
+rg	R_LIPO4S24_CT	.
+rg	R_LYSLG_CT	.
+rg	R_PPTGS_CT	.
+rg	R_TECA1S45	.
+rg	R_TECA2S45	.
+rg	R_TECA3S45	.
+rg	R_TECA4S_CT	.
+rg	R_TEICH45	.
+rg	R_UGT_CT	.
+rg	R_UGT1_CT	.
+rg	R_UGT2_CT	.
+rg	R_UAPGR	Cthe_0112
+rg	R_G1PACT	Cthe_2629
+rg	R_AGPATr_CT	Cthe_0713
+rg	R_UAGCVT	Cthe_2615 or Cthe_0973 or Cthe_0441 or Cthe_2328
+rg	R_DAGK_CT	.
+rg	R_UDCPKr	Cthe_2305
+rg	R_G3PCT	.
+rg	R_PHCYT_CT	Cthe_1000 or Cthe_0030
+rg	R_CLPNS2_CT	Cthe_1396
+rg	R_PAPPT3	Cthe_0976
+rg	R_CDGPT_CT	Cthe_0941
+rg	R_CDPDSP_CT	.
+rg	R_PGPPH_CT	.
+rg	R_PAP_CT	.
+rg	R_UDCPDP	Cthe_2305
+rg	R_PSDC_CT	.
+rg	R_GLUR	Cthe_1937
+rg	R_PGAMT	Cthe_1163
+rg	R_UGMDDS	Cthe_0977
+rg	R_UAAGDS	Cthe_0978
+rg	R_ALAALAr	Cthe_1938
+rg	R_UAMAS	Cthe_2626
+rg	R_UAMAGS	Cthe_1041
+rg	R_UAG2E	Cthe_2640 or Cthe_2601
+rg	R_UAG2EMA	Cthe_2640 or Cthe_2601
+rg	R_cellbp	Cthe_0275
+rg	R_cellhp	Cthe_0275
+rg	R_cellpp	Cthe_0275
+rg	R_celltp	Cthe_0275
+rg	R_cellttp	Cthe_0275
+rg	R_bglu1	Cthe_0212 or Cthe_1256
+rg	R_bglu2	Cthe_0212 or Cthe_1256
+rg	R_bglu2_ext	Cthe_0212 or Cthe_1256
+rg	R_bglu3	Cthe_0212 or Cthe_1256
+rg	R_bglu3_ext	Cthe_0212 or Cthe_1256
+rg	R_bglu4	Cthe_0212 or Cthe_1256
+rg	R_bglu4_ext	Cthe_0212 or Cthe_1256
+rg	R_bglu5	Cthe_0212 or Cthe_1256
+rg	R_bglu5_ext	Cthe_0212 or Cthe_1256
+rg	R_bglu6	Cthe_0212 or Cthe_1256
+rg	R_bglu6_ext	Cthe_0212 or Cthe_1256
+rg	R_cellulase2	(Cthe_0269 or Cthe_0536 or Cthe_2807 or Cthe_0825 or Cthe_0543 or Cthe_2872 or Cthe_1472 or Cthe_0040 or Cthe_2089) and (Cthe_0412 or Cthe_0071 or Cthe_1235 or Cthe_2089)
+rg	R_cellulase3	(Cthe_0269 or Cthe_0536 or Cthe_2807 or Cthe_0825 or Cthe_0543 or Cthe_2872 or Cthe_1472 or Cthe_0040 or Cthe_2089) and (Cthe_0412 or Cthe_0071 or Cthe_1235 or Cthe_2089)
+rg	R_cellulase4	(Cthe_0269 or Cthe_0536 or Cthe_2807 or Cthe_0825 or Cthe_0543 or Cthe_2872 or Cthe_1472 or Cthe_0040 or Cthe_2089) and (Cthe_0412 or Cthe_0071 or Cthe_1235 or Cthe_2089)
+rg	R_cellulase5	(Cthe_0269 or Cthe_0536 or Cthe_2807 or Cthe_0825 or Cthe_0543 or Cthe_2872 or Cthe_1472 or Cthe_0040 or Cthe_2089) and (Cthe_0412 or Cthe_0071 or Cthe_1235 or Cthe_2089)
+rg	R_cellulase6	(Cthe_0269 or Cthe_0536 or Cthe_2807 or Cthe_0825 or Cthe_0543 or Cthe_2872 or Cthe_1472 or Cthe_0040 or Cthe_2089) and (Cthe_0412 or Cthe_0071 or Cthe_1235 or Cthe_2089)
+rg	R_MDH	Cthe_1053 or Cthe_0345
+rg	R_ICDHyr	Cthe_0285
+rg	R_OORr	Cthe_0864 and Cthe_0865 and Cthe_0866 and Cthe_0867
+rg	R_SUCOAS	.
+rg	R_CS	Cthe_3027
+rg	R_FUM	Cthe_3090 and Cthe_3091
+rg	R_ACONT	Cthe_3158
+rg	R_SLDx	Cthe_0276
+rg	R_PAPSR	Cthe_2535
+rg	R_SERAT	Cthe_2066
+rg	R_CYSS	Cthe_1560 or Cthe_1840
+rg	R_CYSTS	Cthe_1560
+rg	R_CYSTGL	Cthe_1559 or Cthe_2799
+rg	R_CYSTRS	Cthe_2065
+rg	R_MCOATA	Cthe_0935
+rg	R_KAS1	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS10	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS100iso	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS11	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS12	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS13	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS130iso	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS141	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS17	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS180iso	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS2	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS3	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS4	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS5	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS6	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS7	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS8	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_KAS9	Cthe_0932 and Cthe_0933 and Cthe_0934 and Cthe_0935 and Cthe_0936 and Cthe_0937 and Cthe_0938
+rg	R_FACOAL100	Cthe_1232
+rg	R_FACOAL130	Cthe_1232
+rg	R_FACOAL140	Cthe_1232
+rg	R_FACOAL140_ISO_	Cthe_1232
+rg	R_FACOAL141	Cthe_1232
+rg	R_FACOAL150_anteiso_	Cthe_1232
+rg	R_FACOAL150_ISO_	Cthe_1232
+rg	R_FACOAL160	Cthe_1232
+rg	R_FACOAL160_ISO_	Cthe_1232
+rg	R_FACOAL161	Cthe_1232
+rg	R_FACOAL161_ISO_	Cthe_1232
+rg	R_FACOAL170_anteiso_	Cthe_1232
+rg	R_FACOAL170_ISO_	Cthe_1232
+rg	R_FACOAL171_anteiso_	Cthe_1232
+rg	R_FACOAL171_ISO_	Cthe_1232
+rg	R_FACOAL180	Cthe_1232
+rg	R_FACOAL180_ISO_	Cthe_1232
+rg	R_FACOAL181	Cthe_1232
+rg	R_ACCOAC	.
+rg	R_MTHFR3	Cthe_0099
+rg	R_DHFR	Cthe_1226
+rg	R_MTHFD	Cthe_1093
+rg	R_DHPS	Cthe_2581
+rg	R_FOLD3	Cthe_2581
+rg	R_PABB	Cthe_0874 or Cthe_0875
+rg	R_HPPK	Cthe_2583
+rg	R_AKP1	.
+rg	R_GTPCI	Cthe_2203
+rg	R_FTHFL	Cthe_2399 or Cthe_1093
+rg	R_MTHFC	Cthe_1093 or Cthe_2399
+rg	R_DHNPA	Cthe_2582
+rg	R_ADCL	.
+rg	R_PTHPS	Cthe_3106
+rg	R_DHFS	Cthe_1384
+rg	R_FTHFCL	Cthe_1295
+rg	R_GLUSy	Cthe_0197 and Cthe_0198 and Cthe_0201
+rg	R_GLUDy	Cthe_0374
+rg	R_ALATA_L	.
+rg	R_GLNTRS	Cthe_0917
+rg	R_GLNS	Cthe_0202 or Cthe_1539 or Cthe_0863
+rg	R_GLUTRS	Cthe_0648
+rg	R_HSDxi	Cthe_0290 or Cthe_1376
+rg	R_GLYAT	Cthe_0022
+rg	R_SERTRS	Cthe_2381
+rg	R_GLYTRS	Cthe_1312
+rg	R_PGCD	Cthe_3035
+rg	R_GHMT2r	Cthe_1058
+rg	R_SPTi	.
+rg	R_PSERT	Cthe_0295
+rg	R_HSK	.
+rg	R_PSP_L	.
+rg	R_THRS	Cthe_1381
+rg	R_GLCP	Cthe_0357
+rg	R_GBEZ	Cthe_2191
+rg	R_GLCS1	Cthe_1284 or Cthe_0282
+rg	R_G3PD1	Cthe_1022
+rg	R_GLYK	Cthe_2442
+rg	R_LDH_L	Cthe_1053 or Cthe_0345
+rg	R_GAPD	Cthe_0137
+rg	R_HEX1	Cthe_2938
+rg	R_PFK	Cthe_1261 or Cthe_0347
+rg	R_PYK	.
+rg	R_PGK	Cthe_0138
+rg	R_GLGC	Cthe_3167 and Cthe_3166
+rg	R_PPS	Cthe_1253
+rg	R_PEPCK	Cthe_2874
+rg	R_FBA	Cthe_0349
+rg	R_ENO	Cthe_0143
+rg	R_TPI	Cthe_0139
+rg	R_PGI	Cthe_0217
+rg	R_PGM	Cthe_0140 or Cthe_2449 or Cthe_0707 or Cthe_0946 or Cthe_1292 or Cthe_1435
+rg	R_PGMT	Cthe_1265
+rg	R_GLYCK	Cthe_1592
+rg	R_FRUK	.
+rg	R_HISTD	Cthe_2882
+rg	R_IG3PS	Cthe_2886
+rg	R_ATPPRT	Cthe_2881 and Cthe_2880
+rg	R_HSTPT	Cthe_2883 or Cthe_0610
+rg	R_HISTP	Cthe_0724
+rg	R_PRAMPC	Cthe_2889
+rg	R_PRATPP	Cthe_2889
+rg	R_HISDC	Cthe_3028
+rg	R_IGPDH	Cthe_2884
+rg	R_PRMICIi	Cthe_2887
+rg	R_HISTRS	Cthe_1332 or Cthe_2880
+rg	R_MTAP	Cthe_0622
+rg	R_MTRI	Cthe_0621
+rg	R_METS	Cthe_0645
+rg	R_FMETTRS	Cthe_0568
+rg	R_HSST	Cthe_1845
+rg	R_SHSL2r	Cthe_1559 or Cthe_2799
+rg	R_SHSL4r	Cthe_1559 or Cthe_2799
+rg	R_AHSERL	Cthe_1569 or Cthe_1842
+rg	R_AHSERL2	Cthe_1569 or Cthe_1842
+rg	R_METB1r	Cthe_1559 or Cthe_2799
+rg	R_METAT	Cthe_2251
+rg	R_AHC	Cthe_1200
+rg	R_CYSTL	Cthe_1559
+rg	R_METTRS	Cthe_2096
+rg	R_MME	Cthe_2225
+rg	R_PGLYCP	Cthe_0261 or Cthe_1191
+rg	R_DDPGA	Cthe_0699 and Cthe_0700 and Cthe_0701
+rg	R_CODH2	Cthe_2801
+rg	R_CODHr	Cthe_2801
+rg	R_H2CO3D2	spontaneous
+rg	R_H2CO3D	spontaneous
+rg	R_FDXHASE	Cthe_3003
+rg	R_NIT_n1p4	Cthe_1566 and Cthe_1565 and Cthe_1573
+rg	R_FDH2	.
+rg	R_NADH6	Cthe_3019 and Cthe_3020 and Cthe_3021 and Cthe_3022 and Cthe_3023 and Cthe_3024
+rg	R_NO3R1	.
+rg	R_PPA	Cthe_1425
+rg	R_ATPS2_i	(Cthe_2606 and Cthe_2608 and Cthe_2607 and Cthe_2605 and Cthe_2609) and (Cthe_2602 and Cthe_2604 and Cthe_2603)
+rg	R_NFO_h	Cthe_2430 and Cthe_2431 and Cthe_2432 and Cthe_2433 and Cthe_2434 and Cthe_2435
+rg	R_NFO_Na	Cthe_2430 and Cthe_2431 and Cthe_2432 and Cthe_2433 and Cthe_2434 and Cthe_2435
+rg	R_2HBO	Cthe_1053 or Cthe_0345
+rg	R_MCITS	Cthe_3027
+rg	R_ACS2	Cthe_0551
+rg	R_SPODM	Cthe_3008
+rg	R_ADK1	Cthe_2924
+rg	R_NDPK8	Cthe_0716
+rg	R_ADKd	Cthe_2924
+rg	R_GK1	Cthe_1315
+rg	R_NDPK1	Cthe_0716
+rg	R_URIDK1r	Cthe_1004
+rg	R_NDPK2	Cthe_0716
+rg	R_DGK1	Cthe_1315
+rg	R_NDPK5	Cthe_0716
+rg	R_DTMPK	Cthe_2107
+rg	R_NDPK4	Cthe_0716
+rg	R_CYTK1	Cthe_0712
+rg	R_NDPK3	Cthe_0716
+rg	R_NDPK7	Cthe_0716
+rg	R_GALU	Cthe_2183
+rg	R_UDPG4E	Cthe_0186
+rg	R_G1PTT	Cthe_2562
+rg	R_TDPGDH	Cthe_1086
+rg	R_TDPDRE	Cthe_2560 or Cthe_1366
+rg	R_UDPGDr	Cthe_1352
+rg	R_PPM2	Cthe_0677
+rg	R_TKT1	(Cthe_2443 or Cthe_2704) and (Cthe_2444 or Cthe_2705)
+rg	R_TKT2	(Cthe_2443 or Cthe_2704) and (Cthe_2444 or Cthe_2705)
+rg	R_TALA	.
+rg	R_PRPPS	Cthe_2630
+rg	R_DRPA	Cthe_1583 or Cthe_1943
+rg	R_RPE	Cthe_0576
+rg	R_RPI	Cthe_2597
+rg	R_PPM	Cthe_1265
+rg	R_HMBS	Cthe_2527
+rg	R_PPBNGS	Cthe_2529
+rg	R_UPP3S	Cthe_2528
+rg	R_UPP3MT	Cthe_2528
+rg	R_AICART	Cthe_1246
+rg	R_GLUPRT	Cthe_1249
+rg	R_IMPC	Cthe_1246
+rg	R_AIRCr	Cthe_1250
+rg	R_PRASCS	Cthe_2885
+rg	R_PRAIS	Cthe_1248
+rg	R_PRAGSr	Cthe_1245
+rg	R_PRFGS	Cthe_0554
+rg	R_NTP2	Cthe_0189
+rg	R_NTP1	Cthe_0189
+rg	R_RNTR1	Cthe_0646
+rg	R_RNTR2	Cthe_0646
+rg	R_URIDK2r	Cthe_2107
+rg	R_NTP4	Cthe_0189
+rg	R_NTP3	Cthe_0189
+rg	R_IMPD	Cthe_0681
+rg	R_RNDR1	Cthe_0053
+rg	R_RNDR2	Cthe_0053
+rg	R_PUNP1	Cthe_1201 or Cthe_1575
+rg	R_PUNP7	Cthe_1201 or Cthe_1575
+rg	R_ADSK	Cthe_2537
+rg	R_SADT	Cthe_2536 and Cthe_2537
+rg	R_ADPRDP	Cthe_0674
+rg	R_NTP3e	Cthe_0189
+rg	R_ADSS	Cthe_3093
+rg	R_GARFTi	Cthe_1247
+rg	R_GTPDPK	Cthe_1344
+rg	R_ADSL1r	Cthe_0741
+rg	R_ADSL2r	Cthe_0741
+rg	R_PUNP3	Cthe_1201 or Cthe_1575
+rg	R_PUNP5	Cthe_1201 or Cthe_1575
+rg	R_PUNP4	Cthe_1201 or Cthe_1575 or Cthe_0678
+rg	R_PUNP6	Cthe_1201 or Cthe_1575 or Cthe_0678
+rg	R_GUAD	Cthe_2515
+rg	R_GMPS	.
+rg	R_ADPT	Cthe_1345 or Cthe_2254
+rg	R_HXPRT	Cthe_2254
+rg	R_ASPCT	Cthe_0953
+rg	R_PYNP1r	Cthe_0678
+rg	R_URIK2	Cthe_0332
+rg	R_URIK3	Cthe_0332
+rg	R_YUMPS	Cthe_0988 or Cthe_2939 or Cthe_0908
+rg	R_DCTPD2	Cthe_1477
+rg	R_NTP5	Cthe_0189
+rg	R_NTP6	Cthe_0189
+rg	R_NTP7	Cthe_0189
+rg	R_NTP8	Cthe_0189
+rg	R_NTP9	Cthe_0189
+rg	R_RNTR3	Cthe_0646
+rg	R_UPPRT	Cthe_2598 or Cthe_0954
+rg	R_CYTDK2	Cthe_0332
+rg	R_DUTPDP	Cthe_2085
+rg	R_RNDR3	Cthe_0053
+rg	R_RNDR4	Cthe_0053
+rg	R_TRDR	Cthe_1945
+rg	R_TMDS	Cthe_1227
+rg	R_CYTDK1	Cthe_0332
+rg	R_ADNCYC	Cthe_2577
+rg	R_CTPS1	Cthe_1923
+rg	R_URIK1	Cthe_0332
+rg	R_DHORTS	Cthe_0952
+rg	R_OMPDC	Cthe_0951
+rg	R_CBPS	(Cthe_0950 or Cthe_1867) and Cthe_0949
+rg	R_PYNP2r	Cthe_0678
+rg	R_TMDPP	Cthe_0678
+rg	R_DCMPDA	Cthe_2599
+rg	R_CYTD	Cthe_1582 or Cthe_1068
+rg	R_DHORD10	Cthe_0948 and Cthe_0947
+rg	R_ORPT	.
+rg	R_OBTFL	Cthe_0505
+rg	R_PTA2	Cthe_1029
+rg	R_PPAKr	Cthe_1028
+rg	R_ALCD2x	Cthe_0101 or Cthe_0388 or Cthe_0394 or Cthe_0423 or Cthe_2445 or Cthe_2579
+rg	R_ME1	Cthe_0344 or (Cthe_0699 and Cthe_0700 and Cthe_0701)
+rg	R_ACALD	Cthe_0423
+rg	R_FDH	.
+rg	R_ALDD2x	Cthe_2238
+rg	R_POR2_i	(Cthe_2390 or Cthe_2794) and (Cthe_2391 or Cthe_2795) and (Cthe_2392 or Cthe_2796) and (Cthe_2393 or Cthe_2797)
+rg	R_PFL	Cthe_0505
+rg	R_PTAr	Cthe_1029
+rg	R_ACKr	Cthe_1028
+rg	R_PPDK	Cthe_1308
+rg	R_OAAdecarb	Cthe_0699 and Cthe_0700 and Cthe_0701
+rg	R_MGSA	Cthe_0095
+rg	R_ACS	Cthe_0551
+rg	R_DXPRIi	Cthe_0999
+rg	R_UDPDPS	Cthe_1001
+rg	R_FRTT	.
+rg	R_GGTT	.
+rg	R_HEXTT	.
+rg	R_PPTT	.
+rg	R_DMATT	.
+rg	R_GRTT	.
+rg	R_IPDDI	.
+rg	R_IPDPS	Cthe_0714
+rg	R_MECDPDH	Cthe_0997
+rg	R_DXPS	Cthe_0828
+rg	R_CDPMEK	Cthe_2403
+rg	R_MEPCT	Cthe_2941
+rg	R_MECDPS	Cthe_2946
+rg	R_SBTD_Dr	Cthe_0388
+rg	R_MAN6PI	Cthe_3116
+rg	R_HEX7	Cthe_0389
+rg	R_G1PCTR	Cthe_2562
+rg	R_LACZ	.
+rg	R_CDPGDH	Cthe_2561
+rg	R_PFK_2	Cthe_1261 or Cthe_0347 or Cthe_1956
+rg	R_DAPDH	Cthe_0922
+rg	R_ASAD	Cthe_0961
+rg	R_DHDPRy	Cthe_0963 or Cthe_1170
+rg	R_DAPDC	Cthe_0683
+rg	R_DHDPS	Cthe_0962
+rg	R_DAPE	Cthe_3100
+rg	R_THRTRS	Cthe_1228
+rg	R_LYSTRS	Cthe_2815
+rg	R_L_DASH_LACt4r	.
+rg	R_XANt2	.
+rg	R_FORt3	.
+rg	R_CA2abc	.
+rg	R_H2Ot	.
+rg	R_H2St	.
+rg	R_METabc	.
+rg	R_MGt5	.
+rg	R_PIabc	.
+rg	R_UREAabc	.
+rg	R_ACt2r	.
+rg	R_cellobtx	Cthe_2446 and Cthe_0393
+rg	R_cellohtx	Cthe_2446 and Cthe_0393
+rg	R_celloptx	Cthe_2446 and Cthe_0393
+rg	R_cellotettx	Cthe_2446 and Cthe_0393
+rg	R_cellottx	Cthe_2446 and Cthe_0393
+rg	R_CITt2r	.
+rg	R_CO2t	.
+rg	R_ETOHt2r	.
+rg	R_GCALDt	.
+rg	R_GLCt5	Cthe_2446 and Cthe_0393
+rg	R_FRUpts2	.
+rg	R_ILEt2r	.
+rg	R_Kabc	.
+rg	R_LEUt2r	.
+rg	R_NH4t	.
+rg	R_NMNTP	.
+rg	R_PIt2r	.
+rg	R_PNTOt2	.
+rg	R_SUCCt2r	.
+rg	R_URAt2	.
+rg	R_VALt2r	.
+rg	R_MALt2r	.
+rg	R_PROt4r	.
+rg	R_DAPabc	.
+rg	R_NO3t7	.
+rg	R_Nat1	.
+rg	R_ATPS2Na_i	.
+rg	R_Nat_4	.
+rg	R_ARBabc	(Cthe_1579 and Cthe_1580 and Cthe_1581) or (Cthe_0391 and Cthe_0392 and Cthe_0393)
+rg	R_GALabc	(Cthe_1579 and Cthe_1580 and Cthe_1581) or (Cthe_0391 and Cthe_0392 and Cthe_0393)
+rg	R_RIBabc	(Cthe_1579 and Cthe_1580 and Cthe_1581) or (Cthe_0391 and Cthe_0392 and Cthe_0393)
+rg	R_XYLabc	(Cthe_1579 and Cthe_1580 and Cthe_1581) or (Cthe_0391 and Cthe_0392 and Cthe_0393)
+rg	R_FE3abc	Cthe_1586 and Cthe_1587 and Cthe_1588
+rg	R_SULabc	Cthe_2531 and Cthe_2532 and Cthe_2533 and Cthe_2534
+rg	R_PTRCabc	Cthe_0747 and Cthe_0748 and Cthe_0749 and Cthe_0750
+rg	R_SPMDabc	Cthe_0747 and Cthe_0748 and Cthe_0749 and Cthe_0750
+rg	R_Cut1	Cthe_1848
+rg	R_H2td	.
+rg	R_PHETA1	Cthe_0755 or Cthe_2883 or Cthe_0610 or Cthe_0363
+rg	R_PACCOAL	Cthe_0615 or Cthe_2792
+rg	R_SHK3D	Cthe_0854
+rg	R_IOR	Cthe_0614
+rg	R_IOR2	Cthe_0614
+rg	R_IOR3	Cthe_0614
+rg	R_PPND	Cthe_1796
+rg	R_ANPRT	Cthe_0873
+rg	R_PSCVTi	Cthe_3086 or Cthe_1797
+rg	R_DDPA	Cthe_0880 or Cthe_1795
+rg	R_TYRTA	Cthe_0755 or Cthe_2883 or Cthe_0610 or Cthe_0363
+rg	R_SHKK	Cthe_2437 or Cthe_0731
+rg	R_AMID2	Cthe_1032
+rg	R_AMID3	Cthe_1032
+rg	R_IGPS	Cthe_0872
+rg	R_TRPS3	Cthe_1411 and (Cthe_1211 or Cthe_1412)
+rg	R_ANS	Cthe_0874 and Cthe_0875
+rg	R_DHQD	Cthe_0849
+rg	R_TRPS1	Cthe_1411 and (Cthe_1211 or Cthe_1412)
+rg	R_TRPS2	Cthe_1411 and (Cthe_1211 or Cthe_1412)
+rg	R_PPNDH	Cthe_2260
+rg	R_DHQS	Cthe_0786
+rg	R_CHORS	Cthe_0732
+rg	R_PRAI	Cthe_0871
+rg	R_CHORM	Cthe_0711
+rg	R_TYRTRS	Cthe_0723
+rg	R_TRPTRS	Cthe_0686
+rg	R_PHETRS	Cthe_0214 and Cthe_0215
+rg	R_PACCOAL2	Cthe_0615 or Cthe_2792
+rg	R_PACCOAL3	Cthe_0615 or Cthe_2792
+rg	R_AMID4	Cthe_1032
+rg	R_AGPR	Cthe_1863
+rg	R_OCBT	Cthe_1869
+rg	R_ACGS	Cthe_0081
+rg	R_ORNTAC	Cthe_0081
+rg	R_ACOTA	Cthe_1866
+rg	R_GLU5K	Cthe_1766
+rg	R_ACGK	Cthe_1864
+rg	R_AGMT	Cthe_0695
+rg	R_ARGDC	Cthe_2108 or Cthe_1918
+rg	R_ADMDCr	Cthe_0715
+rg	R_ARGSSr	Cthe_0179
+rg	R_P5CR	Cthe_0672
+rg	R_SPMS	Cthe_0694
+rg	R_ACODA	Cthe_2073
+rg	R_UREA	Cthe_1818 and Cthe_1816 and Cthe_1817
+rg	R_OMCDC	spontaneous
+rg	R_IPMD	Cthe_2209
+rg	R_KARA2	Cthe_2518
+rg	R_KARA1	Cthe_2518
+rg	R_OIVD1	.
+rg	R_OIVD2	.
+rg	R_OIVD3	.
+rg	R_ACHBS	Cthe_2517 and (Cthe_2516 or Cthe_2714)
+rg	R_ACLS	Cthe_2517 and (Cthe_2516 or Cthe_2714)
+rg	R_IPPS	Cthe_2519 or Cthe_1391
+rg	R_ILETA	Cthe_0856
+rg	R_LEUTAi	Cthe_0856
+rg	R_VALTA	Cthe_0856
+rg	R_MMCD	Cthe_0699 and Cthe_0700 and Cthe_0701
+rg	R_IPPMIa	Cthe_2210 and Cthe_2211
+rg	R_IPPMIb	Cthe_2210 and Cthe_2211
+rg	R_DHAD1	Cthe_2713
+rg	R_DHAD2	Cthe_2713
+rg	R_LEUTRS	Cthe_1237
+rg	R_ILETRS	Cthe_0787
+rg	R_VALTRS	Cthe_0324
+rg	R_PPCOAC	Cthe_0699 and Cthe_0700 and Cthe_0701
+rg	R_AOXSr	Cthe_0022
+rg	R_AMAOTr	Cthe_0025
+rg	R_BTS2	Cthe_0020 or Cthe_1839
+rg	R_BTSr	Cthe_0020 or Cthe_1839
+rg	R_BTS3r	Cthe_0020 or Cthe_1839
+rg	R_DBTSr	Cthe_0021
+rg	R_BACCL	Cthe_2585
+rg	R_ASPO5	Cthe_2355
+rg	R_PNP	Cthe_1201 or Cthe_1575
+rg	R_NAPRT	Cthe_1177
+rg	R_NNDPR	Cthe_2354
+rg	R_NADK	Cthe_0816
+rg	R_NMNATr	Cthe_1241
+rg	R_NNATr	Cthe_1241
+rg	R_NNAM	.
+rg	R_QULNS	Cthe_2356
+rg	R_NADS1	Cthe_0325
+rg	R_DPCOAK	Cthe_0885
+rg	R_PNTK	Cthe_2588
+rg	R_PPCDC	Cthe_1313
+rg	R_PPNCL3	Cthe_1313
+rg	R_MOHMT	Cthe_0902
+rg	R_PTPATi	Cthe_1276
+rg	R_PANTS	Cthe_0901
+rg	R_GLUTRR	Cthe_2525
+rg	R_ADOCBIK	Cthe_3151
+rg	R_ACBIPGT	Cthe_3151
+rg	R_ADOCBLS	Cthe_3152
+rg	R_G1SATi	Cthe_2530
+rg	R_CBIAT	Cthe_0965
+rg	R_APRAUR	Cthe_0104
+rg	R_NNDMBRT	Cthe_1297
+rg	R_RBFSb	Cthe_0105 and Cthe_0107
+rg	R_RZ5PP	Cthe_3153
+rg	R_RBFSa	Cthe_0105 and Cthe_0107
+rg	R_RBFK	Cthe_0987
+rg	R_FMNAT	Cthe_0987
+rg	R_PMDPHT	.
+rg	R_GTPCII	Cthe_0106
+rg	R_DHPPDA	Cthe_0104
+rg	R_DB4PS	.
+rg	R_TMPPP	Cthe_0601
+rg	R_TMDPK	Cthe_0577
+rg	R_OHPBAT	Cthe_0295
+rg	R_PDX5PS	.
+rg	R07392	.
+rg	R07395	.
+rg	R07364	.
+rg	R07396	.
+rg	R00700	.
+rg	R07181	.

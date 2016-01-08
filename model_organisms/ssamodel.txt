@@ -1,0 +1,1465 @@
+#exchanges:
+glc-D[c]	-1000.0	0.0
+nac[c]	-1000	0
+pnto-R[c]	-1000	0
+pi[c]	-1000.0	0.0
+nh4[c]	-1000.0	1000
+h2o[c]	-1000.0	1000.0
+co2[c]	-1000	1000.0
+lac-L[c]	0.0	1000.0
+ac[c]	0.0	1000.0
+pyr[c]	0.0	1000.0
+etoh[c]	0.0	1000.0
+for[c]	0.0	1000.0
+fum[c]	0	1000
+h[c]	0	1000.0
+met-L[c]	-1000	0
+cys-L[c]	-1000	0
+nadph[c]	0	1000
+gcald[c]	0	1000
+#gprs:
+rg	R04949	SSA_1149
+rg	R04945	SSA_1737
+rg	R04944	SSA_1737
+rg	R04946	SSA_1737
+rg	R_IPPMIb	SSA_0981,SSA_0980
+rg	R03966	SSA_1150
+rg	R_ALR2	SSA_1386
+rg	R04640	SSA_1443
+rg	R_ALATRS	SSA_0756
+rg	R_ACCOAC	SSA_1934,SSA_1931,SSA_1930,SSA_1932
+rg	R_ETHAAL	SSA_0518,SSA_0519,SSA_0520
+rg	R_PTPAT	SSA_0625
+rg	R04467	SSA_0023
+rg	R_DHDPS	SSA_1193
+rg	R_GHMT2r	SSA_1155
+rg	R00428	SSA_0199
+rg	R_SERAT	SSA_2048
+rg	R_PSP_L	SSA_0882,SSA_0508
+rg	R_UAG2E	SSA_0178
+rg	R06447	SSA_2073
+rg	R01645	SSA_0286
+rg	R01641	SSA_2075
+rg	R04544	SSA_1933
+rg	R_ADCPS2	SSA_0464
+rg	R_FTHFLi	SSA_0671,SSA_0432,SSA_1200
+rg	R04543	SSA_1936,SSA_1650
+rg	R_FA120ACPH	SSA_1076
+rg	R_PRFGS	SSA_0030
+rg	R_ASAD	SSA_1194
+rg	R04393	SSA_1693,SSA_1694
+rg	R_PUNP7	SSA_1258,SSA_1259
+rg	R_PYNP1	SSA_1035
+rg	R_NP1	SSA_1258,SSA_1259
+rg	R_PNP	SSA_1258,SSA_1259
+rg	R_MCLOR	SSA_1221
+rg	R05549	SSA_0419,SSA_1002
+rg	R_TYRTAp	SSA_1449,SSA_0510
+rg	R_ILL_R00377	SSA_0100,SSA_0997,SSA_0002,SSA_0846,SSA_2066,SSA_1721,SSA_0720
+rg	R06895	SSA_1075
+rg	R_ILL_R00375	SSA_0100,SSA_0997,SSA_0002,SSA_0846,SSA_2066,SSA_1721,SSA_0720
+rg	R_HISDr	SSA_0429
+rg	R02780	SSA_1752,SSA_1809
+rg	R_UAMAGS	SSA_0652
+rg	R_DGK1	SSA_1851
+rg	R03544	SSA_1386
+rg	R03545	SSA_1386
+rg	R_GCCcm	SSA_1137,SSA_1174
+rg	R02814	SSA_1076
+rg	R02786	SSA_1739
+rg	R_PSCVT	SSA_1464
+rg	R_METB1	SSA_1737
+rg	R03355	SSA_0053,SSA_0271
+rg	R_NNAMrm	SSA_0567
+rg	R_ARGDr	SSA_0737
+rg	R_SHSL4r	SSA_1737
+rg	R_4HTHRS	SSA_0095
+rg	R_OHPBAT	SSA_1715
+rg	R00491	SSA_0042
+rg	R_THRD_Lm	SSA_1967
+rg	R00994	SSA_0977
+rg	R02071	SSA_1081
+rg	R_ACGSm	SSA_0758
+rg	R_AMANK	SSA_0079
+rg	R_GLNS	SSA_0307
+rg	R00967	SSA_0966,SSA_0105
+rg	R_UPPRT	SSA_1732,SSA_1345
+rg	R_OMPDC	SSA_1241
+rg	R_URIK1	SSA_0966,SSA_0105
+rg	R_NTD2	SSA_1234
+rg	R00962	SSA_0966,SSA_0105
+rg	R_G1SATi	SSA_0488
+rg	R_G3PD2	SSA_2168
+rg	R00846	SSA_1827
+rg	R_GLYKm	SSA_1826
+rg	R_G3PD1	SSA_2168
+rg	R_URIK2	SSA_0966,SSA_0105
+rg	R_ADPT	SSA_1421
+rg	R03921	SSA_0455
+rg	R_AHCYSNS	SSA_1639
+rg	R07764	SSA_1933
+rg	R07765	SSA_1938
+rg	R03929	SSA_0243
+rg	R07762	SSA_1935
+rg	R07763	SSA_1936,SSA_1650
+rg	R_VALTAm	SSA_1225
+rg	R_ECOAH4	SSA_1942
+rg	R_IPPSm	SSA_0975
+rg	R06927	SSA_0068,SSA_0921,SSA_1917
+rg	R_MI4PP	SSA_0939
+rg	R_MI3PP	SSA_0939
+rg	R_MI1PP	SSA_0939
+rg	R02630	SSA_1920,SSA_1919,SSA_0055,SSA_0054,SSA_0057,SSA_0056,SSA_1918,SSA_0220,SSA_0221
+rg	R_ACNML	SSA_0078
+rg	R_GTPDPK	SSA_1795,SSA_1210,SSA_0250
+rg	R08310	SSA_0068,SSA_0921,SSA_1917
+rg	R_GRTT	SSA_0676
+rg	R_PMANM	SSA_1204
+rg	R01819	SSA_0781
+rg	R_MTHFR2	SSA_0417
+rg	R_ARGSS	SSA_2142
+rg	R07461	SSA_1058
+rg	R07460	SSA_1057,SSA_1954,SSA_1213
+rg	R04939	SSA_1459,SSA_1829,SSA_0940
+rg	R_PMPK	SSA_2001
+rg	R_RAFH	SSA_0455
+rg	R_SHK3Dr	SSA_1469
+rg	R_SHKK	SSA_1463
+rg	R07302	SSA_0464
+rg	R04111	SSA_1809
+rg	R_TRPS2	SSA_0637,SSA_0631
+rg	R_UAG2EMAi	SSA_0178
+rg	R_NADK	SSA_1209
+rg	R_PUNP2	SSA_1258,SSA_1259
+rg	R_PRASCS	SSA_0028
+rg	R06363	SSA_0012
+rg	R_RZ5PP	SSA_0491
+rg	R01049	SSA_0020,SSA_1212
+rg	R01048	SSA_0533,SSA_0536,SSA_0535
+rg	R01325	SSA_0702
+rg	R_EPMGH	SSA_0419,SSA_1002
+rg	R01047	SSA_0533,SSA_0536,SSA_0535
+rg	R_TYRTRSm	SSA_0174
+rg	R02912	SSA_1459,SSA_1829,SSA_0940
+rg	R_URCN	SSA_0435
+rg	R_T2M26DCOAHLx	SSA_1942
+rg	R03256	SSA_1692
+rg	R_PPBNGS	SSA_0487
+rg	R_C2M26DCOAHLx	SSA_1942
+rg	R_FTHFCL	SSA_2171
+rg	R_FTCD	SSA_0433,SSA_0434
+rg	R01600	SSA_1090
+rg	R01602	SSA_0062
+rg	R05046	SSA_0199
+rg	R_ADSS	SSA_2185
+rg	R_HXPRT	SSA_0014
+rg	R_IMPD	SSA_2374
+rg	R01138	SSA_0848
+rg	R_PFL	SSA_0285,SSA_0342
+rg	R_ME1	SSA_0297
+rg	R01786	SSA_1090
+rg	R_ME2	SSA_0297
+rg	R01421	SSA_1791
+rg	R_GLYCDx	SSA_0287
+rg	R_GPDDA1	SSA_1649,SSA_0325
+rg	R_IGPDH	SSA_1445
+rg	R08163	SSA_1076
+rg	R_PRO1x	SSA_1074
+rg	R02984	SSA_2219,SSA_1010
+rg	R_PPNCL2	SSA_1201
+rg	R_PPNCL3	SSA_1201
+rg	R_G6PI2	SSA_2183
+rg	R_UAGCVT	SSA_1494,SSA_0791
+rg	R_PTA2	SSA_1207
+rg	R02235	SSA_1092
+rg	R_DHFS	SSA_0198,SSA_2237
+rg	R07831	SSA_0916
+rg	R_ADOCBLS	SSA_0490
+rg	R05177	SSA_0465,SSA_0466
+rg	R_ADOCBIK	SSA_0489
+rg	R04724	SSA_1938
+rg	R_ADCYRS	SSA_0481
+rg	R04726	SSA_1935
+rg	R_CPC8MM	SSA_0465,SSA_0466
+rg	R03634	SSA_0419,SSA_1002
+rg	R03635	SSA_0455
+rg	R_PAPPT3	SSA_1870
+rg	R_MEPCT	SSA_2214
+rg	R_GLAl	SSA_0419,SSA_1002
+rg	R02775	SSA_1410
+rg	R_TDPDRR	SSA_0858
+rg	R04394	SSA_1809
+rg	R01858	SSA_0848
+rg	R_RNTR3	SSA_2230
+rg	R_DHORTSn	SSA_1235
+rg	R_GALTi	SSA_1009
+rg	R_RNTR4	SSA_2230
+rg	R_ILL_R02120	SSA_0613
+rg	R00811	SSA_0456
+rg	R04805	SSA_0068,SSA_0921,SSA_1917
+rg	R_ECOAH1	SSA_1942
+rg	R03189	SSA_0434
+rg	R_ANS2	SSA_0633,SSA_0632
+rg	R_ILL_R00439	SSA_2049
+rg	R_ILL_R00438	SSA_2049
+rg	R08221	SSA_1037
+rg	R00430	SSA_0848
+rg	R_ILL_R00435	SSA_0176,SSA_0132,SSA_0177,SSA_1850,SSA_1996
+rg	R_ILL_R00437	SSA_2049
+rg	R01678	SSA_0053,SSA_0271
+rg	R04386	SSA_1934,SSA_1931,SSA_1930,SSA_1932
+rg	R04385	SSA_1932
+rg	R03898	SSA_0981,SSA_0980
+rg	R03896	SSA_0981,SSA_0980
+rg	R_TRPS3	SSA_0638
+rg	R04572	SSA_0692
+rg	R04573	SSA_0692
+rg	R_ALAD_L	SSA_1615
+rg	R04470	SSA_0419,SSA_1002
+rg	R_TDPGDH	SSA_1409
+rg	R_TDPDRE	SSA_1410
+rg	R_GGLGH	SSA_0419,SSA_1002
+rg	R_AGDC_r	SSA_1893
+rg	R_PGK	SSA_0302
+rg	R_PYDXK	SSA_1400
+rg	R_PGPPT	SSA_2368
+rg	R_METAT	SSA_1495
+rg	R_HPROxm	SSA_1074
+rg	R_ADCL	SSA_0413
+rg	R_HPROym	SSA_1074
+rg	R_FT	SSA_2073
+rg	R_GLYCK	SSA_0883
+rg	R05071	SSA_1968
+rg	R_GLUPRT	SSA_0031
+rg	R_ANPRT	SSA_0634
+rg	R01070	SSA_1992
+rg	R_PSSA_HP	SSA_1013
+rg	R02785	SSA_1739
+rg	R_BACCLm	SSA_0999
+rg	R03527	SSA_1149
+rg	R_UAAGDS	SSA_0801
+rg	R07035	SSA_1523
+rg	R_ACKr	SSA_0192,SSA_0541
+rg	R_ACYP_2	SSA_1791
+rg	R_FCLTm	SSA_1321
+rg	R_PPNDH	SSA_1462
+rg	R04378	SSA_1421
+rg	R_ANS	SSA_0633,SSA_0632
+rg	R_HSK	SSA_1044
+rg	R_HSDxi	SSA_1043
+rg	R_UPP3S	SSA_0486,SSA_0474
+rg	R_HSDy	SSA_1043
+rg	R_HSST	SSA_1420
+rg	R_ILL_UNK	SSA_0033
+rg	R_RBP4E	SSA_2088
+rg	R01291	SSA_1853
+rg	R_SDPDS	SSA_0589
+rg	R_PGM	SSA_2016,SSA_2015,SSA_0688,SSA_1528
+rg	R02736	SSA_1555
+rg	R02733	SSA_2173
+rg	R_RBFK	SSA_0936
+rg	R_PGCD	SSA_2085,SSA_1713
+rg	R_ILL_R01105	SSA_0053,SSA_0271
+rg	R02738	SSA_1809
+rg	R_RAFGH	SSA_0419,SSA_1002
+rg	R_DHAD2m	SSA_2286
+rg	R_GALS3	SSA_0419,SSA_1002
+rg	R00268	SSA_0704
+rg	R01899	SSA_0704
+rg	R_ECOAH9m	SSA_1942
+rg	R_NTD6	SSA_1234
+rg	R_GLUR	SSA_1784
+rg	R_AMANAPE	SSA_0071
+rg	R_2HBO	SSA_1221
+rg	R_HMGCOAR	SSA_0337
+rg	R_PRAIS	SSA_0032
+rg	R_AIRCr	SSA_0040,SSA_0039
+rg	R_DAGK_EC	SSA_1612
+rg	R02241	SSA_0713
+rg	R_MEVK1	SSA_0333
+rg	R_FA140ACPH	SSA_1076
+rg	R_DHNPAm	SSA_0200
+rg	R_NTD7e	SSA_1234
+rg	R07671	SSA_2093,SSA_2092,SSA_2091
+rg	R07677	SSA_2076
+rg	R_UGMDDS	SSA_0692
+rg	R_NADS1	SSA_1863
+rg	R07772	SSA_0471
+rg	R07771	SSA_1173
+rg	R07770	SSA_1173
+rg	R07775	SSA_0469
+rg	R07774	SSA_0468
+rg	R03062	SSA_0070
+rg	R01163	SSA_1446
+rg	R01209	SSA_2286
+rg	R_DHPSm	SSA_0197
+rg	R_GALIGH	SSA_0419,SSA_1002
+rg	R_VALTRSm	SSA_1819
+rg	R_TRPTRS	SSA_2375
+rg	R05180	SSA_0472
+rg	R05181	SSA_0470
+rg	R_NTD8	SSA_1234
+rg	R_PUNP4	SSA_1258,SSA_1259
+rg	R_THRTRSm	SSA_1571
+rg	R_SERTRS	SSA_1925
+rg	R_RNTR1	SSA_2230
+rg	R_RNDR1	SSA_0770,SSA_0768
+rg	R_TRDRm	SSA_1865,SSA_0813
+rg	R08306	SSA_0068,SSA_0921,SSA_1917
+rg	R_RNDR2	SSA_0770,SSA_0768
+rg	R_RNDR4n	SSA_0770,SSA_0768
+rg	R04859	SSA_0855,SSA_1839
+rg	R04858	SSA_1812
+rg	R04534	SSA_1936,SSA_1650
+rg	R04535	SSA_1933
+rg	R04536	SSA_1936,SSA_1650
+rg	R04537	SSA_1933
+rg	R06558	SSA_0489
+rg	R04533	SSA_1936,SSA_1650
+rg	R05048	SSA_0199
+rg	R_UAMAS	SSA_1800
+rg	R_NMNATn	SSA_0578,SSA_2195
+rg	R_DPCOAKm	SSA_1606
+rg	R_H2CO3D	SSA_2154
+rg	R_UAPGR	SSA_1047
+rg	R_PPAKr	SSA_0192,SSA_0541
+rg	R_ILL_R02421	SSA_0778
+rg	R_OBTFL	SSA_0285,SSA_0342
+rg	R_PNTK	SSA_1033
+rg	R03012	SSA_1446
+rg	R_ILL_R00440	SSA_2049
+rg	R_ILL_R00441	SSA_0176,SSA_0132,SSA_0177,SSA_1850,SSA_1996
+rg	R_ILL_R00442	SSA_0176,SSA_0132,SSA_0177,SSA_1850,SSA_1996
+rg	R_ILL_R00443	SSA_0176,SSA_0132,SSA_0177,SSA_1850,SSA_1996
+rg	R04391	SSA_1033
+rg	R_FBP	SSA_1056
+rg	R_G6PDA	SSA_0746
+rg	R_NAPRT	SSA_1864
+rg	R01900	SSA_0702
+rg	R_SHCHF	SSA_0483
+rg	R_FA160ACPH	SSA_1076
+rg	R_MHPGLUT	SSA_0416
+rg	R_HSTPT	SSA_1449,SSA_0510
+rg	R_GAL6PI	SSA_1698,SSA_1699
+rg	R_PMEVK	SSA_0335
+rg	R_X5PL3E	SSA_2089
+rg	R02332	SSA_0966,SSA_0105
+rg	R_PRATPP	SSA_1440
+rg	R_PRAMPC	SSA_1441
+rg	R_TDPm	SSA_1783
+rg	R_DHQD	SSA_1470
+rg	R_TMDPPK	SSA_2118
+rg	R_DHQS	SSA_1468
+rg	R_FOLR2	SSA_1092
+rg	R_TMDPK	SSA_2118
+rg	R05032	SSA_0653
+rg	R05033	SSA_0307
+rg	R05030	SSA_0307
+rg	R_GLGC	SSA_0776,SSA_0777
+rg	R_ACBIPGT	SSA_0489
+rg	R05133	SSA_0383,SSA_0395
+rg	R05132	SSA_1809
+rg	R_SHCHD2	SSA_0483
+rg	R00940	SSA_1092
+rg	R05135	SSA_0243
+rg	R05134	SSA_0383,SSA_0395
+rg	R_PPC	SSA_1521
+rg	R_ACALDi	SSA_0068
+rg	R_DASYNm_SC	SSA_2072
+rg	R_ACLS	SSA_1970,SSA_1969
+rg	R_SERD_Lr	SSA_2361,SSA_1967,SSA_2362
+rg	R_GARFT	SSA_0033
+rg	R06917	SSA_0068,SSA_0921,SSA_1917
+rg	R_AGPR	SSA_0757
+rg	R_FOLD3m	SSA_0197
+rg	R_ILL_R04241	SSA_0198,SSA_2237
+rg	R_PFK_2	SSA_0847,SSA_1697
+rg	R03237	SSA_0847
+rg	R03234	SSA_1386
+rg	R03232	SSA_1082
+rg	R03238	SSA_0847
+rg	R03239	SSA_0847
+rg	R05627	SSA_1959
+rg	R05961	SSA_0419,SSA_1002
+rg	R05963	SSA_1144,SSA_1065
+rg	R05629	SSA_1870
+rg	R05628	SSA_1870
+rg	R_PUNP1m	SSA_1258,SSA_1259
+rg	R_3NTD7l	SSA_0243
+rg	R_TMDK1m	SSA_1151
+rg	R_NTD5l	SSA_1234
+rg	R05145	SSA_0999
+rg	R_ACGK	SSA_0759
+rg	R_ATPPRT	SSA_1447,SSA_1448
+rg	R_LEUTAm	SSA_1225
+rg	R_ILL_R02887	SSA_1149
+rg	R_GALK	SSA_1008
+rg	R08238	SSA_0014
+rg	R05815	SSA_0463
+rg	R02110	SSA_0775
+rg	R02111	SSA_0779,SSA_2265
+rg	R05810	SSA_0470
+rg	R00867	SSA_0457
+rg	R_CPC6R	SSA_0473
+rg	R07034	SSA_1523
+rg	R04812	SSA_1386
+rg	R04810	SSA_1386
+rg	R_PSD_SA	SSA_1014
+rg	R08244	SSA_1163
+rg	R08245	SSA_0014
+rg	R_PRAGS	SSA_0037
+rg	R08240	SSA_2374
+rg	R_PROTRS	SSA_2069
+rg	R_PHETRSm	SSA_0912,SSA_0914
+rg	R03050	SSA_1970,SSA_1969
+rg	R04780	SSA_1056
+rg	R06942	SSA_1942
+rg	R_FMETTRS	SSA_1848
+rg	R04440	SSA_1968
+rg	R03191	SSA_1047
+rg	R03943	SSA_1459,SSA_1829,SSA_0940
+rg	R_UPP3MT	SSA_0474
+rg	R_P5CR	SSA_1074
+rg	R_ALAR	SSA_0548
+rg	R08233	SSA_1151
+rg	R08232	SSA_0966,SSA_0105
+rg	R08231	SSA_1240
+rg	R08237	SSA_0014
+rg	R04558	SSA_1444,SSA_1442
+rg	R01830	SSA_2075
+rg	R07773	SSA_0467
+rg	R_ADSL2r	SSA_0046
+rg	R_ACLDC	SSA_0901
+rg	R02739	SSA_2183
+rg	R_DHAD1	SSA_2286
+rg	R02947	SSA_0901
+rg	R04568	SSA_1933
+rg	R04566	SSA_1936,SSA_1650
+rg	R02370	SSA_0243
+rg	R02371	SSA_0966,SSA_0105
+rg	R02372	SSA_0966,SSA_0105
+rg	R_AICART	SSA_0035
+rg	R_FMNATm	SSA_0936
+rg	R04963	SSA_1935
+rg	R_ENO	SSA_0886
+rg	R04961	SSA_1938
+rg	R04960	SSA_1935
+rg	R04966	SSA_1938
+rg	R04965	SSA_1933
+rg	R04964	SSA_1936,SSA_1650
+rg	R_NNDMBRT	SSA_0512
+rg	R_HCYSMT	SSA_1096
+rg	R04969	SSA_1938
+rg	R04968	SSA_1935
+rg	R_GAPD	SSA_2108
+rg	R_GAPD_LPAREN_nadp_RPAREN_	SSA_2108
+rg	R_TKT2	SSA_2075
+rg	R_DRPA	SSA_1036
+rg	R_TGBPA	SSA_0061,SSA_1696
+rg	R_FBA	SSA_1992
+rg	R07807	SSA_0053,SSA_0271
+rg	R03601	SSA_1839
+rg	R06004	SSA_1144,SSA_1065
+rg	R01172	SSA_0068
+rg	R_THDPS	SSA_2174
+rg	R_CYTK2n	SSA_1501
+rg	R_NTD3l	SSA_1234
+rg	R_DCMPDA	SSA_1497
+rg	R03270	SSA_1178,SSA_1139,SSA_1138,SSA_1176
+rg	R_DURIPP	SSA_1258,SSA_1259
+rg	R_DCYTD	SSA_1037
+rg	R05100	SSA_0916
+rg	R_SHSL2r	SSA_1737
+rg	R05662	SSA_0653
+rg	R_AHSERL2	SSA_0855
+rg	R_GND	SSA_1811
+rg	R_RPE	SSA_2119
+rg	R02323	SSA_1234
+rg	R_TRPS1	SSA_0637,SSA_0631,SSA_0638
+rg	R_GTHPe	SSA_1523
+rg	R05069	SSA_1968
+rg	R05068	SSA_1968
+rg	R01880	SSA_0966,SSA_0105
+rg	R_CBPSn	SSA_1342,SSA_1341
+rg	R_CTPS1	SSA_1994
+rg	R_CTPS2	SSA_1994
+rg	R03537	SSA_0243
+rg	R_DURIK1m	SSA_1151
+rg	R_URIDK2m	SSA_1722
+rg	R_ILL_R00378	SSA_0100,SSA_0997,SSA_0002,SSA_0846,SSA_2066,SSA_1721,SSA_0720
+rg	R04212	SSA_0569,SSA_0570,SSA_0571
+rg	R_ILL_R00376	SSA_0100,SSA_0997,SSA_0002,SSA_0846,SSA_2066,SSA_1721,SSA_0720
+rg	R_DTMPK	SSA_1722
+rg	R02097	SSA_0966,SSA_0105
+rg	R02096	SSA_0966,SSA_0105
+rg	R02091	SSA_0966,SSA_0105
+rg	R03538	SSA_0243
+rg	R_GLUTRR	SSA_0484
+rg	R04746	SSA_1942
+rg	R08367	SSA_0219
+rg	R08366	SSA_0219
+rg	R_ECOAH6p	SSA_1942
+rg	R_GLNTRAT	SSA_0569,SSA_0570,SSA_0571
+rg	R_DNMPPA	SSA_0239,SSA_0665
+rg	R_ECOAH2	SSA_1942
+rg	R_ILL_R05196	SSA_2266
+rg	R_GMPS	SSA_1163
+rg	R_GMPS2	SSA_1163
+rg	R_ILL_R00887	SSA_1509,SSA_1510,SSA_0856
+rg	R_LYSTRS	SSA_1529
+rg	R_METTRS	SSA_1703
+rg	R_CYSTRS	SSA_2044
+rg	R_GLUTRS_LPAREN_Gln_RPAREN_	SSA_2144
+rg	R_HMGCOASm	SSA_0338
+rg	R_GLYTRS	SSA_1879,SSA_1880
+rg	R_HISTRS	SSA_2284
+rg	R_ILETRS	SSA_0661
+rg	R_LEUTRS	SSA_0289
+rg	R_RNTR2	SSA_2230
+rg	R01159	SSA_1459,SSA_1829,SSA_0940
+rg	R_CYTD	SSA_1037
+rg	R_GALUi	SSA_2169
+rg	R_RNDR3	SSA_0770,SSA_0768
+rg	R02026	SSA_1737,SSA_0855
+rg	R_ORPT	SSA_1240
+rg	R01877	SSA_0243
+rg	R04488	SSA_0916
+rg	R04958	SSA_1938
+rg	R_THRS	SSA_0095
+rg	R04952	SSA_1935
+rg	R04953	SSA_1936,SSA_1650
+rg	R04951	SSA_0955
+rg	R04957	SSA_1935
+rg	R04954	SSA_1933
+rg	R04955	SSA_1938
+rg	R_LGTHL	SSA_0962
+rg	R_ADK1	SSA_0128
+rg	R05332	SSA_1642
+rg	R_ECOAH12m	SSA_1942
+rg	R_HMBS	SSA_0485
+rg	R_ATPM	SSA_1783
+rg	R04137	SSA_1942
+rg	R_ALCD2if	SSA_0068,SSA_0921,SSA_1917
+rg	R02508	SSA_1737
+rg	R_NNATn	SSA_0578,SSA_2195
+rg	R_PHETA1	SSA_1449,SSA_0510
+rg	R00691	SSA_1462
+rg	R_CLPNS_EC	SSA_2234
+rg	R_SERHL	SSA_2361,SSA_2362
+rg	R01901	SSA_2082
+rg	R_DAPDC	SSA_1787
+rg	R_PYDXNK	SSA_1400
+rg	R02971	SSA_1033
+rg	R_DMATT	SSA_0676
+rg	R_MTHFCm	SSA_0671,SSA_0432,SSA_1200
+rg	R03920	SSA_0457
+rg	R02327	SSA_0966,SSA_0105
+rg	R_IZPN	SSA_0436
+rg	R_IPPMIa	SSA_0981,SSA_0980
+rg	R02320	SSA_0848
+rg	R_FGLU	SSA_0428
+rg	R_GluForTx	SSA_0434
+rg	R_ICDHyr	SSA_0704
+rg	R_ORNTACim	SSA_0758
+rg	R_ACOTA	SSA_0760
+rg	R07809	SSA_1144,SSA_1065
+rg	R_PTAr	SSA_1207
+rg	R_CBMK	SSA_0739
+rg	R_GF6PTA	SSA_2107
+rg	R00014	SSA_1178,SSA_1970,SSA_1969,SSA_1139,SSA_1138,SSA_1176
+rg	R_UMPK	SSA_1501,SSA_1620
+rg	R00623	SSA_0068,SSA_0921,SSA_1917
+rg	R03132	SSA_1737,SSA_1839
+rg	R_MCOATA	SSA_1937
+rg	R01625	SSA_0547
+rg	R_ACOATAm	SSA_1940,SSA_2346
+rg	R_ALAALAr	SSA_0691
+rg	R_MTAN	SSA_1639
+rg	R_PPS	SSA_1012,SSA_1016
+rg	R05027	SSA_0653
+rg	R_URIK3	SSA_0966,SSA_0105
+rg	R05028	SSA_0307
+rg	R_GK1	SSA_1851
+rg	R_GLU5Km	SSA_1072
+rg	R_ASPCTn	SSA_1343
+rg	R01395	SSA_0739
+rg	R_DHAK	SSA_0050,SSA_0049
+rg	R_OCBT	SSA_0738
+rg	R_TPI	SSA_0859
+rg	R_ILETA	SSA_1225
+rg	R_ILL_R00890	SSA_1509,SSA_1510,SSA_0856
+rg	R_MCITS	SSA_0703
+rg	R_ADCS	SSA_0413
+rg	R_CHORM	SSA_1268
+rg	R_CHORS	SSA_1467
+rg	R_UGCG	SSA_1324
+rg	R_NT5C	SSA_1234
+rg	R_GPDDA2	SSA_1649,SSA_0325
+rg	R_G1PTT	SSA_1411
+rg	R_ASNNr	SSA_0551
+rg	R03616	SSA_0053,SSA_0271
+rg	R_ASPK	SSA_1943
+rg	R05150	SSA_0473
+rg	R_PGLYCP	SSA_2363
+rg	R02718	SSA_2332,SSA_2334
+rg	R_NTD10	SSA_1234
+rg	R_PGAMT	SSA_0804
+rg	R_GLUDym	SSA_0371
+rg	R_ARGSL	SSA_2141
+rg	R_ADSL1	SSA_0046
+rg	R_GLUDx	SSA_0371
+rg	R05807	SSA_0475
+rg	R_ILL_R02108	SSA_1024,SSA_0453
+rg	R_ILL_R00879	SSA_2023
+rg	R_CPC3MT	SSA_0472
+rg	R_CPC2MT	SSA_0476
+rg	R_TMDS	SSA_1091
+rg	R_DUTPDPn	SSA_2160
+rg	R08559	SSA_1809
+rg	R04673	SSA_1970,SSA_1969
+rg	R04672	SSA_1970,SSA_1969
+rg	R07759	SSA_1936,SSA_1650
+rg	R06371	SSA_0916
+rg	R_ECOAH5	SSA_1942
+rg	R_PSERT	SSA_1715
+rg	R07618	SSA_1137,SSA_1174
+rg	R_PRPNCOAHYDm	SSA_1942
+rg	R03599	SSA_1954
+rg	R04778	SSA_0858
+rg	R04779	SSA_0847
+rg	R04773	SSA_1703
+rg	R_SELMETAT	SSA_1495
+rg	R00416	SSA_1642
+rg	R_ARGTRS	SSA_2262
+rg	R_DDPAm	SSA_0546,SSA_0544
+rg	R_THRPD	SSA_0510
+rg	R_FBA3	SSA_1992
+rg	R_AMPTASECG	SSA_0955
+rg	R_NTD9l	SSA_1234
+rg	R05570	SSA_2084
+rg	R_ASPTRS	SSA_0568,SSA_2270
+rg	R_GLUTRS	SSA_2144
+rg	R_MTHFR3	SSA_0417
+rg	R02569	SSA_1140,SSA_1175
+rg	R_FBA2	SSA_1992
+rg	R_THFGLUS	SSA_0198,SSA_2237
+rg	R_ACODA	SSA_0587
+rg	R_GTHOm	SSA_1533
+rg	R_ASNTRSm	SSA_1377
+rg	R_LDH_Lm	SSA_1221
+rg	R01058	SSA_0774
+rg	R_PPND	SSA_1466
+rg	R01054	SSA_1641
+rg	R01056	SSA_1261
+rg	R01057	SSA_1260
+rg	R_IPMD	SSA_0977
+rg	R_KAS14	SSA_1935,SSA_1940,SSA_2346
+rg	R06010	SSA_0053,SSA_0271
+rg	R_MELTGH	SSA_0419,SSA_1002
+rg	R04428	SSA_1933
+rg	R04429	SSA_1938
+rg	R00026	SSA_1149
+rg	R00022	SSA_1144,SSA_1065
+rg	R00006	SSA_1970,SSA_1969
+rg	R04198	SSA_1085
+rg	R_DHDPRy	SSA_1085
+rg	R_PPCDC	SSA_1202
+rg	R_SHSL1	SSA_1737
+rg	R_PYDAMK	SSA_1400
+rg	R07810	SSA_1144,SSA_1065
+rg	R_PPM2	SSA_1260
+rg	R00802	SSA_0455
+rg	R00803	SSA_1006
+rg	R_PUNP6	SSA_1258,SSA_1259
+rg	R_PYK	SSA_0848
+rg	R_PPDK	SSA_1053
+rg	R00207	SSA_0391
+rg	R_DPMVD	SSA_0334
+rg	R_IPDDI	SSA_0336
+rg	R_NTD11	SSA_1234
+rg	R_IMPC	SSA_0035
+rg	R_XPPT	SSA_0014,SSA_1134
+rg	R_HPPKm	SSA_0200
+rg	R_PUNP3	SSA_1258,SSA_1259
+rg	R03508	SSA_0635
+rg	R03509	SSA_0636
+rg	R02148	SSA_0243
+rg	R_DHFRim	SSA_1092
+rg	R_G5SD	SSA_1073
+rg	R00936	SSA_1092
+rg	R00937	SSA_1092
+rg	R_TRE6PH	SSA_1751
+rg	R05234	SSA_0068,SSA_0921,SSA_1917
+rg	R04639	SSA_0199
+rg	R_DNTPPA	SSA_0239,SSA_0665
+rg	R_34DHOXPEGOX	SSA_0068,SSA_0921,SSA_1917
+rg	R05233	SSA_0068,SSA_0921,SSA_1917
+rg	R07127	SSA_2082
+rg	R_ECOAH7	SSA_1942
+rg	R07125	SSA_2090
+rg	R_DADK	SSA_0128
+rg	R03643	SSA_0047
+rg	R_GUAPRT	SSA_0014,SSA_1421,SSA_1134
+rg	R_CYSSr	SSA_1839
+rg	R_GLUCYS	SSA_2186
+rg	R_PGLer	SSA_0891
+rg	R01548	SSA_0966,SSA_0105
+rg	R01549	SSA_0966,SSA_0105
+rg	R08281	SSA_0068,SSA_0921,SSA_1917
+rg	R03051	SSA_1968
+rg	R02740	SSA_2183
+rg	R_MTHFD	SSA_0671
+rg	R02689	SSA_1574
+rg	R00516	SSA_0966,SSA_0105
+rg	R_CYTDK2	SSA_0966,SSA_0105
+rg	R_CYTK1	SSA_1501
+rg	R_CYTDK1	SSA_0966,SSA_0105
+rg	R_NTD4l	SSA_1234
+rg	R_HEX1	SSA_1090
+rg	R_ILL_UNK	SSA_0268,SSA_0269,SSA_2167,SSA_0479,SSA_1809,SSA_1048,SSA_0602,SSA_1568,SSA_0773,SSA_1566,SSA_1567,SSA_1082,SSA_0375,SSA_0376,SSA_2165,SSA_1763,SSA_0379,SSA_2084,SSA_2365,SSA_2367,SSA_2366,SSA_0871,SSA_0870,SSA_0386,SSA_0282,SSA_0283,SSA_0284,SSA_1694,SSA_2093,SSA_2092,SSA_2091,SSA_1005,SSA_1004,SSA_1003,SSA_0219,SSA_0055,SSA_0054,SSA_0057,SSA_0056,SSA_1744,SSA_1742,SSA_1743,SSA_0215,SSA_1990,SSA_0987,SSA_0986,SSA_0456,SSA_1919,SSA_1918,SSA_1050,SSA_1051,SSA_2040,SSA_1752,SSA_1693,SSA_0222,SSA_0220,SSA_0221,SSA_1298,SSA_1299,SSA_1920,SSA_1741,SSA_0136,SSA_0137,SSA_0138,SSA_1725,SSA_1726,SSA_1727,SSA_1728,SSA_1729,SSA_1375,SSA_1300,SSA_1049,SSA_2351,SSA_2352,SSA_2353,SSA_1944,SSA_1945,SSA_1946,SSA_1947,SSA_1146,SSA_1147,SSA_1148,SSA_0270,SSA_0945,SSA_0944,SSA_0943,SSA_0942,SSA_0941,SSA_0603
+rg	R_UDPG4E	SSA_2219,SSA_1010
+rg	R_PUNP5	SSA_1258,SSA_1259
+rg	R_DHORD	SSA_1242,SSA_0373
+rg	R_CLS_hs	SSA_2234
+rg	R_BIOMASS	.
+rg	R_OMCDC	.
+rg	R_HISTP	.
+rg	R_SDPTA	.
+rg	R_DAPE	.
+rg	R_TALA	.
+rg	R_NDPK2	.
+rg	R_NDPK3	.
+rg	R_NDPK4	.
+rg	R04364	.
+rg	R_PPA	.
+rg	R_G6PI	SSA_2183
+rg	R_TECA4S	.
+rg	R_UAG4Ei	.
+rg	R_PGMT	.
+rg	R_ALATA_L	.
+rg	R_ORNTA	.
+rg	R_G5SADr	.
+rg	R_ASPTA	.
+#model:
+R04949	Cyanoglycoside glucohydrolase	.	Cyanoamino acid metabolism	3.2.1.21	[c] : C05713 + h2o <==> C05712 + glc-D
+R04945	O-Acetylhomoserine succinate-lyase (adding cysteine)	.	Selenoamino acid metabolism	2.5.1.48	[c] : C05700 + selcys <==> selcyst + ac
+R04944	O-Phosphorylhomoserine succinate-lyase (adding cysteine)	.	Selenoamino acid metabolism	2.5.1.48	[c] : C05702 + selcys <==> selcyst + pi
+R04946	O-Succinyl-L-homoserine succinate-lyase (adding cysteine)	.	Selenoamino acid metabolism	2.5.1.48	[c] : C05701 + selcys <==> selcyst + succ
+R_IPPMIb	2-Isopropylmalate hydro-lyase	.	Valine, leucine and isoleucine biosynthesis	4.2.1.33	[c] : 2ippm + h2o <==> 3c3hmp
+R03966	.	.	Benzoate degradation via hydroxylation	5.3.2.-	[c] : C02501 <==> C03453
+R_ALR2	.	.	Glycine, serine and threonine metabolism	1.1.1.-	[c] : h + mthgxl + nadph --> acetol + nadp
+R04640	N-(5'-Phospho-D-ribosylformimino)-5-amino-1- (5''-phospho-D-ribosyl)-4-imidazolecarboxamide ketol-isomerase	.	Histidine metabolism	5.3.1.16	[c] : prfp <==> C04916
+R_ALATRS	L-Alanine:tRNA(Ala) ligase (AMP-forming)	.	Alanine and aspartate metabolism	6.1.1.7	[c] : ala-L + atp + trnaala --> alatrna + amp + ppi
+R_ACCOAC	Acetyl-CoA:carbon-dioxide ligase (ADP-forming)	.	Pyruvate metabolism || Propanoate metabolism	6.4.1.2	[c] : accoa + atp + hco3 --> adp + h + malcoa + pi
+R_ETHAAL	Ethanolamine ammonia-lyase	.	Glycerophospholipid metabolism	4.3.1.7	[c] : etha --> acald + nh4
+R_PTPAT	ATP:pantetheine-4'-phosphate adenylyltransferase	.	Pantothenate and CoA biosynthesis	2.7.7.3	[c] : atp + h + pan4p <==> dpcoa + ppi
+R04467	.	.	Lysine biosynthesis	2.6.1.-	[c] : n6all26d + akg <==> nal2a6o + glu-L
+R_DHDPS	L-Aspartate-4-semialdehyde hydro-lyase (adding pyruvate and cyclizing)	.	Lysine biosynthesis	4.2.1.52	[c] : aspsa + pyr --> 23dhdp + h + 2 h2o
+R_GHMT2r	5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase	.	Cyanoamino acid metabolism || Glycine, serine and threonine metabolism || Methane metabolism || One carbon pool by folate	2.1.2.1	[c] : ser-L + thf <==> gly + h2o + mlthf
+R00428	GTP 7,8-8,9-dihydrolase	.	Folate biosynthesis	3.5.4.16	[c] : gtp + h2o <==> C05922
+R_SERAT	.	.	Cysteine metabolism || Sulfur metabolism	2.3.1.30	[c] : accoa + ser-L <==> acser + coa
+R_PSP_L	L-O-Phosphoserine phosphohydrolase	.	Glycine, serine and threonine metabolism	3.1.3.3	[c] : h2o + pser-L --> pi + ser-L
+R_UAG2E	UDP-N-acetyl-D-glucosamine 2-epimerase	.	Aminosugars metabolism	5.1.3.14	[c] : uacgam <==> uacmam
+R06447	di-trans,poly-cis-Decaprenyl-diphosphate:isopentenyl-diphosphate undecaprenylcistransferase	.	Terpenoid biosynthesis	2.5.1.31	[c] : ttc-ggdp + 7 ipdp <==> C04574 + 7 ppi
+R01645	4-hydroxy-2-oxo-heptandioate succinate semialdehyde-lyase (pyruvate-forming)	.	Tyrosine metabolism	4.1.2.-	[c] : C05601 <==> sucsal + pyr
+R01641	Sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase	.	Carbon fixation in photosynthetic organisms || Pentose phosphate pathway	2.2.1.1	[c] : C05382 + g3p <==> r5p + xu5p-D
+R04544	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase	.	Fatty acid biosynthesis	2.3.1.85 2.3.1.86 4.2.1.61	[c] : C04633 <==> C05763 + h2o
+R_ADCPS2	adenosylcobyric acid:(R)-1-aminopropan-2-yl phosphate ligase	.	Porphyrin and chlorophyll metabolism	6.3.1.10	[c] : adcobhex + applp + atp --> adocbip + adp + h + pi
+R_FTHFLi	Formate:tetrahydrofolate ligase (ADP-forming)	.	One carbon pool by folate || Glyoxylate and dicarboxylate metabolism	6.3.4.3	[c] : atp + for + thf --> 10fthf + adp + pi
+R04543	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	.	Fatty acid biosynthesis	1.1.1.100 2.3.1.85 2.3.1.86	[c] : C04633 + nadp <==> C05762 + nadph + h
+R_FA120ACPH	Dodecanoyl-[acyl-carrier-protein] hydrolase	.	Fatty acid biosynthesis	3.1.2.14 3.1.2.21	[c] : ddcaACP + h2o <==> ACP + ddca + h
+R_PRFGS	5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming)	.	Purine metabolism	6.3.5.3	[c] : atp + fgam + gln-L + h2o --> adp + fpram + glu-L + h + pi
+R_ASAD	L-Aspartate-4-semialdehyde:NADP+ oxidoreductase (phosphorylating)	.	Glycine, serine and threonine metabolism || Lysine biosynthesis	1.2.1.11	[c] : aspsa + nadp + pi <==> 4pasp + h + nadph
+R04393	Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase	.	Galactose metabolism	2.7.1.69	[c] : C04261 + lcts <==> C00615 + lac6p
+R_PUNP7	Xanthosine:orthophosphate ribosyltransferase	.	Purine metabolism	2.4.2.1	[c] : pi + xtsn <==> r1p + xan
+R_PYNP1	Cytidine:orthophosphate alpha-D-ribosyltransferase	.	Pyrimidine metabolism	2.4.2.2	[c] : csn + r1p --> cytd + pi
+R_NP1	Nicotinate D-ribonucleoside:orthophosphate ribosyltransferase	.	Nicotinate and nicotinamide metabolism	2.4.2.1	[c] : h + nac + r1p --> nicrns + pi
+R_PNP	N-Ribosylnicotinamide:orthophosphate ribosyltransferase	.	Nicotinate and nicotinamide metabolism	2.4.2.1	[c] : pi + rnam <==> h + ncam + r1p
+R_MCLOR	3-Mercaptolactate:NAD+ oxidoreductase	.	Cysteine metabolism	1.1.1.27	[c] : mercplac + nad <==> h + mercppyr + nadh
+R05549	.	.	Galactose metabolism	3.2.1.22	[c] : C05404 + h2o <==> gal + melib
+R_TYRTAp	L-Tyrosine:2-oxoglutarate aminotransferase	.	Tyrosine metabolism || Novobiocin biosynthesis || Phenylalanine, tyrosine and tryptophan biosynthesis	2.6.1.1 2.6.1.5 2.6.1.9 2.6.1.57	[c] : akg + tyr-L <==> 34hpp + glu-L
+R_ILL_R00377	Deoxycytidine triphosphate:DNA deoxynucleotidyltransferase (DNA-directed)	.	Pyrimidine metabolism	2.7.7.7	[c] : dctp + dna <==> ppi + dna
+R06895	coproporphyrinogen-III:S-adenosyl-L-methionine oxidoreductase(decarboxylating)	.	Porphyrin and chlorophyll metabolism	1.3.99.22	[c] : cpppg3 + 2 amet <==> pppg9 + 2 co2 + 2 met-L + 2 dad-5
+R_ILL_R00375	Deoxyadenosine 5'-triphosphate:DNA deoxynucleotidyltransferase (DNA-directed)	.	Purine metabolism	2.7.7.7	[c] : datp + dna <==> ppi + dna
+R_HISDr	L-histidine ammonia-lyase (urocanate-forming)	.	Histidine metabolism || Nitrogen metabolism	4.3.1.3	[c] : his-L <==> nh4 + urcan
+R02780	.	.	Starch and sucrose metabolism	2.7.1.69	[c] : tre + C04261 <==> tre6p + C00615
+R_UAMAGS	UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase(ADP-forming)	.	Peptidoglycan biosynthesis || D-Glutamine and D-glutamate metabolism	6.3.2.9	[c] : atp + glu-D + uama --> adp + h + pi + uamag
+R_DGK1	ATP:dGMP phosphotransferase	.	Purine metabolism	2.7.4.8 2.7.4.12	[c] : atp + dgmp <==> adp + dgdp
+R03544	.	.	Butanoate metabolism	1.1.1.-	[c] : C01412 + nadh + h <==> C06142 + nad
+R03545	.	.	Butanoate metabolism	1.1.1.-	[c] : C01412 + nadph + h <==> C06142 + nadp
+R_GCCcm	dihydrolipoylprotein:NAD+ oxidoreductase	.	Glycine, serine and threonine metabolism	1.8.1.4	[c] : dhlpro + nad <==> h + lpro + nadh
+R02814	Oleoyl-[acyl-carrier-protein] hydrolase	.	Fatty acid biosynthesis	3.1.2.14	[c] : C01203 + h2o <==> apoACP|ACP + C00712
+R02786	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:L-lysine ligase (ADP-forming)	.	Peptidoglycan biosynthesis	6.3.2.7	[c] : atp + uamag + lys-L <==> adp + pi + C05892
+R_PSCVT	Phosphoenolpyruvate:3-phosphoshikimate 5-O-(1-carboxyvinyl)-transferase	.	Phenylalanine, tyrosine and tryptophan biosynthesis	2.5.1.19	[c] : pep + skm5p <==> 3psme + pi
+R_METB1	O-Acetyl-L-homoserine succinate-lyase (adding cysteine)	.	Methionine metabolism	2.5.1.49	[c] : achms + cys-L --> ac + cyst-L + h
+R03355	beta-D-Galactosyl-1,4-beta-D-glucosylceramide galactohydrolase	.	Sphingolipid metabolism	3.2.1.23	[c] : C01290 + h2o <==> gluside_hs + gal
+R_NNAMrm	Nicotinamide amidohydrolase	.	Nicotinate and nicotinamide metabolism	3.5.1.19	[c] : h2o + ncam <==> nac + nh4
+R_ARGDr	L-Arginine iminohydrolase	.	Arginine and proline metabolism	3.5.3.6	[c] : arg-L + h2o <==> citr-L + nh4
+R_SHSL4r	O-Succinyl-L-homoserine succinate-lyase (deaminating; 2-oxobutanoate-forming)	.	Methionine metabolism	2.5.1.48	[c] : h2o + suchms <==> 2obut + h + nh4 + succ
+R_4HTHRS	O-Phospho-4-hydroxy-L-threonine phospho-lyase (adding water)	.	Vitamin B6 metabolism	4.2.3.1	[c] : h2o + phthr --> 4hthr + pi
+R_OHPBAT	O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase	.	Vitamin B6 metabolism	2.6.1.52	[c] : glu-L + ohpb <==> akg + phthr
+R00491	L-Aspartate racemase	.	Alanine and aspartate metabolism	5.1.1.13	[c] : asp-L <==> asp-D
+R_THRD_Lm	L-threonine ammonia-lyase (2-oxobutanoate-forming)	.	Valine, leucine and isoleucine biosynthesis || Glycine, serine and threonine metabolism	4.3.1.19	[c] : thr-L --> 2obut + nh4
+R00994	(2R,3S)-3-methylmalate:NAD+ oxidoreductase	.	Valine, leucine and isoleucine biosynthesis	1.1.1.85	[c] : 2obut + co2 + nadh + h <==> C06032 + nad
+R02071	ATP:D-fructose-1-phosphate 6-phosphotransferase	.	Fructose and mannose metabolism	2.7.1.56	[c] : atp + f1p <==> adp + C05378
+R_ACGSm	Acetyl-CoA:L-glutamate N-acetyltransferase	.	Urea cycle and metabolism of amino groups	2.3.1.1	[c] : accoa + glu-L --> acglu + coa + h
+R_AMANK	ATP:N-acyl-D-mannosamine 6-phosphotransferase	.	Aminosugars metabolism	2.7.1.60	[c] : acmana + atp --> acmanap + adp + h
+R_GLNS	L-Glutamate:ammonia ligase (ADP-forming)	.	Nitrogen metabolism || Glutamate metabolism	6.3.1.2	[c] : atp + glu-L + nh4 --> adp + gln-L + h + pi
+R00967	UTP:uridine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : utp + uri <==> udp + ump
+R_UPPRT	UMP:diphosphate phospho-alpha-D-ribosyltransferase	.	Pyrimidine metabolism	2.4.2.9	[c] : prpp + ura --> ppi + ump
+R_OMPDC	orotidine-5'-phosphate carboxy-lyase (UMP-forming)	.	Pyrimidine metabolism	4.1.1.23	[c] : h + orot5p --> co2 + ump
+R_URIK1	ATP:uridine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : atp + uri --> adp + h + ump
+R_NTD2	Uridine 5'-monophosphate phosphohydrolase	.	Pyrimidine metabolism	3.1.3.5	[c] : h2o + ump --> pi + uri
+R00962	ITP:cytidine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : itp + cytd <==> idp + cmp
+R_G1SATi	(S)-4-Amino-5-oxopentanoate 4,5-aminomutase	.	Porphyrin and chlorophyll metabolism	5.4.3.8	[c] : glu1sa --> 5aop
+R_G3PD2	sn-Glycerol-3-phosphate:NADP+ 2-oxidoreductase	.	Glycerophospholipid metabolism	1.1.1.94	[c] : glyc3p + nadp <==> dhap + h + nadph
+R00846	sn-Glycerol-3-phosphate:oxygen 2-oxidoreductase	.	Glycerophospholipid metabolism	1.1.3.21	[c] : glyc3p + o2 <==> dhap + h2o2
+R_GLYKm	ATP:glycerol 3-phosphotransferase	.	Glycerolipid metabolism	2.7.1.30	[c] : atp + glyc --> adp + glyc3p + h
+R_G3PD1	sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase	.	Glycerophospholipid metabolism	1.1.1.8 1.1.1.94	[c] : glyc3p + nad <==> dhap + h + nadh
+R_URIK2	GTP:uridine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : gtp + uri --> gdp + h + ump
+R_ADPT	AMP:pyrophosphate phosphoribosyltransferase	.	Purine metabolism	2.4.2.7 2.4.2.8	[c] : ade + prpp --> amp + ppi
+R03921	Sucrose 6-phosphate fructohydrolase	.	Starch and sucrose metabolism	3.2.1.26	[c] : C16688 + h2o <==> C02336 + C00668
+R_AHCYSNS	S-Adenosyl-L-homocysteine homocysteinylribohydrolase	.	Methionine metabolism	3.2.2.9	[c] : ahcys + h2o --> ade + rhcys
+R07764	.	.	Fatty acid biosynthesis	4.2.1.-	[c] : C16220 <==> C16221 + h2o
+R07765	.	.	Fatty acid biosynthesis	1.3.1.-	[c] : C16221 + nadh + h <==> C04088 + nad
+R03929	2',3'-Cyclic CMP 3'-nucleotidohydrolase	.	Pyrimidine metabolism	3.1.4.16	[c] : C02354 + h2o <==> C05822
+R07762	.	.	Fatty acid biosynthesis	2.3.1.41 2.3.1.179 2.3.1.-	[c] : palmACP + malACP <==> C16219 + apoACP|ACP + co2
+R07763	.	.	Fatty acid biosynthesis || Biosynthesis of unsaturated fatty acids	1.1.1.100	[c] : C16219 + nadph + h <==> C16220 + nadp
+R_VALTAm	L-Valine:2-oxoglutarate aminotransferase	.	Valine, leucine and isoleucine biosynthesis || Pantothenate and CoA biosynthesis || Valine, leucine and isoleucine degradation	2.6.1.6 2.6.1.42	[c] : akg + val-L <==> 3mob + glu-L
+R_ECOAH4	(S)-Hydroxydecanoyl-CoA hydro-lyase	.	Fatty acid metabolism	4.2.1.17 4.2.1.74	[c] : 3hdcoa <==> dc2coa + h2o
+R_IPPSm	acetyl-CoA:3-methyl-2-oxobutanoate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming); 3-Carboxy-3-hydroxy-4-methylpentanoate 3-methyl-2-oxobutanoate-lyase (CoA-acetylating)	.	Valine, leucine and isoleucine biosynthesis || Pyruvate metabolism	2.3.3.13	[c] : 3mob + accoa + h2o --> 3c3hmp + coa + h
+R06927	alcohol:NAD+ oxidoreductase	.	1- and 2-Methylnaphthalene degradation	1.1.1.1	[c] : C02909 + nad <==> C14099 + nadh + h
+R_MI4PP	1D-myo-Inositol 4-phosphate phosphohydrolase	.	Inositol phosphate metabolism	3.1.3.25	[c] : h2o + mi4p-D --> inost + pi
+R_MI3PP	1D-myo-Inositol 3-phosphate phosphohydrolase	.	Inositol phosphate metabolism	3.1.3.25	[c] : h2o + mi3p-D --> inost + pi
+R_MI1PP	1D-myo-Inositol 1-phosphate phosphohydrolase	.	Inositol phosphate metabolism || Streptomycin biosynthesis	3.1.3.25	[c] : h2o + mi1p-D --> inost + pi
+R02630	Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase	.	Fructose and mannose metabolism	2.7.1.69	[c] : C04261 + man <==> C00615 + man6p
+R_ACNML	N-Acetylneuraminate pyruvate-lyase (N-acetyl-D-mannosamine-forming)	.	Aminosugars metabolism	4.1.3.3	[c] : acnam --> acmana + pyr
+R_GTPDPK	ATP:GTP 3'-pyrophosphotransferase	.	Purine metabolism	2.7.6.5	[c] : atp + gtp --> amp + gdptp + h
+R08310	4-hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one:NAD+ oxidoreductase	.	Drug metabolism - cytochrome P450	1.1.1.1	[c] : C16595 + nad <==> C16596 + nadh + h
+R_GRTT	Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase	.	Terpenoid biosynthesis || Biosynthesis of steroids	2.5.1.1 2.5.1.10 2.5.1.29	[c] : grdp + ipdp --> frdp + ppi
+R_PMANM	D-Mannose 6-phosphate 1,6-phosphomutase	.	Fructose and mannose metabolism	5.4.2.8	[c] : man1p <==> man6p
+R01819	D-mannose-6-phosphate aldose-ketose-isomerase	.	Fructose and mannose metabolism	5.3.1.8	[c] : man6p <==> f6p-B
+R_MTHFR2	5-methyltetrahydrofolate:NAD+ oxidoreductase	.	Methane metabolism || One carbon pool by folate	1.5.1.20	[c] : h + mlthf + nadh --> 5mthf + nad
+R_ARGSS	L-Citrulline:L-aspartate ligase (AMP-forming)	.	Alanine and aspartate metabolism || Arginine and proline metabolism || Urea cycle and metabolism of amino groups	6.3.4.5	[c] : asp-L + atp + citr-L --> amp + argsuc + h + ppi
+R07461	.	.	Thiamine metabolism	.	[c] : C15812 + C15813 <==> C15814
+R07460	L-cysteine:[ThiI] sulfurtransferase	.	Thiamine metabolism	2.8.1.7	[c] : C15811 + cys-L <==> C15812 + ala-L
+R04939	.	.	Selenoamino acid metabolism	2.1.1.-	[c] : C05693 + seasmet <==> C05694 + seahcys
+R_PMPK	ATP:4-amino-2-methyl-5-phosphomethylpyrimidine phosphotransferase	.	Thiamine metabolism	2.7.4.7	[c] : 4ampm + atp --> 2mahmp + adp
+R_RAFH	Raffinose fructohydrolase	.	Galactose metabolism	3.2.1.26	[c] : h2o + raffin --> fru + melib
+R_SHK3Dr	Shikimate:NADP+ 3-oxidoreductase	.	Phenylalanine, tyrosine and tryptophan biosynthesis	1.1.1.25 1.1.1.282	[c] : 3dhsk + h + nadph <==> nadp + skm
+R_SHKK	ATP:shikimate 3-phosphotransferase	.	Phenylalanine, tyrosine and tryptophan biosynthesis	2.7.1.71	[c] : atp + skm --> adp + h + skm5p
+R07302	adenosylcobyric acid:(R)-1-aminopropan-2-ol ligase (ADP-forming)	.	Porphyrin and chlorophyll metabolism	6.3.1.10	[c] : atp + adcobhex + C03194 <==> adp + pi + adocbi
+R04111	Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase	.	Starch and sucrose metabolism	2.7.1.69	[c] : C04261 + malt <==> C00615 + malt6p
+R_TRPS2	L-Serine hydro-lyase (adding indoleglycerol-phosphate)	.	Phenylalanine, tyrosine and tryptophan biosynthesis	4.2.1.20	[c] : indole + ser-L --> h2o + trp-L
+R_UAG2EMAi	UDP-N-acetyl-D-glucosamine 2-epimerase	.	Aminosugars metabolism	5.1.3.14	[c] : h2o + uacgam --> acmana + h + udp
+R_NADK	ATP:NAD+ 2'-phosphotransferase	.	Nicotinate and nicotinamide metabolism	2.7.1.23	[c] : atp + nad --> adp + h + nadp
+R_PUNP2	Deoxyadenosine:orthophosphate ribosyltransferase	.	Purine metabolism	2.4.2.1	[c] : dad-2 + pi <==> 2dr1p + ade
+R_PRASCS	1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase (ADP-forming)	.	Purine metabolism	6.3.2.6	[c] : 5aizc + asp-L + atp <==> 25aics + adp + h + pi
+R06363	Penicillin hydrolase	.	Penicillin and cephalosporin biosynthesis	3.5.2.6	[c] : C00395 + h2o <==> C06567
+R_RZ5PP	.	.	Porphyrin and chlorophyll metabolism	3.1.3.73	[c] : 5prdmbz + h2o --> pi + rdmbzi
+R01049	ATP:D-ribose-5-phosphate diphosphotransferase	.	Pentose phosphate pathway || Purine metabolism	2.7.6.1	[c] : atp + r5p <==> amp + prpp
+R01048	Glycerol hydro-lyase	.	Glycerolipid metabolism	4.2.1.30	[c] : glyc <==> C05999 + h2o
+R01325	citrate hydro-lyase (cis-aconitate-forming)	.	Glyoxylate and dicarboxylate metabolism || Reductive carboxylate cycle (CO2 fixation) || Citrate cycle (TCA cycle)	4.2.1.3 4.2.1.4	[c] : cit <==> C00417 + h2o
+R_EPMGH	Epimelibiose galactohydrolase	.	Galactose metabolism	3.2.1.22	[c] : epm + h2o <==> gal + man
+R01047	glycerol hydro-lyase (3-hydroxypropanal-forming)	.	Glycerolipid metabolism	4.2.1.30	[c] : glyc <==> C00969 + h2o
+R_TYRTRSm	L-Tyrosine:tRNA(Tyr) ligase (AMP-forming)	.	Phenylalanine, tyrosine and tryptophan biosynthesis	6.1.1.1	[c] : atp + trnatyr + tyr-L --> amp + ppi + tyrtrna
+R02912	serotonin O-methyltransferase	.	Tryptophan metabolism	2.1.1.-	[c] : srtn + 5mthf <==> C05659 + thf
+R_URCN	4,5-Dihydro-4-oxo-5-imidazolepropanoate hydro-lyase	.	Histidine metabolism	4.2.1.49	[c] : h2o + urcan --> 4izp
+R_T2M26DCOAHLx	trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA hydro-lyase	.	Limonene and pinene degradation	4.2.1.17	[c] : h2o + t2m26dcoa <==> 3h26dm5coa
+R03256	Lactose 6-phosphate 6-phosphogalactohydrolase	.	Galactose metabolism	3.2.1.85	[c] : lac6p + h2o <==> C00221 + dgal6p
+R_PPBNGS	5-Aminolevulinate hydro-lyase(adding 5-aminolevulinate and cyclizing)	.	Porphyrin and chlorophyll metabolism	4.2.1.24	[c] : 2 5aop --> h + 2 h2o + ppbng
+R_C2M26DCOAHLx	cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA hydro-lyase	.	Limonene and pinene degradation	4.2.1.17	[c] : c2m26dcoa + h2o <==> 3h26dm5coa
+R_FTHFCL	5-Formyltetrahydrofolate cyclo-ligase (ADP-forming)	.	One carbon pool by folate	6.3.3.2	[c] : 5fthf + atp --> adp + methf + pi
+R_FTCD	5-Formiminotetrahydrofolate ammonia-lyase (cyclizing)	.	One carbon pool by folate	4.3.1.4	[c] : 5forthf + 2 h --> methf + nh4
+R01600	ATP:beta-D-glucose 6-phosphotransferase	.	Glycolysis / Gluconeogenesis	2.7.1.1 2.7.1.2	[c] : atp + C00221 <==> adp + g6p-B
+R01602	D-Glucose 1-epimerase	.	Glycolysis / Gluconeogenesis	5.1.3.3	[c] : C00267 <==> C00221
+R05046	Formamidopyrimidine nucleoside triphosphate 7,8-8,9-dihydrolase	.	Folate biosynthesis	3.5.4.16	[c] : C05922 + h2o <==> C05923 + for
+R_ADSS	IMP:L-aspartate ligase (GDP-forming)	.	Alanine and aspartate metabolism || Purine metabolism	6.3.4.4	[c] : asp-L + gtp + imp --> dcamp + gdp + 2 h + pi
+R_HXPRT	IMP:diphosphate phospho-D-ribosyltransferase	.	Purine metabolism	2.4.2.8	[c] : hxan + prpp --> imp + ppi
+R_IMPD	IMP:NAD+ oxidoreductase	.	Purine metabolism	1.1.1.205	[c] : h2o + imp + nad --> h + nadh + xmp
+R01138	dATP:pyruvate 2-O-phosphotransferase	.	Purine metabolism	2.7.1.40	[c] : datp + pyr <==> dadp + pep
+R_PFL	Acetyl-CoA:formate C-acetyltransferase	.	Pyruvate metabolism || Butanoate metabolism	2.3.1.54	[c] : coa + pyr --> accoa + for
+R_ME1	(S)-Malate:NADP+ oxidoreductase(oxaloacetate-decarboxylating)	.	Pyruvate metabolism	1.1.1.38 1.1.1.39 1.1.1.40 4.1.1.3	[c] : mal-L + nad --> co2 + nadh + pyr
+R01786	ATP:alpha-D-glucose 6-phosphotransferase	.	Galactose metabolism || Starch and sucrose metabolism || Glycolysis / Gluconeogenesis	2.7.1.1 2.7.1.2	[c] : atp + C00267 <==> adp + C00668
+R_ME2	(S)-Malate:NADP+ oxidoreductase(oxaloacetate-decarboxylating)	.	Pyruvate metabolism	1.1.1.38 1.1.1.39 1.1.1.40 4.1.1.3	[c] : mal-L + nadp --> co2 + nadph + pyr
+R01421	Benzoyl phosphate phosphohydrolase	.	Benzoate degradation via CoA ligation	3.6.1.7	[c] : C06206 + h2o <==> bz + pi
+R_GLYCDx	glycerol:NAD+ 2-oxidoreductase	.	Glycerolipid metabolism	1.1.1.6	[c] : glyc + nad --> dha + h + nadh
+R_GPDDA1	sn-Glycero-3-phosphocholine glycerophosphohydrolase	.	Glycerophospholipid metabolism	3.1.4.2 3.1.4.46	[c] : g3pc + h2o --> chol + glyc3p + h
+R_IGPDH	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate hydro-lyase	.	Histidine metabolism	4.2.1.19	[c] : eig3p --> h2o + imacp
+R08163	.	.	Fatty acid biosynthesis	3.1.2.14	[c] : C04088 + h2o <==> apoACP|ACP + ocdca
+R_PRO1x	L-Proline:NAD+ 5-oxidoreductase	.	Arginine and proline metabolism	1.5.1.2	[c] : nad + pro-L --> 1pyr5c + 2 h + nadh
+R02984	dTDPglucose 4-epimerase	.	Nucleotide sugars metabolism	5.1.3.2	[c] : dtdpglu <==> C02097
+R_PPNCL2	(R)-4'-Phosphopantothenate:L-cysteine ligase	.	Pantothenate and CoA biosynthesis	6.3.2.5	[c] : 4ppan + ctp + cys-L --> 4ppcys + cmp + h + ppi
+R_PPNCL3	(R)-4'-Phosphopantothenate:L-cysteine ligase	.	Pantothenate and CoA biosynthesis	6.3.2.5	[c] : 4ppan + atp + cys-L --> 4ppcys + amp + h + ppi
+R_G6PI2	beta-D-Glucose 6-phosphate ketol-isomerase	.	Glycolysis / Gluconeogenesis	5.3.1.9	[c] : g6p-B <==> f6p-B
+R_UAGCVT	Phosphoenolpyruvate:UDP-N-acetyl-D-glucosamine 1-carboxyvinyl-transferase	.	Aminosugars metabolism	2.5.1.7	[c] : pep + uacgam --> pi + uaccg
+R_PTA2	acetyl-CoA:phosphate acetyltransferase	.	Propanoate metabolism	2.3.1.8	[c] : pi + ppcoa --> coa + ppap
+R02235	Dihydrofolate:NAD+ oxidoreductase	.	Folate biosynthesis	1.5.1.3	[c] : dhf + nad <==> fol + nadh + h
+R_DHFS	7,8-dihydropteroate:L-glutamate ligase (ADP-forming)	.	Folate biosynthesis	6.3.2.12 6.3.2.17	[c] : atp + dhpt + glu-L --> adp + dhf + pi
+R07831	.	.	Benzoate degradation via CoA ligation	3.7.1.-	[c] : C06719 + h2o <==> C16272
+R_ADOCBLS	.	.	Porphyrin and chlorophyll metabolism	2.7.8.26	[c] : agdpcbi + rdmbzi --> adocbl + gmp + h
+R05177	Precorrin 8X 11,12-methylmutase	.	Porphyrin and chlorophyll metabolism	5.4.1.2	[c] : C06408 <==> C06399
+R_ADOCBIK	.	.	Porphyrin and chlorophyll metabolism	2.7.1.156	[c] : adocbi + atp --> adocbip + adp + h
+R04724	Dodecanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)	.	Fatty acid biosynthesis	1.3.1.9 2.3.1.86	[c] : ddcaACP + nad <==> C05758 + nadh + h
+R_ADCYRS	.	.	Porphyrin and chlorophyll metabolism	6.3.5.10	[c] : adcobdam + 4 atp + 4 gln-L + 4 h2o --> adcobhex + 4 adp + 4 glu-L + 4 h + 4 pi
+R04726	dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	.	Fatty acid biosynthesis	2.3.1.41 2.3.1.85 2.3.1.86 2.3.1.179 2.3.1.180	[c] : ddcaACP + malACP <==> C05759 + co2 + apoACP|ACP
+R_CPC8MM	.	.	Porphyrin and chlorophyll metabolism	5.4.1.2	[c] : copre8 <==> cobya
+R03634	.	.	Galactose metabolism	3.2.1.22	[c] : C01613 + h2o <==> raffin + gal
+R03635	Stachyose fructohydrolase	.	Galactose metabolism	3.2.1.26	[c] : C01613 + h2o <==> C05404 + fru
+R_PAPPT3	UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala):undecaprenyl- phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase	.	Peptidoglycan biosynthesis	2.7.8.13	[c] : udcpp + ugmda --> uagmda + ump
+R_MEPCT	CTP: 2-C-Methyl-D-erythritol 4-phosphate cytidylyltransferase	.	Biosynthesis of steroids	2.7.7.60	[c] : 2me4p + ctp + h --> 4c2me + ppi
+R_GLAl	Digalactosylceramide galactohydrolase	.	Sphingolipid metabolism	3.2.1.22	[c] : digalside_hs + h2o --> gal + galside_hs
+R02775	dTDP-4-dehydro-6-deoxy-D-glucose 3,5-epimerase	.	Nucleotide sugars metabolism	5.1.3.13	[c] : dtdp4d6dg <==> C05344
+R_TDPDRR	dTDP-6-deoxy-L-mannose:NADP+ 4-oxidoreductase	.	Streptomycin biosynthesis || Nucleotide sugars metabolism || Polyketide sugar unit biosynthesis	1.1.1.133	[c] : dtdp4d6dm + h + nadph --> dtdprmn + nadp
+R04394	Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase	.	Glycolysis / Gluconeogenesis	2.7.1.69	[c] : C04261 + salcn <==> C00615 + salc6p
+R01858	dGTP:pyruvate 2-O-phosphotransferase	.	Purine metabolism	2.7.1.40	[c] : dgtp + pyr <==> dgdp + pep
+R_RNTR3	2'-Deoxyuridine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase	.	Pyrimidine metabolism	1.17.4.2	[c] : ctp + trdrd --> dctp + h2o + trdox
+R_DHORTSn	(S)-dihydroorotate amidohydrolase	.	Pyrimidine metabolism	3.5.2.3	[c] : dhor-S + h2o <==> cbasp + h
+R_GALTi	UTP:alpha-D-hexose-1-phosphate uridylyltransferase	.	Galactose metabolism || Nucleotide sugars metabolism	2.7.7.10	[c] : gal1p + h + utp --> ppi + udpgal
+R_RNTR4	2'-Deoxyuridine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase	.	Pyrimidine metabolism	1.17.4.2	[c] : trdrd + utp --> dutp + h2o + trdox
+R_ILL_R02120	Sucrose:1,6-alpha-D-glucan 6-alpha-D-glucosyltransferase	.	Starch and sucrose metabolism	2.4.1.5 2.4.1.125	[c] : sucr + C00372 <==> fru + C00372
+R00811	Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase	.	Starch and sucrose metabolism	2.7.1.69	[c] : sucr + C04261 <==> C16688 + C00615
+R04805	.	.	Bile acid biosynthesis	1.1.1.1	[c] : xol7ah3 + nad <==> xol7ah2al + nadh + h
+R_ECOAH1	(S)-3-Hydroxybutanoyl-CoA hydro-lyase	.	Butanoate metabolism || Fatty acid metabolism || Tryptophan metabolism || Benzoate degradation via CoA ligation	4.2.1.17	[c] : 3hbcoa <==> b2coa + h2o
+R03189	5-Formyltetrahydrofolate:L-glutamate N-formiminotransferase	.	One carbon pool by folate	2.1.2.5	[c] : 5fthf + glu-L <==> thf + C01045
+R_ANS2	chorismate pyruvate-lyase (amino-accepting; anthranilate-forming)	.	Phenylalanine, tyrosine and tryptophan biosynthesis	4.1.3.27	[c] : chor + nh4 --> anth + h + h2o + pyr
+R_ILL_R00439	Polyribonucleotide:orthophosphate nucleotidyltransferase	.	Purine metabolism	2.7.7.8	[c] : C00046 + pi <==> C00046 + gdp
+R_ILL_R00438	Polyribonucleotide:orthophosphate nucleotidyltransferase	.	Pyrimidine metabolism	2.7.7.8	[c] : C00046 + pi <==> C00046 + udp
+R08221	5'-deoxy-5-fluorocytidine aminohydrolase	.	Drug metabolism - other enzymes	3.5.4.5	[c] : C16635 + h2o <==> C12739 + nh4
+R00430	GTP:pyruvate 2-O-phosphotransferase	.	Purine metabolism	2.7.1.40	[c] : gtp + pyr <==> gdp + pep
+R_ILL_R00435	ATP:polynucleotide adenylyltransferase	.	Purine metabolism	2.7.7.6 2.7.7.19 2.7.7.48	[c] : atp + C00046 <==> ppi + C00046
+R_ILL_R00437	Polyribonucleotide:orthophosphate nucleotidyltransferase	.	Purine metabolism	2.7.7.8	[c] : C00046 + pi <==> C00046 + adp
+R01678	Lactose galactohydrolase	.	Galactose metabolism	3.2.1.23 3.2.1.108	[c] : lcts + h2o <==> C00267 + gal
+R04386	Acetyl-CoA:carbon-dioxide ligase (ADP-forming)	.	Fatty acid biosynthesis	6.4.1.2	[c] : accoa + C04419 <==> malcoa + C06250
+R04385	biotin-carboxyl-carrier-protein:carbon-dioxide ligase (ADP-forming)	.	Fatty acid biosynthesis	6.3.4.14	[c] : atp + C06250 + hco3 <==> adp + pi + C04419
+R03898	.	.	Valine, leucine and isoleucine biosynthesis	.	[c] : C02226 + h2o <==> C06032
+R03896	(R)-2-Methylmalate hydro-lyase	.	Valine, leucine and isoleucine biosynthesis	4.2.1.35	[c] : C02612 <==> C02226 + h2o
+R_TRPS3	(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate D-glyceraldehyde-3-phosphate-lyase	.	Phenylalanine, tyrosine and tryptophan biosynthesis	4.1.2.8 4.2.1.20	[c] : 3ig3p --> g3p + indole
+R04572	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine:alanyl-D-alanine ligase (ADP-forming)	.	Peptidoglycan biosynthesis	6.3.2.10	[c] : atp + C04700 + alaala <==> adp + pi + C04846
+R04573	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine:alanyl-D-alanine ligase (ADP-forming)	.	Peptidoglycan biosynthesis	6.3.2.10	[c] : atp + C05892 + alaala <==> adp + pi + C04702
+R_ALAD_L	L-Alanine:NAD+ oxidoreductase (deaminating)	.	Reductive carboxylate cycle (CO2 fixation) || Taurine and hypotaurine metabolism	1.4.1.1	[c] : ala-L + h2o + nad --> h + nadh + nh4 + pyr
+R04470	Digalactosyl-diacylglycerol galactohydrolase	.	Glycerolipid metabolism	3.2.1.22	[c] : C06037 + h2o <==> C03692 + gal
+R_TDPGDH	dTDPglucose 4,6-hydro-lyase	.	Streptomycin biosynthesis || Nucleotide sugars metabolism || Polyketide sugar unit biosynthesis	4.2.1.46	[c] : dtdpglu --> dtdp4d6dg + h2o
+R_TDPDRE	dTDP-4-dehydro-6-deoxy-D-glucose 3,5-epimerase	.	Streptomycin biosynthesis || Nucleotide sugars metabolism || Polyketide sugar unit biosynthesis	5.1.3.13	[c] : dtdp4d6dg --> dtdp4d6dm
+R_GGLGH	Galactosylglycerol galactohydrolase	.	Galactose metabolism	3.2.1.22	[c] : ggl + h2o <==> gal + glyc
+R_AGDC_r	N-Acetyl-D-glucosamine-6-phosphate amidohydrolase	.	Aminosugars metabolism	3.5.1.25	[c] : acgam6p + h2o <==> ac + gam6p
+R_PGK	ATP:3-phospho-D-glycerate 1-phosphotransferase	.	Carbon fixation in photosynthetic organisms || Glycolysis / Gluconeogenesis	2.7.2.3	[c] : 3pg + atp <==> 13dpg + adp
+R_PYDXK	ATP:pyridoxal 5'-phosphotransferase	.	Vitamin B6 metabolism	2.7.1.35	[c] : atp + pydx --> adp + h + pydx5p
+R_PGPPT	CDP-diacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase	.	Glycerophospholipid metabolism	2.7.8.5	[c] : cdpdag_hs + glyc3p --> cmp + h + pgp_hs
+R_METAT	ATP:L-methione S-adenosyltransferase	.	Methionine metabolism	2.5.1.6	[c] : atp + h2o + met-L --> amet + pi + ppi
+R_HPROxm	trans-4-Hydroxy-L-proline:NAD+ 5-oxidoreductase	.	Arginine and proline metabolism	1.5.1.2	[c] : 4hpro-LT + nad --> 1p3h5c + 2 h + nadh
+R_ADCL	4-amino-4-deoxychorismate pyruvate-lyase	.	Folate biosynthesis	4.1.3.38	[c] : 4adcho --> 4abz + h + pyr
+R_HPROym	trans-4-Hydroxy-L-proline:NADP+ 5-oxidoreductase	.	Arginine and proline metabolism	1.5.1.2	[c] : 4hpro-LT + nadp --> 1p3h5c + 2 h + nadph
+R_FT	Farnesyl diphosphate:Isopentenyl diphosphate farnesyl transferase	.	Terpenoid biosynthesis	2.5.1.-	[c] : frdp + ipdp --> ppi + ttc-ggdp
+R_GLYCK	ATP:(R)-glycerate 3-phosphotransferase	.	Glycine, serine and threonine metabolism || Glyoxylate and dicarboxylate metabolism || Glycerolipid metabolism	2.7.1.31	[c] : atp + glyc-R --> 3pg + adp + h
+R05071	(S)-2-Acetolactate methylmutase	.	Valine, leucine and isoleucine biosynthesis	1.1.1.86 5.4.99.3	[c] : alac-S <==> C04181
+R_GLUPRT	5-phosphoribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating)	.	Purine metabolism || Glutamate metabolism	2.4.2.14	[c] : gln-L + h2o + prpp --> glu-L + ppi + pram
+R_ANPRT	N-(5-Phospho-D-ribosyl)anthranilate:pyrophosphate phosphoribosyl-transferase	.	Phenylalanine, tyrosine and tryptophan biosynthesis	2.4.2.18	[c] : anth + prpp --> ppi + pran
+R01070	beta-D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)	.	Pentose phosphate pathway || Fructose and mannose metabolism || Glycolysis / Gluconeogenesis	4.1.2.13	[c] : C05378 <==> dhap + g3p
+R_PSSA_HP	CDP-diacylglycerol:L-serine 3-phosphatidyltransferase	.	Glycine, serine and threonine metabolism || Glycerophospholipid metabolism	2.7.8.8	[c] : cdpdag_HP + ser-L <==> cmp + h + ps_HP
+R02785	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:L-lysine ligase (ADP-forming)	.	Peptidoglycan biosynthesis	6.3.2.7	[c] : atp + uamag + lys-L <==> adp + pi + C04700
+R_BACCLm	biotin:CoA ligase (AMP-forming); biotin:apo-[carboxylase] ligase (AMP-forming); ATP:biotin adenylyltransferase	.	Biotin metabolism	6.2.1.11 6.3.4.9 6.3.4.10 6.3.4.11 6.3.4.15	[c] : atp + btn + h --> btamp + ppi
+R03527	D-Glucoside glucohydrolase	.	Starch and sucrose metabolism	3.2.1.21	[c] : C01798 + h2o <==> C01335 + C00267
+R_UAAGDS	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso-2,6- diaminoheptanedioate ligase (ADP-forming)	.	Lysine biosynthesis || Peptidoglycan biosynthesis	6.3.2.13	[c] : 26dap-M + atp + uamag --> adp + h + pi + ugmd
+R07035	Glutathione: 15-HPETE oxidoreductase	.	Arachidonic acid metabolism	1.11.1.9	[c] : 2 gthrd + 15HPET <==> gthox + C04742 + h2o
+R_ACKr	ATP:acetate phosphotransferase	.	Pyruvate metabolism || Taurine and hypotaurine metabolism	2.7.2.1 2.7.2.15	[c] : ac + atp <==> actp + adp
+R_ACYP_2	Acetyl phosphate phosphohydrolase	.	Pyruvate metabolism	3.6.1.7	[c] : actp + h2o --> ac + h + pi
+R_FCLTm	Protoporphyrin ferro-lyase	.	Porphyrin and chlorophyll metabolism	4.99.1.1	[c] : fe2 + ppp9 --> 2 h + pheme
+R_PPNDH	prephenate hydro-lyase (decarboxylating; phenylpyruvate-forming)	.	Phenylalanine, tyrosine and tryptophan biosynthesis	4.2.1.51 4.2.1.91	[c] : h + pphn --> co2 + h2o + phpyr
+R04378	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide:pyrophosphate phosphoribosyltransferase	.	Purine metabolism	2.4.2.7	[c] : aicar + ppi <==> C04051 + prpp
+R_ANS	Chorismate pyruvate-lyase (amino-accepting)	.	Phenylalanine, tyrosine and tryptophan biosynthesis	4.1.3.27	[c] : chor + gln-L --> anth + glu-L + h + pyr
+R_HSK	ATP:L-homoserine O-phosphotransferase	.	Glycine, serine and threonine metabolism	2.7.1.39	[c] : atp + hom-L --> adp + h + phom
+R_HSDxi	L-Homoserine:NAD+ oxidoreductase	.	Glycine, serine and threonine metabolism || Lysine biosynthesis	1.1.1.3	[c] : aspsa + h + nadh --> hom-L + nad
+R_UPP3S	Hydroxymethylbilane hydro-lyase(cyclizing)	.	Porphyrin and chlorophyll metabolism	4.2.1.75	[c] : hmbil --> h2o + uppg3
+R_HSDy	L-Homoserine:NADP+ oxidoreductase	.	Glycine, serine and threonine metabolism || Lysine biosynthesis	1.1.1.3	[c] : hom-L + nadp <==> aspsa + h + nadph
+R_HSST	Succinyl-CoA:L-homoserine O-succinyltransferase	.	Sulfur metabolism || Methionine metabolism	2.3.1.46	[c] : hom-L + succoa --> coa + suchms
+R_ILL_UNK	.	.	One carbon pool by folate	.	.
+R_RBP4E	L-ribulose-5-phosphate 4-epimerase	.	Pentose and glucuronate interconversions	5.1.3.4	[c] : ru5p-L <==> xu5p-D
+R01291	S-(5-deoxy-D-ribos-5-yl)-L-homocysteine homocysteine-lyase [(4S)-4,5-dihydroxypentan-2,3-dione-forming]	.	Methionine metabolism	4.4.1.21	[c] : rhcys <==> C11838 + hcys-L
+R_SDPDS	N-Succinyl-LL-2,6-diaminoheptanedioate amidohydrolase	.	Lysine biosynthesis	3.5.1.18	[c] : h2o + sl26da --> 26dap-LL + succ
+R_PGM	2-Phospho-D-glycerate 2,3-phosphomutase	.	Glycolysis / Gluconeogenesis	5.4.2.1	[c] : 2pg <==> 3pg
+R02736	beta-D-Glucose-6-phosphate:NADP+ 1-oxoreductase	.	Pentose phosphate pathway || Glutathione metabolism	1.1.1.49	[c] : g6p-B + nadp <==> 6pgl + nadph + h
+R02733	N6-Acetyl-LL-2,6-diaminoheptanedioate amidohydrolase	.	Lysine biosynthesis	3.5.1.47	[c] : n6all26d + h2o <==> ac + 26dap-LL
+R_RBFK	ATP:riboflavin 5'-phosphotransferase	.	Riboflavin metabolism	2.7.1.26	[c] : atp + ribflv --> adp + fmn + h
+R_PGCD	3-Phospho-D-glycerate:NAD+ 2-oxidoreductase	.	Glycine, serine and threonine metabolism	1.1.1.95	[c] : 3pg + nad --> 3php + h + nadh
+R_ILL_R01105	Galactan galactohydrolase	.	Galactose metabolism	3.2.1.23	[c] : C05796 + h2o <==> gal + C05796
+R02738	Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase	.	Glycolysis / Gluconeogenesis	2.7.1.69	[c] : C04261 + glc-D <==> C00615 + C00668
+R_RAFGH	Raffinose galactohydrolase	.	Galactose metabolism	3.2.1.22	[c] : h2o + raffin --> gal + sucr
+R_DHAD2m	(R)-2,3-Dihydroxy-3-methylpentanoate hydro-lyase	.	Valine, leucine and isoleucine biosynthesis	4.2.1.9	[c] : 23dhmp --> 3mop + h2o
+R_GALS3	melibiose galactohydrolase	.	Galactose metabolism	3.2.1.20 3.2.1.22	[c] : h2o + melib --> gal + glc-D
+R00268	Oxalosuccinate:NADP+ oxidoreductase (decarboxylating)	.	Citrate cycle (TCA cycle)	1.1.1.42	[c] : C05379 <==> akg + co2
+R01899	Isocitrate:NADP+ oxidoreductase (decarboxylating)	.	Citrate cycle (TCA cycle)	1.1.1.42	[c] : icit + nadp <==> C05379 + nadph + h
+R_ECOAH9m	(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA hydro-liase	.	Valine, leucine and isoleucine degradation	4.2.1.17	[c] : 2mb2coa + h2o <==> 3hmbcoa
+R_NTD6	2'-Deoxyadenosine 5'-monophosphate phosphohydrolase	.	Purine metabolism	3.1.3.5	[c] : damp + h2o --> dad-2 + pi
+R_GLUR	L-Glutamate racemase	.	D-Glutamine and D-glutamate metabolism || Glutamate metabolism	5.1.1.3	[c] : glu-D <==> glu-L
+R_AMANAPE	N-Acetyl-D-glucosamine 6-phosphate 2-epimerase	.	Aminosugars metabolism	5.1.3.9	[c] : acmanap --> acgam6p
+R_2HBO	2-Hydroxybutyrate:NAD+ oxidoreductase	.	Propanoate metabolism	1.1.1.27	[c] : 2hb + nad <==> 2obut + h + nadh
+R_HMGCOAR	(R)-Mevalonate:NADP+ oxidoreductase (CoA acylating)	.	Biosynthesis of steroids	1.1.1.34	[c] : coa + mev-R + 2 nadp <==> 2 h + hmgcoa + 2 nadph
+R_PRAIS	2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)	.	Purine metabolism	6.3.3.1	[c] : atp + fpram --> adp + air + 2 h + pi
+R_AIRCr	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate carboxy-lyase	.	Purine metabolism	4.1.1.21	[c] : air + co2 <==> 5aizc + h
+R_DAGK_EC	ATP:1,2-diacylglycerol 3-phosphotransferase	.	Glycerophospholipid metabolism || Glycerolipid metabolism	2.7.1.107	[c] : 0.02 12dgr_EC + atp --> adp + h + 0.02 pa_EC
+R02241	acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-O-acyltransferase	.	Glycerophospholipid metabolism || Glycerolipid metabolism	2.3.1.51	[c] : pa_Hp|pa_hs|pa_SC|pa_EC|pa_SA + coa <==> 1ag3p_SC + acoa
+R_MEVK1	ATP:(R)-mevalonate 5-phosphotransferase	.	Biosynthesis of steroids	2.7.1.36	[c] : atp + mev-R --> 5pmev + adp + h
+R_FA140ACPH	.	.	Fatty acid biosynthesis	3.1.2.14	[c] : h2o + myrsACP <==> ACP + h + ttdca
+R_DHNPAm	2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8- dihydropteridine glycolaldehyde-lyase	.	Folate biosynthesis	4.1.2.25	[c] : dhnpt --> 2ahhmp + gcald + h
+R_NTD7e	Adenosine 5'-monophosphate phosphohydrolase	.	Purine metabolism	3.1.3.5	[e] : amp + h2o --> adn + pi
+R07671	.	.	Ascorbate and aldarate metabolism	2.7.1.69	[c] : C04261 + ascb-L <==> C00615 + C16186
+R07677	.	.	Ascorbate and aldarate metabolism	3.1.1.-	[c] : C16186 + h2o <==> C14899
+R_UGMDDS	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6- diaminoheptanedioate:D-alanyl-D-alanine ligase(ADP-forming)	.	Lysine biosynthesis || Peptidoglycan biosynthesis	6.3.2.10	[c] : alaala + atp + ugmd --> adp + h + pi + ugmda
+R_NADS1	Deamino-NAD+:ammonia ligase (AMP-forming)	.	Nicotinate and nicotinamide metabolism || Nitrogen metabolism	6.3.1.5	[c] : atp + dnad + nh4 --> amp + h + nad + ppi
+R07772	.	.	Porphyrin and chlorophyll metabolism	.	[c] : C16242 + h2o <==> C16243 + acald
+R07771	.	.	Lipoic acid metabolism	2.7.7.63	[c] : C16238 + apoACP <==> C16237 + amp
+R07770	ATP:lipoate adenylyltransferase	.	Lipoic acid metabolism	2.7.7.63	[c] : atp + lipoate <==> ppi + C16238
+R07775	.	.	Porphyrin and chlorophyll metabolism	.	[c] : C16244 + amet <==> copre8 + ahcys + co2
+R07774	.	.	Porphyrin and chlorophyll metabolism	.	[c] : codhpre6 + amet <==> C16244 + ahcys
+R03062	Cephalosporin-C acetylhdrolase	.	Penicillin and cephalosporin biosynthesis	3.1.1.41	[c] : C00916 + h2o <==> C03112 + ac
+R01163	L-Histidinal:NAD+ oxidoreductase	.	Histidine metabolism	1.1.1.23	[c] : C01929 + h2o + nad <==> his-L + nadh + h
+R01209	2,3-Dihydroxy-3-methylbutanoate hydro-lyase	.	Pantothenate and CoA biosynthesis	4.2.1.9	[c] : C04039 <==> 3mob + h2o
+R_DHPSm	2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine:4- aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase	.	Folate biosynthesis	2.5.1.15	[c] : 2ahhmp + 4abz --> dhpt + h2o
+R_GALIGH	3-O-alpha-D-Galactosyl-1D-myo-inositol galactohydrolase; 1-alpha-D-Galactosyl-myo-inositol galactohydrolase	.	Galactose metabolism	3.2.1.22	[c] : 1Dgali + h2o <==> gal + inost
+R_VALTRSm	L-Valine:tRNAVal ligase (AMP-forming)	.	Valine, leucine and isoleucine biosynthesis	6.1.1.9	[c] : atp + trnaval + val-L --> amp + ppi + valtrna
+R_TRPTRS	L-Tryptophan -tRNA(Trp) ligase (AMP-forming)	.	Tryptophan metabolism	6.1.1.2	[c] : atp + trnatrp + trp-L --> amp + ppi + trptrna
+R05180	S-Adenosyl-L-methionine:precorrin-3B C17-methyltransferase	.	Porphyrin and chlorophyll metabolism	2.1.1.131	[c] : amet + C06406 <==> ahcys + C06407
+R05181	S-adenosyl-L-methionine:precorrin-4 C11 methyltransferase	.	Porphyrin and chlorophyll metabolism	2.1.1.133	[c] : amet + C06407 <==> ahcys + C06416
+R_NTD8	2'-Deoxyguanosine 5'-monophosphate phosphohydrolase	.	Purine metabolism	3.1.3.5	[c] : dgmp + h2o --> dgsn + pi
+R_PUNP4	Deoxyguanosine:orthophosphate ribosyltransferase	.	Purine metabolism	2.4.2.1 2.4.2.4	[c] : dgsn + pi <==> 2dr1p + gua
+R_THRTRSm	L-Threonine:tRNA(Thr) ligase (AMP-forming)	.	Glycine, serine and threonine metabolism	6.1.1.3	[c] : atp + thr-L + trnathr --> amp + ppi + thrtrna
+R_SERTRS	L-Serine:tRNA(Ser) ligase (AMP-forming)	.	Glycine, serine and threonine metabolism	6.1.1.11	[c] : atp + ser-L + trnaser --> amp + ppi + sertrna
+R_RNTR1	2'-Deoxyadenosine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase	.	Purine metabolism	1.17.4.2	[c] : atp + trdrd --> datp + h2o + trdox
+R_RNDR1	2'-Deoxyadenosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase	.	Purine metabolism	1.17.4.1	[c] : adp + trdrd --> dadp + h2o + trdox
+R_TRDRm	NADPH:oxidized-thioredoxin oxidoreductase	.	Pyrimidine metabolism	1.8.1.9	[c] : h + nadph + trdox --> nadp + trdrd
+R08306	2-phenyl-1,3-propanediol monocarbamate:NAD+ oxidoreductase	.	Drug metabolism - cytochrome P450	1.1.1.1	[c] : C16586 + nad <==> C16587 + nadh + h
+R_RNDR2	2'-Deoxyguanosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase	.	Purine metabolism	1.17.4.1	[c] : gdp + trdrd --> dgdp + h2o + trdox
+R_RNDR4n	2'-Deoxyuridine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase	.	Pyrimidine metabolism	1.17.4.1	[c] : trdrd + udp --> dudp + h2o + trdox
+R04859	O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)	.	Cysteine metabolism	2.5.1.47 2.5.1.49	[c] : acser + tsul + trdrd + h <==> cys-L + so3 + trdox + ac
+R04858	S-Adenosyl-L-methionine:DNA (cytosine-5-)-methyltransferase	.	Methionine metabolism	2.1.1.37	[c] : amet + C00856 <==> ahcys + dna5mtc
+R04534	(3R)-3-Hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	.	Fatty acid biosynthesis	1.1.1.100 2.3.1.85 2.3.1.86	[c] : C04619 + nadp <==> C05753 + nadph
+R04535	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	.	Fatty acid biosynthesis	2.3.1.85 2.3.1.86 4.2.1.58 4.2.1.60 4.2.1.61	[c] : C04619 <==> C05754 + h2o
+R04536	(3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	.	Fatty acid biosynthesis	1.1.1.100 2.3.1.85 2.3.1.86	[c] : C04620 + nadp <==> C05750 + nadph + h
+R04537	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase; (3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein] hydro-lyase	.	Fatty acid biosynthesis	2.3.1.85 2.3.1.86 4.2.1.58 4.2.1.59 4.2.1.61	[c] : C04620 <==> C05751 + h2o
+R06558	.	.	Porphyrin and chlorophyll metabolism	2.7.1.156	[c] : adocbi + gtp <==> adocbip + gdp
+R04533	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]:NADP+ oxidoreductase	.	Fatty acid biosynthesis	1.1.1.100 2.3.1.85 2.3.1.86	[c] : C04618 + nadp <==> actACP + nadph + h
+R05048	GTP 7,8-8,9-dihydrolase	.	Folate biosynthesis	3.5.4.16 6.-.-.-	[c] : C05923 <==> C06148
+R_UAMAS	UDP-N-acetylmuramate:L-alanine ligase (ADP-forming)	.	Peptidoglycan biosynthesis || D-Glutamine and D-glutamate metabolism	6.3.2.8	[c] : ala-L + atp + uamr --> adp + h + pi + uama
+R_NMNATn	ATP:nicotinamide-nucleotide adenylyltransferase	.	Nicotinate and nicotinamide metabolism	2.7.7.1 2.7.7.18	[c] : atp + h + nmn --> nad + ppi
+R_DPCOAKm	ATP:dephospho-CoA 3'-phosphotransferase	.	Pantothenate and CoA biosynthesis	2.7.1.24	[c] : atp + dpcoa --> adp + coa + h
+R_H2CO3D	Carbonic acid hydro-lyase	.	Nitrogen metabolism	4.2.1.1	[c] : co2 + h2o <==> h2co3
+R_UAPGR	UDP-N-acetylmuramate:NADP+ oxidoreductase	.	Aminosugars metabolism	1.1.1.158	[c] : h + nadph + uaccg --> nadp + uamr
+R_PPAKr	ATP:propanoate phosphotransferase	.	Propanoate metabolism	2.7.2.1 2.7.2.15	[c] : adp + ppap <==> atp + ppa
+R_ILL_R02421	ADP-glucose:1,4-alpha-D-glucan 4-alpha-D-glucosyltransferase	.	Starch and sucrose metabolism	2.4.1.21	[c] : adpglc + 14glun <==> adp + 14glun
+R_OBTFL	Acetyl-CoA:formate C-acetyltransferase	.	Propanoate metabolism	2.3.1.54	[c] : 2obut + coa --> for + ppcoa
+R_PNTK	ATP:pantothenate 4'-phosphotransferase	.	Pantothenate and CoA biosynthesis	2.7.1.33	[c] : atp + pnto-R --> 4ppan + adp + h
+R03012	L-Histidinol:NAD+ oxidoreductase	.	Histidine metabolism	1.1.1.23	[c] : histd + nad <==> C01929 + nadh + h
+R_ILL_R00440	Polyribonucleotide:orthophosphate nucleotidyltransferase	.	Pyrimidine metabolism	2.7.7.8	[c] : C00046 + pi <==> C00046 + cdp
+R_ILL_R00441	Guanosine 5'-triphosphate:RNA nucleotidyltransferase (DNA-directed)	.	Purine metabolism	2.7.7.6	[c] : gtp + C00046 <==> ppi + C00046
+R_ILL_R00442	Uridine triphosphate:RNA nucleotidyltransferase (DNA-directed)	.	Pyrimidine metabolism	2.7.7.6	[c] : ctp + C00046 <==> ppi + C00046
+R_ILL_R00443	UTP:RNA uridylyltransferase	.	Pyrimidine metabolism	2.7.7.6 2.7.7.52	[c] : utp + C00046 <==> ppi + C00046
+R04391	ATP:pantothenate 4'-phosphotransferase	.	Pantothenate and CoA biosynthesis	2.7.1.33	[c] : atp + C04079 <==> adp + 4ppcys
+R_FBP	D-Fructose-1,6-bisphosphate 1-phosphohydrolase	.	Carbon fixation in photosynthetic organisms	3.1.3.11	[c] : fdp + h2o --> f6p + pi
+R_G6PDA	D-Glucosamine-6-phosphate ketol-isomerase(deaminating)	.	Aminosugars metabolism	3.5.99.6	[c] : gam6p + h2o --> f6p + nh4
+R_NAPRT	Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase	.	Nicotinate and nicotinamide metabolism	2.4.2.11	[c] : h + nac + prpp --> nicrnt + ppi
+R01900	isocitrate hydro-lyase (cis-aconitate-forming)	.	Glyoxylate and dicarboxylate metabolism || Reductive carboxylate cycle (CO2 fixation) || Citrate cycle (TCA cycle)	4.2.1.3	[c] : icit <==> C00417 + h2o
+R_SHCHF	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase	.	Porphyrin and chlorophyll metabolism	4.99.1.4	[c] : fe2 + scl --> 3 h + sheme
+R_FA160ACPH	Oleoyl-[acyl-carrier protein] hydrolase	.	Fatty acid biosynthesis	2.3.1.85 3.1.2.14	[c] : h2o + palmACP <==> ACP + h + hdca
+R_MHPGLUT	5-Methyltetrahydropteroyltri-L-glutamate:L-homocysteine S-methyltransferase	.	Methionine metabolism	2.1.1.14	[c] : hcys-L + mhpglu --> hpglu + met-L
+R_HSTPT	5-Amino-2-oxopentanoate:2-oxoglutarate aminotransferase	.	Histidine metabolism	2.6.1.9	[c] : glu-L + imacp --> akg + hisp
+R_GAL6PI	D-Galactose 6-phosphate ketol-isomerase	.	Galactose metabolism	5.3.1.26	[c] : dgal6p <==> tag6p-D
+R_PMEVK	ATP:(R)-5-phosphomevalonate phosphotransferase	.	Biosynthesis of steroids	2.7.4.2	[c] : 5pmev + atp --> 5dpmev + adp
+R_X5PL3E	L-ribulose-5-phosphate 3-epimerase; L-xylulose 5-phosphate 3-epimerase	.	Pentose and glucuronate interconversions	5.1.3.22 5.-.-.-	[c] : xu5p-L --> ru5p-L
+R02332	dUTP:uridine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : dutp + uri <==> dudp + ump
+R_PRATPP	Phosphoribosyl-ATP pyrophosphohydrolase	.	Histidine metabolism	3.6.1.31	[c] : h2o + prbatp --> h + ppi + prbamp
+R_PRAMPC	1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase	.	Histidine metabolism	3.5.4.19	[c] : h2o + prbamp --> prfp
+R_TDPm	Thiamin diphosphate phosphohydrolase	.	Thiamine metabolism	3.6.1.15	[c] : h2o + thmpp --> h + pi + thmmp
+R_DHQD	3-Dehydroquinate hydro-lyase	.	Phenylalanine, tyrosine and tryptophan biosynthesis	4.2.1.10	[c] : 3dhq <==> 3dhsk + h2o
+R_TMDPPK	ATP:thiamin pyrophosphotransferase	.	Thiamine metabolism	2.7.4.15 2.7.6.2	[c] : atp + thmpp --> adp + thmtp
+R_DHQS	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate phosphate-lyase (cyclyzing)	.	Phenylalanine, tyrosine and tryptophan biosynthesis	4.2.3.4	[c] : 2dda7p --> 3dhq + pi
+R_FOLR2	Dihydrofolate:NADP+ oxidoreductase	.	One carbon pool by folate || Folate biosynthesis	1.5.1.3	[c] : fol + nadph --> dhf + nadp
+R_TMDPK	ATP:thiamin pyrophosphotransferase	.	Thiamine metabolism	2.7.6.2	[c] : atp + thm --> amp + h + thmpp
+R05032	.	.	Peptidoglycan biosynthesis	2.4.1.227	[c] : uagmda + uacgam <==> C05898 + udp
+R05033	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)- L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D- alanine:ammonia ligase (ADP-forming)	.	Peptidoglycan biosynthesis	6.3.1.2	[c] : atp + C05898 + nh4 <==> adp + pi + C05899
+R05030	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)- L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine	.	Peptidoglycan biosynthesis	6.3.1.2	[c] : atp + C05893 + nh4 <==> adp + pi + C05894
+R_GLGC	ATP:alpha-D-glucose-1-phosphate adenyltransferase	.	Starch and sucrose metabolism	2.7.7.27	[c] : atp + g1p + h --> adpglc + ppi
+R_ACBIPGT	.	.	Porphyrin and chlorophyll metabolism	2.7.7.62	[c] : adocbip + gtp + h --> agdpcbi + ppi
+R05133	Arbutin 6-phosphate glucohydrolase	.	Glycolysis / Gluconeogenesis	3.2.1.86	[c] : arbt6p + h2o <==> hqn + g6p-B
+R05132	Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase	.	Glycolysis / Gluconeogenesis	2.7.1.69	[c] : C04261 + C06186 <==> C00615 + arbt6p
+R_SHCHD2	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase	.	Porphyrin and chlorophyll metabolism	1.3.1.76	[c] : dscl + nad --> h + nadh + scl
+R00940	5,6,7,8-Tetrahydrofolate:NADP+ oxidoreductase	.	Folate biosynthesis	1.5.1.3	[c] : thf + 2 nadp <==> fol + 2 nadph + 2 h
+R05135	2',3'-Cyclic GMP 3'-nucleotidohydrolase	.	Purine metabolism	3.1.4.16	[c] : C06194 + h2o <==> C06193
+R05134	Salicin 6-phosphate glucohydrolase	.	Glycolysis / Gluconeogenesis	3.2.1.86	[c] : salc6p + h2o <==> 2hymeph + g6p-B
+R_PPC	Orthophosphate:oxaloacetate carboxyl-lyase (phosphorylating)	.	Pyruvate metabolism || Carbon fixation in photosynthetic organisms || Reductive carboxylate cycle (CO2 fixation)	4.1.1.31	[c] : co2 + h2o + pep --> h + oaa + pi
+R_ACALDi	acetaldehyde:NAD+ oxidoreductase (CoA-acetylating)	.	Pyruvate metabolism	1.2.1.10	[c] : acald + coa + nad --> accoa + h + nadh
+R_DASYNm_SC	CTP:phosphatidate cytidyltransferase	.	Glycerophospholipid metabolism	2.7.7.41	[c] : ctp + h + 0.01 pa_SC <==> 0.01 cdpdag_SC + ppi
+R_ACLS	(S)-2-Acetolactate pyruvate-lyase (carboxylating)	.	C5-Branched dibasic acid metabolism	2.2.1.6	[c] : h + 2 pyr --> alac-S + co2
+R_SERD_Lr	L-serine ammonia-lyase	.	Glycine, serine and threonine metabolism	4.3.1.17 4.3.1.19	[c] : ser-L <==> nh4 + pyr
+R_GARFT	10-Formyltetrahydrofolate:5'-phosphoribosylglycinamide formyltransferase	.	One carbon pool by folate || Purine metabolism	2.1.2.2	[c] : 10fthf + gar <==> fgam + h + thf
+R06917	alcohol:NAD+ oxidoreductase	.	1- and 2-Methylnaphthalene degradation	1.1.1.1	[c] : C14089 + nad <==> C14090 + nadh + h
+R_AGPR	N-Acetyl-L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphrylating)	.	Urea cycle and metabolism of amino groups	1.2.1.38	[c] : acg5sa + nadp + pi <==> acg5p + h + nadph
+R_FOLD3m	2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine- diphosphate:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase	.	Folate biosynthesis	2.5.1.15	[c] : 2ahhmd + 4abz --> dhpt + ppi
+R_ILL_R04241	Tetrahydrofolyl-[Glu](n):L-glutamate gamma-ligase (ADP-forming)	.	Folate biosynthesis	6.3.2.17	[c] : atp + C03541(n) + glu-L <==> adp + pi + C03541(n+1)
+R_PFK_2	ATP:D-tagatose-6-phosphate 1-phosphotransferase	.	Galactose metabolism	2.7.1.11 2.7.1.56 2.7.1.144	[c] : atp + tag6p-D --> adp + h + tagdp-D
+R03237	CTP:D-Tagatose 6-phosphate 1-phosphotransferase	.	Galactose metabolism	2.7.1.11	[c] : ctp + tag6p-D <==> cdp + tagdp-D
+R03234	.	.	Fructose and mannose metabolism	1.1.1.-	[c] : sbt6p + nadp <==> C02888 + nadph + h
+R03232	Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase	.	Fructose and mannose metabolism	2.7.1.69	[c] : C04261 + fru <==> C00615 + f1p
+R03238	UTP:D-Tagatose 6-phosphate 1-phosphotransferase	.	Galactose metabolism	2.7.1.11	[c] : utp + tag6p-D <==> udp + tagdp-D
+R03239	ITP:D-Tagatose 6-phosphate 1-phosphotransferase	.	Galactose metabolism	2.7.1.11	[c] : itp + tag6p-D <==> idp + tagdp-D
+R05627	Undecaprenyl-diphosphate phosphohydrolase	.	Peptidoglycan biosynthesis	3.6.1.27	[c] : C04574 + h2o <==> udcpp + pi
+R05961	.	.	Glycosphingolipid biosynthesis - globo series	3.2.1.22	[c] : h2o + G00093 <==> gal + G00092
+R05963	.	.	Glycosphingolipid biosynthesis - globo series	3.2.1.52	[c] : h2o + G00094 <==> acgal + G00093
+R05629	UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala):undecaprenyl- phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase	.	Peptidoglycan biosynthesis	2.7.8.13	[c] : C04702 + udcpp <==> ump + C04851
+R05628	UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala):undecaprenyl- phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase	.	Peptidoglycan biosynthesis	2.7.8.13	[c] : C04846 + udcpp <==> ump + C05888
+R_PUNP1m	Adenosine:phosphate alpha-D-ribosyltransferase	.	Purine metabolism	2.4.2.1	[c] : adn + pi <==> ade + r1p
+R_3NTD7l	adenosine 3'-phosphate phosphohydrolase	.	Purine metabolism	3.1.3.6	[c] : 3amp + h2o --> adn + pi
+R_TMDK1m	ATP:thymidine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.21	[c] : atp + thymd --> adp + dtmp + h
+R_NTD5l	Thymidylate 5'-phosphohydrolase	.	Pyrimidine metabolism	3.1.3.5 3.1.3.35	[c] : dtmp + h2o --> pi + thymd
+R05145	Biotinyl-5'-AMP:apo-[carboxylase] ligase (AMP-forming)	.	Biotin metabolism	6.3.4.9 6.3.4.10 6.3.4.11 6.3.4.15	[c] : btamp + C06249 <==> amp + C06250
+R_ACGK	ATP:N-acetyl-L-glutamate 5-phosphotransferase	.	Urea cycle and metabolism of amino groups	2.7.2.8	[c] : acglu + atp --> acg5p + adp
+R_ATPPRT	1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase	.	Histidine metabolism	2.4.2.17	[c] : atp + prpp --> ppi + prbatp
+R_LEUTAm	L-Leucine:2-oxoglutarate aminotransferase	.	Valine, leucine and isoleucine biosynthesis || Valine, leucine and isoleucine degradation	2.6.1.6 2.6.1.42 2.6.1.67	[c] : akg + leu-L <==> 4mop + glu-L
+R_ILL_R02887	1,4-beta-D-Glucan glucohydrolase	.	Starch and sucrose metabolism	3.2.1.21	[c] : C00760 + h2o <==> C00760 + C00221
+R_GALK	ATP:D-galactose 1-phosphotransferase	.	Galactose metabolism	2.7.1.6	[c] : atp + gal --> adp + gal1p + h
+R08238	6-methylthiopurine 5'-monophosphate ribonucleotide:diphosphate phospho-D-ribosyltransferase	.	Drug metabolism - other enzymes	2.4.2.8	[c] : C16614 + prpp <==> C16615 + ppi
+R05815	.	.	Porphyrin and chlorophyll metabolism	6.3.1.-	[c] : cobya + 2 gln-L + 2 atp + 2 h2o <==> co2dam + 2 glu-L + 2 adp + 2 pi
+R02110	1,4-alpha-D-Glucan:1,4-alpha-D-glucan 6-alpha-D-(1,4-alpha-D-glucano)-transferase	.	Starch and sucrose metabolism	2.4.1.18	[c] : 14glun <==> strch2|strch1
+R02111	1,4-alpha-D-Glucan:orthophosphate alpha-D-glucosyltransferase	.	Starch and sucrose metabolism	2.4.1.1	[c] : strch2|strch1 + pi <==> 14glun + g1p
+R05810	cobalt-precorrin-4 methyltransferase	.	Porphyrin and chlorophyll metabolism	2.1.1.133	[c] : copre4 + amet <==> C16242 + ahcys
+R00867	ATP:D-fructose 6-phosphotransferase	.	Fructose and mannose metabolism	2.7.1.1 2.7.1.4	[c] : atp + fru <==> adp + f6p-B
+R_CPC6R	.	.	Porphyrin and chlorophyll metabolism	1.3.1.54	[c] : copre6 + h + nadph --> codhpre6 + nadp
+R07034	Glutathione: 5-HPETE oxidoreductase	.	Arachidonic acid metabolism	1.11.1.9	[c] : 2 gthrd + 5HPET <==> gthox + C04805 + h2o
+R04812	.	.	Bile acid biosynthesis	1.1.1.-	[c] : C05450 + nad <==> cholcoaone + nadh + h
+R04810	.	.	Bile acid biosynthesis	1.1.1.-	[c] : thcholoylcoa + nad <==> xoltetrol|dhocholoylcoa + nadh + h
+R_PSD_SA	Phsophatidyl-L-serine carboxy-lyase	.	Glycine, serine and threonine metabolism || Glycerophospholipid metabolism	4.1.1.65	[c] : h + 0.02 ps_SA --> co2 + 0.02 pe_SA
+R08244	6-thioxanthine 5'-monophosphate:L-glutamine amido-ligase (AMP-forming)	.	Drug metabolism - other enzymes	6.3.5.2	[c] : C16618 + atp + gln-L + h2o <==> C16619 + amp + ppi + glu-L
+R08245	6-thioguanosine monophosphate:diphosphate phospho-D-ribosyltransferase	.	Drug metabolism - other enzymes	2.4.2.8	[c] : C07648 + prpp <==> C16619 + ppi
+R_PRAGS	5-Phospho-D-ribosylamine:glycine ligase (ADP-forming)	.	Purine metabolism	6.3.4.13	[c] : atp + gly + pram --> adp + gar + h + pi
+R08240	6-thioinosine 5'-monophosphate:NAD+ oxidoreductase	.	Drug metabolism - other enzymes	1.1.1.205	[c] : C04646 + nad + h2o <==> C16618 + nadh + h
+R_PROTRS	L-Proline:tRNA(Pro) ligase (AMP-forming)	.	Arginine and proline metabolism	6.1.1.15	[c] : atp + pro-L + trnapro --> amp + ppi + protrna
+R_PHETRSm	L-Phenylalanine:tRNA(Ala) ligase (AMP-forming)	.	Phenylalanine, tyrosine and tryptophan biosynthesis	6.1.1.20	[c] : atp + phe-L + trnaphe --> amp + phetrna + ppi
+R03050	2-Acetolactate pyruvate-lyase (carboxylating)	.	Butanoate metabolism	2.2.1.6	[c] : C00900 + thmpp <==> C05125 + pyr
+R04780	beta-D-Fructose 1,6-bisphosphate 1-phosphohydrolase	.	Pentose phosphate pathway || Fructose and mannose metabolism || Glycolysis / Gluconeogenesis	3.1.3.11	[c] : C05378 + h2o <==> f6p-B + pi
+R06942	(3S)-3-hydroxyacyl-CoA hydro-lyase	.	Caprolactam degradation	4.2.1.17	[c] : C14144 + h2o <==> C14145
+R_FMETTRS	10-Formyltetrahydrofolate:L-methionyl-tRNA N-formyltransferase	.	One carbon pool by folate || Methionine metabolism	2.1.2.9	[c] : 10fthf + mettrna --> fmettrna + h + thf
+R04440	(R)-2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)	.	Valine, leucine and isoleucine biosynthesis	1.1.1.86	[c] : 23dhmb + nadp <==> C04181 + nadph + h
+R03191	UDP-N-acetylmuramate:NADP+ oxidoreductase	.	Aminosugars metabolism	1.1.1.158	[c] : uamr + nad <==> uaccg + nadh + h
+R03943	.	.	Tyrosine metabolism	2.1.1.-	[c] : C02442 + amet <==> C06199 + ahcys
+R_UPP3MT	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase	.	Porphyrin and chlorophyll metabolism	2.1.1.107	[c] : 2 amet + uppg3 --> 2 ahcys + dscl + h
+R_P5CR	L-Proline:NADP+ 5-oxidoreductase	.	Arginine and proline metabolism	1.5.1.2	[c] : 1pyr5c + 2 h + nadph --> nadp + pro-L
+R_ALAR	L-Alanine racemase	.	Alanine and aspartate metabolism || D-Alanine metabolism	5.1.1.1	[c] : ala-L <==> ala-D
+R08233	ATP:5-fluorodeoxyuridine 5'-phosphotransferase	.	Drug metabolism - other enzymes	2.7.1.21	[c] : C11736 + atp <==> C04242 + adp
+R08232	ATP:5-fluorouridine 5'-phosphotransferase	.	Drug metabolism - other enzymes	2.7.1.48	[c] : C16633 + atp <==> C16634 + adp
+R08231	5-fluorouridine monophosphate:diphosphate phospho-alpha-D-ribosyl-transferase	.	Drug metabolism - other enzymes	2.4.2.10	[c] : C07649 + prpp <==> C16634 + ppi
+R08237	6-thioinosine 5'-monophosphate:diphosphate phospho-D-ribosyltransferase	.	Drug metabolism - other enzymes	2.4.2.8	[c] : C02380 + prpp <==> C04646 + ppi
+R04558	.	.	Histidine metabolism	2.4.2.- 4.1.3.-	[c] : C04916 + gln-L <==> eig3p + aicar + glu-L
+R01830	beta-D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase	.	Pentose phosphate pathway	2.2.1.1	[c] : f6p-B + g3p <==> e4p + xu5p-D
+R07773	.	.	Porphyrin and chlorophyll metabolism	.	[c] : C16243 + amet <==> copre6 + ahcys
+R_ADSL2r	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase	.	Purine metabolism	4.3.2.2	[c] : 25aics <==> aicar + fum
+R_ACLDC	(S)-2-Hydroxy-2-methyl-3-oxobutanoate carboxy-lyase	.	C5-Branched dibasic acid metabolism	4.1.1.5	[c] : alac-S + h --> actn-R + co2
+R02739	alpha-D-Glucose 6-phosphate ketol-isomerase	.	Pentose phosphate pathway || Glycolysis / Gluconeogenesis	5.1.3.15 5.3.1.9	[c] : C00668 <==> g6p-B
+R_DHAD1	(R)-2,3-Dihydroxy-3-methylbutanoate hydro-lyase	.	Valine, leucine and isoleucine biosynthesis	4.2.1.9	[c] : 23dhmb --> 3mob + h2o
+R02947	2-Acetolactate carboxy-lyase	.	Butanoate metabolism	4.1.1.5	[c] : C00900 <==> actn-R + co2
+R04568	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase	.	Fatty acid biosynthesis	2.3.1.85 2.3.1.86 4.2.1.61	[c] : 3hmrsACP <==> C05760 + h2o
+R04566	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	.	Fatty acid biosynthesis	1.1.1.100 2.3.1.85 2.3.1.86	[c] : 3hmrsACP + nadp <==> C05759 + nadph + h
+R02370	Cytidine 3'-phosphate phosphohydrolase	.	Pyrimidine metabolism	3.1.3.6	[c] : C05822 + h2o <==> cytd + pi
+R02371	dCTP:cytidine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : dctp + cytd <==> dcdp + cmp
+R02372	dUTP:cytidine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : dutp + cytd <==> dudp + cmp
+R_AICART	10-Formyltetrahydrofolate:5'-phosphoribosyl-5-amino-4- imidazolecarboxamide formyltransferase	.	One carbon pool by folate || Purine metabolism	2.1.2.3	[c] : 10fthf + aicar <==> fprica + thf
+R_FMNATm	ATP:FMN adenylyltransferase	.	Riboflavin metabolism	2.7.7.2	[c] : atp + fmn + h --> fad + ppi
+R04963	Decanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	.	Fatty acid biosynthesis	2.3.1.41 2.3.1.85 2.3.1.86 2.3.1.179 2.3.1.180	[c] : dcaACP + malACP <==> C05756 + co2 + apoACP|ACP
+R_ENO	2-Phospho-D-glucerate hydro-lyase	.	Glycolysis / Gluconeogenesis	4.2.1.11	[c] : 2pg <==> h2o + pep
+R04961	Decanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)	.	Fatty acid biosynthesis	1.3.1.9 2.3.1.86	[c] : dcaACP + nad <==> C05754 + nadh + h
+R04960	Octanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	.	Fatty acid biosynthesis	2.3.1.41 2.3.1.85 2.3.1.86 2.3.1.179 2.3.1.180	[c] : C05752 + malACP <==> C05753 + co2 + apoACP|ACP
+R04966	Tetradecanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)	.	Fatty acid biosynthesis	1.3.1.9 2.3.1.86	[c] : myrsACP + nad <==> C05760 + nadh + h
+R04965	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	.	Fatty acid biosynthesis	2.3.1.85 2.3.1.86 4.2.1.58 4.2.1.60 4.2.1.61	[c] : C05757 <==> C05758 + h2o
+R04964	(3R)-3-Hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	.	Fatty acid biosynthesis	1.1.1.100 2.3.1.85 2.3.1.86	[c] : C05757 + nadp <==> C05756 + nadph + h
+R_NNDMBRT	Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase	.	Porphyrin and chlorophyll metabolism || Riboflavin metabolism	2.4.2.21	[c] : dmbzid + nicrnt --> 5prdmbz + h + nac
+R_HCYSMT	S-Adenosyl-L-methionine:L-homocysteine S-methyltransferase	.	Methionine metabolism	2.1.1.10	[c] : amet + hcys-L --> ahcys + h + met-L
+R04969	Hexadecanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)	.	Fatty acid biosynthesis	1.3.1.9 2.3.1.86	[c] : palmACP + nad <==> C05763 + nadh + h
+R04968	Tetradecanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	.	Fatty acid biosynthesis	2.3.1.41 2.3.1.85 2.3.1.86 2.3.1.179 2.3.1.180	[c] : myrsACP + malACP <==> C05762 + co2 + apoACP|ACP
+R_GAPD	D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)	.	Glycolysis / Gluconeogenesis	1.2.1.12 1.2.1.59	[c] : g3p + nad + pi <==> 13dpg + h + nadh
+R_GAPD_LPAREN_nadp_RPAREN_	D-glyceraldehyde-3-phosphate:NADP+ oxidoreductase (phosphorylating)	.	Glycolysis / Gluconeogenesis	1.2.1.13 1.2.1.59	[c] : g3p + nadp + pi <==> 13dpg + h + nadph
+R_TKT2	D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase	.	Carbon fixation in photosynthetic organisms	2.2.1.1	[c] : e4p + xu5p-D <==> f6p + g3p
+R_DRPA	2-deoxy-D-ribose-5-phosphate acetaldehyde-lyase (D-glyceraldehyde-3-phosphate-forming)	.	Pentose phosphate pathway	4.1.2.4	[c] : 2dr5p --> acald + g3p
+R_TGBPA	D-tagatose 1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)	.	Galactose metabolism	4.1.2.40	[c] : tagdp-D <==> dhap + g3p
+R_FBA	D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)	.	Carbon fixation in photosynthetic organisms	4.1.2.13	[c] : fdp <==> dhap + g3p
+R07807	.	.	Glycosaminoglycan degradation	3.2.1.23	[c] : G13032 + h2o <==> G06780 + gal
+R03601	O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)	.	Selenoamino acid metabolism	2.5.1.47	[c] : acser + seln <==> selcys + ac
+R06004	.	.	Glycosphingolipid biosynthesis - ganglio series	3.2.1.52	[c] : G00109 + h2o <==> G00108 + acgal
+R01172	butanal:NAD+ oxidoreductase (CoA-acylating)	.	Butanoate metabolism	1.2.1.10 1.2.1.57	[c] : C01412 + coa + nad <==> btcoa + nadh + h
+R_THDPS	Succinyl-CoA:2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	.	Lysine biosynthesis	2.3.1.117	[c] : h2o + succoa + thdp --> coa + sl2a6o
+R_CYTK2n	ATP:dCMP phosphotransferase	.	Pyrimidine metabolism	2.7.4.14	[c] : atp + dcmp <==> adp + dcdp
+R_NTD3l	2'-Deoxycytidine 5'-monophosphate phosphohydrolase	.	Pyrimidine metabolism	3.1.3.5	[c] : dcmp + h2o --> dcyt + pi
+R_DCMPDA	dCMP aminohydrolase	.	Pyrimidine metabolism	3.5.4.12	[c] : dcmp + h + h2o <==> dump + nh4
+R03270	.	.	Pyruvate metabolism || Citrate cycle (TCA cycle) || Glycolysis / Gluconeogenesis	1.2.4.1	[c] : C05125 + C15972 <==> C16255 + thmpp
+R_DURIPP	deoxyuridine:orthophosphate 2-deoxy-D-ribosyltransferase; deoxyuridine:orthophosphate ribosyltransferase	.	Pyrimidine metabolism	2.4.2.1 2.4.2.4 2.4.2.23	[c] : duri + pi <==> 2dr1p + ura
+R_DCYTD	Deoxycytidine aminohydrolase	.	Pyrimidine metabolism	3.5.4.5 3.5.4.14	[c] : dcyt + h + h2o --> duri + nh4
+R05100	.	.	Caprolactam degradation	3.7.1.-	[c] : C06102 <==> C06105 + h2o
+R_SHSL2r	O4-succinyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase; O-succinyl-L-homoserine succinate-lyase (adding hydrogen sulfide)	.	Methionine metabolism	2.5.1.48 2.5.1.-	[c] : h2s + suchms <==> h + hcys-L + succ
+R05662	.	.	Peptidoglycan biosynthesis	2.4.1.227	[c] : C04851 + uacgam <==> C05893 + udp
+R_AHSERL2	O-acetyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase; O-acetyl-L-homoserine acetate-lyase (adding hydrogen sulfide)	.	Methionine metabolism	2.5.1.49	[c] : achms + h2s --> ac + h + hcys-L
+R_GND	6-phospho-D-gluconate:NADP+ 2-oxidoreductase (decarboxylating)	.	Pentose phosphate pathway || Glutathione metabolism	1.1.1.44	[c] : 6pgc + nadp --> co2 + nadph + ru5p-D
+R_RPE	D-Ribulose-5-phosphate 3-epimerase	.	Carbon fixation in photosynthetic organisms || Pentose phosphate pathway || Pentose and glucuronate interconversions	5.1.3.1	[c] : ru5p-D <==> xu5p-D
+R02323	Nicotinamide ribonucleotide phosphohydrolase	.	Nicotinate and nicotinamide metabolism	3.1.3.5	[c] : nmn + h2o <==> rnam + pi
+R_TRPS1	L-Serine hydro-lyase (adding indoleglycerol-phosphate)	.	Phenylalanine, tyrosine and tryptophan biosynthesis	4.2.1.20	[c] : 3ig3p + ser-L --> g3p + h2o + trp-L
+R_GTHPe	glutathione:hydrogen-peroxide oxidoreductase	.	Glutathione metabolism	1.11.1.9	[e] : 2 gthrd + h2o2 <==> gthox + 2 h2o
+R05069	(S)-2-Aceto-2-hydroxybutanoate:NADP+ oxidoreductase (isomerizing)	.	Valine, leucine and isoleucine biosynthesis	1.1.1.86 5.4.99.3	[c] : 2ahbut <==> C14463
+R05068	(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase (isomerizing)	.	Valine, leucine and isoleucine biosynthesis	1.1.1.86	[c] : 23dhmp + nadp <==> C14463 + nadph + h
+R01880	dGTP:uridine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : dgtp + uri <==> dgdp + ump
+R_CBPSn	hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)	.	Pyrimidine metabolism || Glutamate metabolism	6.3.5.5	[c] : 2 atp + gln-L + h2o + hco3 --> 2 adp + cbp + glu-L + 2 h + pi
+R_CTPS1	UTP:ammonia ligase(ADP-forming)	.	Pyrimidine metabolism	6.3.4.2	[c] : atp + nh4 + utp --> adp + ctp + 2 h + pi
+R_CTPS2	UTP:ammonia ligase(ADP-forming)	.	Pyrimidine metabolism	6.3.4.2	[c] : atp + gln-L + h2o + utp --> adp + ctp + glu-L + 2 h + pi
+R03537	2',3'-Cyclic AMP 3'-nucleotidohydrolase	.	Purine metabolism	3.1.4.16	[c] : C02353 + h2o <==> 3amp
+R_DURIK1m	ATP:deoxyuridine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.21	[c] : atp + duri --> adp + dump + h
+R_URIDK2m	ATP:dUMP phosphotransferase	.	Pyrimidine metabolism	2.7.4.4 2.7.4.9	[c] : atp + dump <==> adp + dudp
+R_ILL_R00378	Thymidine triphosphate:DNA deoxynucleotidyltransferase (DNA-directed)	.	Pyrimidine metabolism	2.7.7.7	[c] : dttp + dna <==> ppi + dna
+R04212	Asp-tRNA(Asn):L-glutamine amido-ligase (ADP-forming)	.	Alanine and aspartate metabolism	6.3.5.6	[c] : asntrna + glu-L + pi + adp <==> C06113 + gln-L + atp + h2o
+R_ILL_R00376	Deoxyguanosine 5'-triphosphate:DNA deoxynucleotidyltransferase (DNA-directed)	.	Purine metabolism	2.7.7.7	[c] : dgtp + dna <==> ppi + dna
+R_DTMPK	ATP:dTMP phosphotransferase	.	Pyrimidine metabolism	2.7.4.9 2.7.4.12	[c] : atp + dtmp <==> adp + dtdp
+R02097	dTTP:uridine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : dttp + uri <==> dtdp + ump
+R02096	dTTP:cytidine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : dttp + cytd <==> dtdp + cmp
+R02091	dGTP:cytidine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : dgtp + cytd <==> dgdp + cmp
+R03538	2',3'-Cyclic UMP 3'-nucleotidohydrolase	.	Pyrimidine metabolism	3.1.4.16	[c] : C02355 + h2o <==> C01368
+R_GLUTRR	L-glutamate-semialdehyde: NADP+ oxidoreductase(L-glutamyl-tRNA(Glu)-forming)	.	Porphyrin and chlorophyll metabolism	1.2.1.70	[c] : glutrna + h + nadph --> glu1sa + nadp + trnaglu
+R04746	(S)-Hydroxyoctanoyl-CoA hydro-lyase	.	Fatty acid metabolism	4.2.1.17 4.2.1.74	[c] : 3hocoa <==> C05276 + h2o
+R08367	Protein-N(pai)-phosphohistidine:D-Galactosamine N(pai)-phosphotransferase	.	Galactose metabolism	2.7.1.69	[c] : C02262 + C04261 <==> C06377 + C00615
+R08366	Protein-N(pai)-phosphohistidine:N-Acetyl-D-galactosamine N(pai)-phosphotransferase	.	Galactose metabolism	2.7.1.69	[c] : acgal + C04261 <==> C06376 + C00615
+R_ECOAH6p	(S)-3-Hydroxytetradecanoyl-CoA hydro-lyase	.	Fatty acid metabolism	4.2.1.17 4.2.1.74	[c] : 3htdcoa <==> h2o + td2coa
+R_GLNTRAT	Glu-tRNA(Gln):L-glutamine amido-ligase(ADP-forming)	.	Glutamate metabolism	6.3.5.7	[c] : atp + gln-L + glutrna_LPAREN_gln_RPAREN_ + h2o --> adp + glntrna + glu-L + h + pi
+R_DNMPPA	.	.	Folate biosynthesis	3.6.1.-	[c] : dhpmp + h2o --> dhnpt + pi
+R_ECOAH2	(S)-Hydroxyhexanoyl-CoA hydro-lyase	.	Fatty acid metabolism	4.2.1.17 4.2.1.74	[c] : 3hhcoa <==> h2o + hx2coa
+R_ILL_R05196	1,4-alpha-D-Glucan:1,4-alpha-D-glucan 4-alpha-D-glycosyltransferase	.	Starch and sucrose metabolism	2.4.1.25	[c] : 14glun + n glc-D <==> n malt
+R_GMPS	Xanthosine-5'-phosphate:ammonia ligase (AMP-forming)	.	Purine metabolism	6.3.4.1 6.3.5.2	[c] : atp + nh4 + xmp --> amp + gmp + 2 h + ppi
+R_GMPS2	Xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming)	.	Purine metabolism || Glutamate metabolism	6.3.5.2	[c] : atp + gln-L + h2o + xmp --> amp + glu-L + gmp + 2 h + ppi
+R_ILL_R00887	.	.	Fructose and mannose metabolism	2.4.1.-	[c] : gdpmann + C00464(n) <==> gdp + C00464(n+1)
+R_LYSTRS	L-Lysine:tRNALys ligase (AMP-forming)	.	Lysine biosynthesis	6.1.1.6	[c] : atp + lys-L + trnalys --> amp + lystrna + ppi
+R_METTRS	L-Methionine:tRNAMet ligase (AMP-forming)	.	Methionine metabolism	6.1.1.10	[c] : atp + met-L + trnamet --> amp + mettrna + ppi
+R_CYSTRS	L-Cysteine:tRNA(Cys) ligase (AMP-forming)	.	Cysteine metabolism	6.1.1.16	[c] : atp + cys-L + trnacys --> amp + cystrna + ppi
+R_GLUTRS_LPAREN_Gln_RPAREN_	L-Glutamate:tRNA(Gln) ligase (AMP-forming)	.	Glutamate metabolism	6.1.1.24	[c] : atp + glu-L + trnagln --> amp + glutrna_LPAREN_gln_RPAREN_ + ppi
+R_HMGCOASm	acetyl-CoA:acetoacetyl-CoA C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)	.	Butanoate metabolism || Valine, leucine and isoleucine degradation	2.3.3.10	[c] : coa + h + hmgcoa <==> aacoa + accoa + h2o
+R_GLYTRS	Glycine:tRNA(Gly) ligase (AMP-forming)	.	Glycine, serine and threonine metabolism	6.1.1.14	[c] : atp + gly + trnagly --> amp + glytrna + ppi
+R_HISTRS	L-Histidine:tRNA(His) ligase (AMP-forming)	.	Histidine metabolism	6.1.1.21	[c] : atp + his-L + trnahis --> amp + histrna + ppi
+R_ILETRS	L-Isoleucine:tRNA(Ile) ligase (AMP-forming)	.	Valine, leucine and isoleucine biosynthesis	6.1.1.5	[c] : atp + ile-L + trnaile --> amp + iletrna + ppi
+R_LEUTRS	L-Leucine:tRNA(Leu) ligase (AMP-forming)	.	Valine, leucine and isoleucine biosynthesis	6.1.1.4	[c] : atp + leu-L + trnaleu --> amp + leutrna + ppi
+R_RNTR2	2'-Deoxyguanosine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase	.	Purine metabolism	1.17.4.2	[c] : gtp + trdrd --> dgtp + h2o + trdox
+R01159	S-adenosyl-L-methionine:L-histidine N-methyltransferase	.	Histidine metabolism	2.1.1.-	[c] : his-L + amet <==> C01152 + ahcys
+R_CYTD	Cytidine aminohydrolase	.	Pyrimidine metabolism	3.5.4.5	[c] : cytd + h + h2o --> nh4 + uri
+R_GALUi	UTP:alpha-D-glucose-1-phosphate uridylyltransferase	.	Galactose metabolism || Starch and sucrose metabolism || Nucleotide sugars metabolism || Pentose and glucuronate interconversions	2.7.7.9	[c] : g1p + h + utp --> ppi + udpg
+R_RNDR3	2'-Deoxycytidine diphosphate:oxidized-thioredoxin 2'-oxidoreductase	.	Pyrimidine metabolism	1.17.4.1	[c] : cdp + trdrd --> dcdp + h2o + trdox
+R02026	O-acetyl-L-homoserine acetate-lyase (L-homocysteine forming)	.	Methionine metabolism	.	[c] : achms + tsul + trdrd + h <==> hcys-L + so3 + trdox + ac
+R_ORPT	Orotidine-5'-phosphate:diphosphate phospho-alpha-D-ribosyl-transferase	.	Pyrimidine metabolism	2.4.2.10	[c] : orot5p + ppi <==> orot + prpp
+R01877	Uridine 3'-monophosphate phosphohydrolase	.	Pyrimidine metabolism	3.1.3.6	[c] : C01368 + h2o <==> uri + pi
+R04488	.	.	Benzoate degradation via hydroxylation	3.7.1.-	[c] : C04484 + h2o <==> C06035 + for
+R04958	Octanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)	.	Fatty acid biosynthesis	1.3.1.9 2.3.1.86	[c] : C05752 + nad <==> C05751 + nadh + h
+R_THRS	O-phospho-L-homoserine phosphate-lyase (adding water;L-threonine-forming)	.	Glycine, serine and threonine metabolism	4.2.3.1	[c] : h2o + phom --> pi + thr-L
+R04952	butyryl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	.	Fatty acid biosynthesis	2.3.1.41 2.3.1.85 2.3.1.86 2.3.1.179 2.3.1.180	[c] : C05745 + malACP <==> C05746 + co2 + apoACP|ACP
+R04953	(3R)-3-Hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	.	Fatty acid biosynthesis	1.1.1.100 2.3.1.85 2.3.1.86	[c] : C05747 + nadp <==> C05746 + nadph + h
+R04951	.	.	Glutathione metabolism	3.4.11.1 3.4.11.2 3.4.11.23 3.4.13.3	[c] : C05729 + h2o <==> C05726 + gly
+R04957	hexanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	.	Fatty acid biosynthesis	2.3.1.41 2.3.1.85 2.3.1.86 2.3.1.179 2.3.1.180	[c] : C05749 + malACP <==> C05750 + co2 + apoACP|ACP
+R04954	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	.	Fatty acid biosynthesis	2.3.1.85 2.3.1.86 4.2.1.58	[c] : C05747 <==> C05748 + h2o
+R04955	Hexanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)	.	Fatty acid biosynthesis	1.3.1.9 2.3.1.86	[c] : C05749 + nad <==> C05748 + nadh + h
+R_LGTHL	(R)-S-Lactoylglutathione methylglyoxal-lyase (isomerizing)	.	Pyruvate metabolism	4.4.1.5	[c] : gthrd + mthgxl --> lgt-S
+R_ADK1	ATP:AMP phosphotransferase	.	Purine metabolism	2.7.4.3	[c] : amp + atp <==> 2 adp
+R05332	Acetyl-CoA:D-glucosamine-1-phosphate N-acetyltransferase	.	Aminosugars metabolism	2.3.1.157	[c] : accoa + gam1p <==> coa + C04501
+R_ECOAH12m	(S)-3-Hydroxyisobutyryl-CoA hydro-lyase	.	Valine, leucine and isoleucine degradation	4.2.1.17	[c] : 2mp2coa + h2o <==> 3hibutcoa
+R_HMBS	Porphobilinogen ammonia-lyase (polymerizing)	.	Porphyrin and chlorophyll metabolism	2.5.1.61	[c] : h2o + 4 ppbng --> hmbil + 4 nh4
+R_ATPM	ATP phosphohydrolase (protein-secreting)	.	Purine metabolism	3.6.1.3 3.6.1.5 3.6.1.8 3.6.1.15 3.6.3.1 3.6.3.2 3.6.3.3 3.6.3.4 3.6.3.5 3.6.3.6 3.6.3.7 3.6.3.8 3.6.3.9 3.6.3.10 3.6.3.11 3.6.3.12 3.6.3.14 3.6.3.15 3.6.3.16 3.6.3.17 3.6.3.18 3.6.3.19 3.6.3.20 3.6.3.21 3.6.3.22 3.6.3.23 3.6.3.24 3.6.3.25 3.6.3.26 3.6.3.27 3.6.3.28 3.6.3.29 3.6.3.30 3.6.3.31 3.6.3.32 3.6.3.33 3.6.3.34 3.6.3.35 3.6.3.36 3.6.3.37 3.6.3.38 3.6.3.39 3.6.3.40 3.6.3.41 3.6.3.42 3.6.3.43 3.6.3.44 3.6.3.46 3.6.3.47 3.6.3.48 3.6.3.49 3.6.3.50 3.6.3.51 3.6.3.52 3.6.3.53 3.6.4.1 3.6.4.2 3.6.4.3 3.6.4.4 3.6.4.5 3.6.4.6 3.6.4.7 3.6.4.8 3.6.4.9 3.6.4.10 3.6.4.11	[c] : atp + h2o --> adp + h + pi
+R04137	3-Hydroxyisopentyl-CoA hydro-lyase	.	Valine, leucine and isoleucine degradation	4.2.1.17	[c] : C05998 <==> 3mb2coa + h2o
+R_ALCD2if	Ethanol:NAD+ oxidoreductase	.	Glycolysis / Gluconeogenesis	1.1.1.1 1.1.1.71	[c] : etoh + nad --> acald + h + nadh
+R02508	.	.	Sulfur metabolism	2.5.1.48	[c] : C00542 + succ <==> suchms + cys-L
+R_NNATn	ATP:nicotinamide-nucleotide adenylyltransferase	.	Nicotinate and nicotinamide metabolism	2.7.7.1 2.7.7.18	[c] : atp + h + nicrnt --> dnad + ppi
+R_PHETA1	L-Phenylalanine:2-oxoglutarate aminotransferase	.	Phenylalanine, tyrosine and tryptophan biosynthesis	2.6.1.1 2.6.1.5 2.6.1.9 2.6.1.57	[c] : akg + phe-L <==> glu-L + phpyr
+R00691	L-Arogenate hydro-lyase (decarboxylating)	.	Phenylalanine, tyrosine and tryptophan biosynthesis	4.2.1.51 4.2.1.91	[c] : C00826 <==> phe-L + h2o + co2
+R_CLPNS_EC	.	.	Glycerophospholipid metabolism	2.7.8.-	[c] : 0.04 pg_EC <==> 0.02 clpn_EC + glyc
+R_SERHL	L-Serine hydro-lyase (deaminating)	.	Cysteine metabolism	4.3.1.17	[c] : ser-L --> 2amac + h2o
+R01901	ATP:L-xylulose 5-phosphotransferase	.	Pentose and glucuronate interconversions	2.7.1.53	[c] : atp + xylu-L <==> adp + xu5p-L
+R_DAPDC	meso-2,6-Diaminoheptanedioate carboxy-lyase	.	Lysine biosynthesis	4.1.1.20	[c] : 26dap-M + h --> co2 + lys-L
+R_PYDXNK	ATP:pyridoxine 5'-phosphotransferase	.	Vitamin B6 metabolism	2.7.1.35	[c] : atp + pydxn --> adp + h + pdx5p
+R02971	ATP:pantothenate 4'-phosphotransferase	.	Pantothenate and CoA biosynthesis	2.7.1.33 2.7.1.34	[c] : atp + ptth <==> adp + pan4p
+R_DMATT	Dimethylallyl-diphosphate:isopentenyl-diphosphate dimethylallyltranstransferase	.	Terpenoid biosynthesis || Biosynthesis of steroids	2.5.1.1 2.5.1.10 2.5.1.29	[c] : dmpp + ipdp --> grdp + ppi
+R_MTHFCm	5,10-Methenyltetrahydrofolate 5-hydrolase (decyclizing)	.	One carbon pool by folate || Glyoxylate and dicarboxylate metabolism	3.5.4.9	[c] : h2o + methf <==> 10fthf + h
+R03920	ATP:D-fructose 6-phosphotransferase	.	Starch and sucrose metabolism	2.7.1.1 2.7.1.4	[c] : atp + C02336 <==> adp + f6p-B
+R02327	dCTP:uridine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : dctp + uri <==> dcdp + ump
+R_IZPN	4-imidazolone-5-propanoate amidohydrolase	.	Histidine metabolism	3.5.2.7	[c] : 4izp + h2o --> forglu + h
+R_IPPMIa	3-Isopropylmalate hydro-lyase	.	Valine, leucine and isoleucine biosynthesis	4.2.1.33	[c] : 3c2hmp <==> 2ippm + h2o
+R02320	NTP:pyruvate O2-phosphotransferase	.	Pyruvate metabolism || Carbon fixation in photosynthetic organisms	2.7.1.40	[c] : C00201 + pyr <==> C00454 + pep
+R_FGLU	N-Formimino-L-glutamate formiminohydrolase	.	Histidine metabolism	3.5.3.8	[c] : forglu + h + h2o --> frmd + glu-L
+R_GluForTx	5-Formiminotetrahydrofolate:L-glutamate N-formiminotransferase	.	Histidine metabolism || One carbon pool by folate	2.1.2.5	[c] : forglu + h + thf --> 5forthf + glu-L
+R_ICDHyr	Isocitrate:NADP+ oxidoreductase (decarboxylating)	.	Reductive carboxylate cycle (CO2 fixation) || Glutathione metabolism	1.1.1.42	[c] : icit + nadp <==> akg + co2 + nadph
+R_ORNTACim	N2-Acetyl-L-ornithine:L-glutamate N-acetyltransferase	.	Urea cycle and metabolism of amino groups	2.3.1.35	[c] : acorn + glu-L --> acglu + orn
+R_ACOTA	N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase	.	Urea cycle and metabolism of amino groups	2.6.1.11	[c] : acorn + akg <==> acg5sa + glu-L
+R07809	.	.	Glycosaminoglycan degradation	3.2.1.52	[c] : G13033 + h2o <==> G08421 + acgal
+R_PTAr	Acetyl-CoA:orthophosphate acetyltransferase	.	Pyruvate metabolism || Taurine and hypotaurine metabolism	2.3.1.8	[c] : accoa + pi <==> actp + coa
+R_CBMK	ATP:carbamate phosphotransferase	.	Purine metabolism || Nitrogen metabolism || Arginine and proline metabolism || Glutamate metabolism	2.7.2.2	[c] : atp + co2 + nh4 --> adp + cbp + 2 h
+R_GF6PTA	L-Glutamine:D-fructose-6-phosphate aminotransferase (hexose isomerizing)	.	Aminosugars metabolism || Glutamate metabolism	2.6.1.16	[c] : f6p + gln-L --> gam6p + glu-L
+R00014	pyruvate:thiamin diphosphate acetaldehydetransferase (decarboxylating)	.	Valine, leucine and isoleucine biosynthesis || Pyruvate metabolism || Butanoate metabolism || Citrate cycle (TCA cycle) || Glycolysis / Gluconeogenesis	1.2.4.1 2.2.1.6 4.1.1.1	[c] : pyr + thmpp <==> C05125 + co2
+R_UMPK	ATP:nucleoside-phosphate phosphotransferase	.	Pyrimidine metabolism	2.7.4.4 2.7.4.14 2.7.4.22	[c] : atp + ump <==> adp + udp
+R00623	primary_alcohol:NAD+ oxidoreductase	.	Fatty acid metabolism	1.1.1.1 1.1.1.71	[c] : C00226 + nad <==> C00071 + nadh + h
+R03132	O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)	.	Cysteine metabolism	2.5.1.47 2.5.1.48	[c] : acser + tsul <==> C05824 + ac
+R_MCOATA	Malonyl-CoA:[acyl-carrier-protein] S-malonyltransferase	.	Fatty acid biosynthesis	2.3.1.39 2.3.1.85 2.3.1.86	[c] : ACP + malcoa <==> coa + malACP
+R01625	CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase	.	Pantothenate and CoA biosynthesis	2.7.8.7	[c] : coa + C03688 <==> pap + apoACP|ACP
+R_ACOATAm	acetyl-CoA:[acyl-carrier-protein] S-acetyltransferase	.	Fatty acid biosynthesis	2.3.1.38 2.3.1.85 2.3.1.86 2.3.1.180	[c] : ACP + accoa <==> acACP + coa
+R_ALAALAr	D-alanine:D-alanine ligase (ADP-forming)	.	Peptidoglycan biosynthesis || D-Alanine metabolism	6.3.2.4	[c] : 2 ala-D + atp <==> adp + alaala + h + pi
+R_MTAN	Methylthioadenosine methylthioribohydrolase	.	Methionine metabolism || Urea cycle and metabolism of amino groups	3.2.2.9 3.2.2.16	[c] : 5mta + h2o --> 5mtr + ade
+R_PPS	ATP:pyruvate,water phosphotransferase	.	Pyruvate metabolism || Reductive carboxylate cycle (CO2 fixation)	2.7.9.2	[c] : atp + h2o + pyr --> amp + 2 h + pep + pi
+R05027	.	.	Peptidoglycan biosynthesis	2.4.1.227	[c] : C05888 + uacgam <==> C05889 + udp
+R_URIK3	ITP:uridine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : itp + uri --> h + idp + ump
+R05028	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)- L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine:ammonia ligase (ADP-forming)	.	Peptidoglycan biosynthesis	6.3.1.2	[c] : atp + C05889 + nh4 <==> adp + pi + C05890
+R_GK1	ATP:(d)GMP phosphotransferase	.	Purine metabolism	2.7.4.8	[c] : atp + gmp <==> adp + gdp
+R_GLU5Km	ATP:L-glutamate 5-phosphotransferase	.	Urea cycle and metabolism of amino groups	2.7.2.11	[c] : atp + glu-L --> adp + glu5p
+R_ASPCTn	carbamoyl-phosphate:L-aspartate carbamoyltransferase	.	Alanine and aspartate metabolism || Pyrimidine metabolism	2.1.3.2	[c] : asp-L + cbp --> cbasp + h + pi
+R01395	ATP:carbamate phosphotransferase	.	Nitrogen metabolism	2.7.2.2	[c] : atp + C01563 <==> adp + cbp
+R_DHAK	ATP:glycerone phosphotransferase	.	Glycerolipid metabolism	2.7.1.29	[c] : atp + dha --> adp + dhap + h
+R_OCBT	Carbamoyl-phosphate:L-ornithine carbamoyltransferase	.	Arginine and proline metabolism || Urea cycle and metabolism of amino groups	2.1.3.3	[c] : cbp + orn <==> citr-L + h + pi
+R_TPI	D-glyceraldehyde-3-phosphate aldose-ketose-isomerase	.	Carbon fixation in photosynthetic organisms || Fructose and mannose metabolism || Inositol phosphate metabolism || Glycolysis / Gluconeogenesis	5.3.1.1	[c] : dhap <==> g3p
+R_ILETA	L-Isoleucine:2-oxoglutarate aminotransferase	.	Valine, leucine and isoleucine biosynthesis || Valine, leucine and isoleucine degradation	2.6.1.42	[c] : akg + ile-L <==> 3mop + glu-L
+R_ILL_R00890	GDPmannose:mannan 1,4-beta-D-mannosyltransferase	.	Fructose and mannose metabolism	2.4.1.-	[c] : gdpmann + C02492 <==> gdp + C02492
+R_MCITS	propanoyl-CoA:oxaloacetate C-propanoyltransferase (thioester-hydrolysing, 1-carboxyethyl-forming); 2-methylcitrate oxaloacetate-lyase	.	Propanoate metabolism	2.3.3.5	[c] : h2o + oaa + ppcoa --> 2mcit + coa + h
+R_ADCS	chorismate:L-glutamine aminotransferase	.	Folate biosynthesis	2.6.1.85	[c] : chor + gln-L --> 4adcho + glu-L
+R_CHORM	Chorismate pyruvatemutase	.	Phenylalanine, tyrosine and tryptophan biosynthesis	5.4.99.5	[c] : chor --> pphn
+R_CHORS	5-O-(1-Carboxyvinyl)-3-phosphoshikimate phosphate-lyase (chorismate-forming)	.	Phenylalanine, tyrosine and tryptophan biosynthesis	4.2.3.5	[c] : 3psme --> chor + pi
+R_UGCG	UDP-glucose:N-acylsphingosine D-glucosyltransferase	.	Sphingolipid metabolism	2.4.1.80	[c] : crm_hs + udpg --> gluside_hs + h + udp
+R_NT5C	Nicotinate D-ribonucleotide phosphohydrolase	.	Nicotinate and nicotinamide metabolism	3.1.3.5	[c] : h2o + nicrnt --> nicrns + pi
+R_GPDDA2	sn-Glycero-3-phosphoethanolamine glycerophosphohydrolase	.	Glycerophospholipid metabolism	3.1.4.2 3.1.4.46	[c] : g3pe + h2o --> etha + glyc3p + h
+R_G1PTT	dTTP:alpha-D-glucose-1-phosphate thymidylyltransferase	.	Streptomycin biosynthesis || Nucleotide sugars metabolism || Polyketide sugar unit biosynthesis	2.7.7.24 2.7.7.33	[c] : dttp + g1p + h --> dtdpglu + ppi
+R_ASNNr	L-Asparagine amidohydrolase	.	Cyanoamino acid metabolism || Alanine and aspartate metabolism || Nitrogen metabolism	3.5.1.1 3.5.1.38	[c] : asn-L + h2o <==> asp-L + nh4
+R03616	Galactosylglycerol galactohydrolase	.	Glycerolipid metabolism	3.2.1.23	[c] : ggl + h2o <==> C01582 + glyc
+R_ASPK	ATP:L-aspartate 4-phosphotransferase	.	Glycine, serine and threonine metabolism || Lysine biosynthesis	2.7.2.4	[c] : asp-L + atp <==> 4pasp + adp
+R05150	precorrin-6Y:NADP+ oxidoreductase	.	Porphyrin and chlorophyll metabolism	1.3.1.54	[c] : C06319 + nadp <==> C06320 + nadph + h
+R_PGLYCP	2-Phosphoglycolate phosphohydrolase	.	Glyoxylate and dicarboxylate metabolism	3.1.3.18	[c] : 2pglyc + h2o --> glyclt + pi
+R02718	D-Alanine:poly(ribitol phosphate) ligase (AMP-forming)	.	D-Alanine metabolism	6.1.1.13	[c] : atp + ala-D + C00653 <==> amp + ppi + C04260
+R_NTD10	Xanthosine 5'-phosphate phosphohydrolase	.	Purine metabolism	3.1.3.5	[c] : h2o + xmp --> pi + xtsn
+R_PGAMT	D-Glucosamine 1-phosphate 1,6-phosphomutase; D-glucosamine 1,6-phosphomutase	.	Aminosugars metabolism	5.4.2.10	[c] : gam1p <==> gam6p
+R_GLUDym	L-Glutamate:NADP+ oxidoreductase (deaminating)	.	Nitrogen metabolism || Glutamate metabolism	1.4.1.3 1.4.1.4	[c] : glu-L + h2o + nadp <==> akg + h + nadph + nh4
+R_ARGSL	2-(Nomega-L-arginino)succinate arginine-lyase (fumarate-forming)	.	Alanine and aspartate metabolism || Arginine and proline metabolism || Urea cycle and metabolism of amino groups	4.3.2.1	[c] : argsuc <==> arg-L + fum
+R_ADSL1	N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming)	.	Alanine and aspartate metabolism || Purine metabolism	4.3.2.2	[c] : dcamp --> amp + fum
+R_GLUDx	L-Glutamate:NAD+ oxidoreductase (deaminating)	.	Nitrogen metabolism	1.4.1.2 1.4.1.3 1.4.1.4	[c] : glu-L + h2o + nad <==> akg + h + nadh + nh4
+R05807	sirohydrochlorin cobalt-lyase	.	Porphyrin and chlorophyll metabolism	4.99.1.3	[c] : scl + cobalt2 <==> copre2 + 2 h
+R_ILL_R02108	1,4-alpha-D-Glucan glucanohydrolase	.	Starch and sucrose metabolism	3.2.1.1	[c] : strch2|strch1 + h2o <==> C00721 + strch2|strch1
+R_ILL_R00879	beta-D-Fructan fructohydrolase	.	Fructose and mannose metabolism	3.2.1.80	[c] : C01355 + h2o <==> fru + C01355
+R_CPC3MT	.	.	Porphyrin and chlorophyll metabolism	2.1.1.131	[c] : amet + copre3 --> ahcys + copre4
+R_CPC2MT	S-adenosyl-L-methionine:cobalt-factor-II C20-methyltransferase	.	Porphyrin and chlorophyll metabolism	2.1.1.151	[c] : amet + copre2 --> ahcys + copre3 + h
+R_TMDS	5,10-Methylenetetrahydrofolate:dUMP C-methyltransferase	.	One carbon pool by folate || Pyrimidine metabolism	2.1.1.45	[c] : dump + mlthf --> dhf + dtmp
+R_DUTPDPn	dUTP nucleotidohydrolase	.	Pyrimidine metabolism	3.6.1.19 3.6.1.23	[c] : dutp + h2o --> dump + h + ppi
+R08559	Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase	.	Aminosugars metabolism	2.7.1.69	[c] : C02713 + C04261 <==> C16698 + C00615
+R04673	(S)-2-Aceto-2-hydroxybutanoate pyruvate-lyase (carboxylating)	.	Valine, leucine and isoleucine biosynthesis	2.2.1.6	[c] : 2obut + C05125 <==> 2ahbut + thmpp
+R04672	(S)-2-Acetolactate pyruvate-lyase (carboxylating)	.	Valine, leucine and isoleucine biosynthesis	2.2.1.6	[c] : alac-S + thmpp <==> C05125 + pyr
+R07759	.	.	Biosynthesis of unsaturated fatty acids	1.1.1.-	[c] : 3ohodcoa + nadph + h <==> C16217 + nadp
+R06371	.	.	Limonene and pinene degradation	3.7.1.-	[c] : C11935 + h2o <==> C11936
+R_ECOAH5	(S)-3-Hydroxydodecanoyl-CoA hydro-lyase	.	Fatty acid metabolism	4.2.1.17 4.2.1.74	[c] : 3hddcoa <==> dd2coa + h2o
+R_PSERT	3-Phosphoserine:2-oxoglutarate aminotransferase	.	Glycine, serine and threonine metabolism	2.6.1.52	[c] : 3php + glu-L --> akg + pser-L
+R07618	enzyme N6-(dihydrolipoyl)lysine:NAD+ oxidoreductase	.	Pyruvate metabolism || Valine, leucine and isoleucine degradation || Citrate cycle (TCA cycle) || Glycolysis / Gluconeogenesis	1.8.1.4	[c] : C15973 + nad <==> C15972 + nadh + h
+R_PRPNCOAHYDm	3-Hydroxypropionyl-CoA hydro-lyase	.	Propanoate metabolism	4.2.1.17	[c] : h2o + prpncoa --> 3hpcoa
+R03599	Selenocysteine reductase	.	Selenoamino acid metabolism	4.4.1.16	[c] : selcys + C00030 <==> seln + ala-L + C00028
+R04778	dTDP-6-deoxy-L-mannose:NADP+ 4-oxidoreductase	.	Nucleotide sugars metabolism	1.1.1.133	[c] : C05386 + nadp <==> C05344 + nadph + h
+R04779	ATP:D-fructose-6-phosphate 1-phosphotransferase	.	Pentose phosphate pathway || Fructose and mannose metabolism || Glycolysis / Gluconeogenesis	2.7.1.11	[c] : atp + f6p-B <==> adp + C05378
+R04773	Selenomethionine:tRNAMet ligase (AMP-forming)	.	Selenoamino acid metabolism	6.1.1.10	[c] : atp + selmeth + trnamet <==> amp + ppi + C05336
+R_SELMETAT	ATP:L-methione S-adenosyltransferase	.	Selenoamino acid metabolism	2.5.1.6	[c] : atp + h2o + selmeth --> pi + ppi + seasmet
+R00416	UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase	.	Aminosugars metabolism	2.7.7.23	[c] : utp + C04501 <==> ppi + uacgam
+R_ARGTRS	L-Arginine:tRNA(Arg) ligase (AMP-forming)	.	Arginine and proline metabolism	6.1.1.19	[c] : arg-L + atp + trnaarg --> amp + argtrna + ppi
+R_DDPAm	Phosphoenolpyruvate:D-erythrose-4-phosphate C-(1-carboxyvinyl)transferase (phosphate hydrolysing, 2-carboxy-2-oxoethyl-forming)	.	Phenylalanine, tyrosine and tryptophan biosynthesis	2.5.1.54	[c] : e4p + h2o + pep --> 2dda7p + pi
+R_THRPD	L-threonine-O-3-phosphate carboxy-lyase	.	Porphyrin and chlorophyll metabolism	4.1.1.81	[c] : h + thrp --> applp + co2
+R_FBA3	Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase	.	Carbon fixation in photosynthetic organisms	4.1.2.13	[c] : s17bp <==> dhap + e4p
+R_AMPTASECG	membrane alanyl aminopeptidase	.	Glutathione metabolism	3.4.11.1 3.4.11.2 3.4.11.23 3.4.13.3	[c] : cgly + h2o --> cys-L + gly
+R_NTD9l	Guanosine 5'-monophosphate phosphohydrolase	.	Purine metabolism	3.1.3.5	[c] : gmp + h2o --> gsn + pi
+R05570	Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase	.	Galactose metabolism	2.7.1.69	[c] : galt + C04261 <==> galt1p + C00615
+R_ASPTRS	L-Aspartate:tRNA(Asp) ligase (AMP-forming)	.	Alanine and aspartate metabolism	6.1.1.12 6.1.1.23	[c] : asp-L + atp + trnaasp --> amp + asptrna + ppi
+R_GLUTRS	L-Glutamate:tRNA(Glu) ligase (AMP-forming)	.	Glutamate metabolism	6.1.1.17 6.1.1.24	[c] : atp + glu-L + trnaglu --> amp + glutrna + ppi
+R_MTHFR3	5-methyltetrahydrofolate:NADP+ oxidoreductase	.	Methane metabolism || One carbon pool by folate	1.5.1.20	[c] : 2 h + mlthf + nadph --> 5mthf + nadp
+R02569	acetyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-acetyltransferase	.	Pyruvate metabolism || Citrate cycle (TCA cycle) || Glycolysis / Gluconeogenesis	2.3.1.12	[c] : accoa + C15973 <==> coa + C16255
+R_FBA2	D-Fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase	.	Fructose and mannose metabolism	4.1.2.13	[c] : f1p <==> dhap + glyald
+R_THFGLUS	Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)	.	Folate biosynthesis	6.3.2.17	[c] : atp + glu-L + thf <==> adp + h + pi + thfglu
+R_ACODA	N2-Acetyl-L-ornithine amidohydrolase	.	Urea cycle and metabolism of amino groups	3.5.1.14 3.5.1.16	[c] : acorn + h2o --> ac + orn
+R_GTHOm	glutathione:NADP+ oxidoreductase	.	Glutathione metabolism	1.8.1.7	[c] : gthox + h + nadph --> 2 gthrd + nadp
+R_ASNTRSm	L-Asparagine:tRNA(Asn) ligase (AMP-forming)	.	Alanine and aspartate metabolism	6.1.1.22	[c] : asn-L + atp + trnaasn --> amp + asntrna + ppi
+R_LDH_Lm	(S)-Lactate:NAD+ oxidoreductase	.	Pyruvate metabolism || Glycolysis / Gluconeogenesis	1.1.1.27	[c] : lac-L + nad <==> h + nadh + pyr
+R01058	D-glyceraldehyde 3-phosphate:NADP+ oxidoreductase	.	Glycolysis / Gluconeogenesis	1.2.1.9	[c] : g3p + nadp + h2o <==> 3pg + nadph + h
+R_PPND	Prephenate:NAD+ oxidoreductase(decarboxylating)	.	Novobiocin biosynthesis || Phenylalanine, tyrosine and tryptophan biosynthesis	1.3.1.12	[c] : nad + pphn --> 34hpp + co2 + nadh
+R01054	ADP-ribose ribophosphohydrolase	.	Purine metabolism	3.6.1.13 3.6.1.21	[c] : adprib + h2o <==> amp + r5p
+R01056	D-ribose-5-phosphate aldose-ketose-isomerase	.	Carbon fixation in photosynthetic organisms || Pentose phosphate pathway	5.3.1.6	[c] : r5p <==> ru5p-D
+R01057	D-Ribose 1,5-phosphomutase	.	Pentose phosphate pathway || Purine metabolism	5.4.2.2 5.4.2.7	[c] : r1p <==> r5p
+R_IPMD	3-Isopropylmalate:NAD+ oxidoreductase	.	Valine, leucine and isoleucine biosynthesis	1.1.1.85	[c] : 3c2hmp + nad --> 3c4mop + h + nadh
+R_KAS14	Acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)	.	Fatty acid biosynthesis	2.3.1.41 2.3.1.85 2.3.1.86 2.3.1.179 2.3.1.180	[c] : acACP + h + malACP --> ACP + actACP + co2
+R06010	.	.	Glycosphingolipid biosynthesis - ganglio series	3.2.1.23	[c] : G00110 + h2o <==> G00109 + gal
+R_MELTGH	Melibiitol galactohydrolase	.	Galactose metabolism	3.2.1.22	[c] : h2o + melt <==> gal + sbt-D
+R04428	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	.	Fatty acid biosynthesis	4.2.1.58	[c] : C04618 <==> C04246 + h2o
+R04429	Butyryl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)	.	Fatty acid biosynthesis	1.3.1.9 2.3.1.86	[c] : C05745 + nad <==> C04246 + nadh + h
+R00026	beta-D-Glucoside glucohydrolase	.	Starch and sucrose metabolism	3.2.1.21	[c] : C00185 + h2o <==> 2 C00221
+R00022	.	.	Aminosugars metabolism	3.2.1.52	[c] : C01674 + h2o <==> 2 acgam
+R00006	2-Acetolactate pyruvate-lyase (carboxylating)	.	Pantothenate and CoA biosynthesis	2.2.1.6	[c] : C00900 + co2 <==> 2 pyr
+R04198	2,3,4,5-Tetrahydrodipicolinate:NAD+ oxidoreductase	.	Lysine biosynthesis	1.3.1.26	[c] : thdp + nad <==> 23dhdp + nadh + h
+R_DHDPRy	2,3,4,5-Tetrahydrodipicolinate:NADP+ oxidoreductase	.	Lysine biosynthesis	1.3.1.26	[c] : 23dhdp + h + nadph --> nadp + thdp
+R_PPCDC	N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase	.	Pantothenate and CoA biosynthesis	4.1.1.36	[c] : 4ppcys + h --> co2 + pan4p
+R_SHSL1	O-Succinyl-L-homoserine succinate-lyase (adding cysteine)	.	Methionine metabolism	2.5.1.48	[c] : cys-L + suchms --> cyst-L + h + succ
+R_PYDAMK	ATP:pyridoxal 5'-phosphotransferase	.	Vitamin B6 metabolism	2.7.1.35	[c] : atp + pydam --> adp + h + pyam5p
+R07810	.	.	Glycosaminoglycan degradation	3.2.1.52	[c] : G06780 + h2o <==> G08421 + acgal
+R_PPM2	2-Deoxy-D-ribose 1-phosphate 1,5-phosphomutase	.	Pentose phosphate pathway	5.4.2.7	[c] : 2dr1p <==> 2dr5p
+R00802	alpha-D-Glucoside glucohydrolase	.	Starch and sucrose metabolism	3.2.1.20 3.2.1.26 3.2.1.48	[c] : sucr + h2o <==> C02336 + C00267
+R00803	Sucrose:orthophosphate alpha-D-glucosyltransferase	.	Starch and sucrose metabolism	2.4.1.7	[c] : sucr + pi <==> fru + g1p
+R_PUNP6	Deoxyinosine:orthophosphate ribosyltransferase	.	Purine metabolism	2.4.2.1 2.4.2.4	[c] : din + pi <==> 2dr1p + hxan
+R_PYK	ATP:pyruvate 2-O-phosphotransferase	.	Pyruvate metabolism || Carbon fixation in photosynthetic organisms || Purine metabolism || Glycolysis / Gluconeogenesis	2.7.1.40	[c] : adp + h + pep --> atp + pyr
+R_PPDK	ATP:pyruvate,orthophosphate phosphotransferase	.	Pyruvate metabolism || Carbon fixation in photosynthetic organisms	2.7.9.1	[c] : atp + pi + pyr --> amp + h + pep + ppi
+R00207	Pyruvate:oxygen 2-oxidoreductase (phosphorylating)	.	Pyruvate metabolism	1.2.3.3	[c] : pyr + pi + o2 <==> actp + h2o2 + co2
+R_DPMVD	ATP:(R)-5-diphosphomevalonate carboxy-lyase (adding ATP; isopentenyl-diphosphate-forming); ATP:(R)-5-diphosphomevalonate carboxy-lyase (dehydrating)	.	Biosynthesis of steroids	4.1.1.33	[c] : 5dpmev + atp --> adp + co2 + ipdp + pi
+R_IPDDI	Isopentenyl-diphosphate delta3-delta2-isomerase	.	Terpenoid biosynthesis || Biosynthesis of steroids	5.3.3.2	[c] : ipdp <==> dmpp
+R_NTD11	Inosine 5'-monophosphate phosphohydrolase	.	Purine metabolism	3.1.3.5	[c] : h2o + imp --> ins + pi
+R_IMPC	IMP 1,2-hydrolase (decyclizing)	.	Purine metabolism	2.1.2.3 3.5.4.10	[c] : h2o + imp <==> fprica
+R_XPPT	XMP:pyrophosphate phosphoribosyltransferase	.	Purine metabolism	2.4.2.8 2.4.2.22	[c] : prpp + xan --> ppi + xmp
+R_HPPKm	ATP:2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine 6'-pyrophosphotransferase	.	Folate biosynthesis	2.7.6.3	[c] : 2ahhmp + atp --> 2ahhmd + amp + h
+R_PUNP3	guanosine:orthophosphate ribosyltransferase	.	Purine metabolism	2.4.2.1 2.4.2.15	[c] : gsn + pi <==> gua + r1p
+R03508	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase(cyclizing)	.	Phenylalanine, tyrosine and tryptophan biosynthesis	4.1.1.48	[c] : C01302 <==> 3ig3p + co2 + h2o
+R03509	N-(5-Phospho-beta-D-ribosyl)anthranilate ketol-isomerase	.	Phenylalanine, tyrosine and tryptophan biosynthesis	5.3.1.24	[c] : pran <==> C01302
+R02148	Guanosine 3'-phosphate phosphohydrolase	.	Purine metabolism	3.1.3.6	[c] : C06193 + h2o <==> gsn + pi
+R_DHFRim	5,6,7,8-Tetrahydrofolate:NADP+ oxidoreductase	.	One carbon pool by folate || Folate biosynthesis	1.5.1.3	[c] : dhf + h + nadph --> nadp + thf
+R_G5SD	L-Glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylationg)	.	Urea cycle and metabolism of amino groups	1.2.1.41	[c] : glu5p + h + nadph --> glu5sa + nadp + pi
+R00936	5,6,7,8-Tetrahydrofolate:NAD+ oxidoreductase	.	One carbon pool by folate	1.5.1.3	[c] : thf + nad <==> dhf + nadh + h
+R00937	5,6,7,8-Tetrahydrofolate:NAD+ oxidoreductase	.	Folate biosynthesis	1.5.1.3	[c] : thf + 2 nad <==> fol + 2 nadh + 2 h
+R_TRE6PH	alpha,alpha-Trehalose-6-phosphate phosphoglucohydrolase	.	Starch and sucrose metabolism	3.2.1.93 3.2.1.122	[c] : h2o + tre6p --> g6p + glc-D
+R05234	.	.	3-Chloroacrylic acid degradation	1.1.1.1	[c] : C06612 <==> C16348 + 2 h
+R04639	2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate 7,8-8,9-dihydrolase	.	Folate biosynthesis	3.5.4.16	[c] : ahdt + h2o <==> C06148
+R_DNTPPA	.	.	Folate biosynthesis	3.6.1.-	[c] : ahdt + h2o --> dhpmp + h + ppi
+R_34DHOXPEGOX	3,4-Dihydroxyphenylethyleneglycol:NAD+ oxidoreductase	.	Tyrosine metabolism	1.1.1.1	[c] : 34dhmald + h + nadh <==> 34dhoxpeg + nad
+R05233	.	.	3-Chloroacrylic acid degradation	1.1.1.1	[c] : C06611 <==> C06613 + 2 h
+R07127	ATP:3-dehydro-L-gulonate 6-phosphotransferase	.	Pentose and glucuronate interconversions || Ascorbate and aldarate metabolism	2.7.1.53	[c] : 3dhguln + atp <==> C14899 + adp
+R_ECOAH7	(S)-3-Hydroxyhexadecanoyl-CoA hydro-lyase	.	Fatty acid metabolism	4.2.1.17 4.2.1.74	[c] : 3hhdcoa <==> h2o + hdd2coa
+R07125	3-dehydro-L-gulonate-6-phosphate carboxy-lyase	.	Pentose and glucuronate interconversions	4.1.1.85	[c] : C14899 + h <==> xu5p-L + co2
+R_DADK	ATP:dAMP phosphotransferase	.	Purine metabolism	2.7.4.3 2.7.4.11	[c] : atp + damp <==> adp + dadp
+R03643	NADH:(quinone-acceptor) oxidoreductase	.	Biosynthesis of steroids	1.6.5.2	[c] : C01628 + nadh + h <==> C05850 + nad
+R_GUAPRT	GMP:diphosphate 5-phospho-alpha-D-ribosyltransferase	.	Purine metabolism	2.4.2.7 2.4.2.8 2.4.2.22	[c] : gua + prpp --> gmp + ppi
+R_CYSSr	O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)	.	Cysteine metabolism || Sulfur metabolism	2.5.1.47 2.5.1.65	[c] : acser + h2s <==> ac + cys-L + h
+R_GLUCYS	L-glutamate:L-cysteine gamma-ligase (ADP-forming)	.	Glutathione metabolism	6.3.2.2	[c] : atp + cys-L + glu-L --> adp + glucys + h + pi
+R_PGLer	6-Phospho-D-glucono-1,5-lactone lactonohydrolase	.	Pentose phosphate pathway	3.1.1.31	[c] : 6pgl + h2o --> 6pgc + h
+R01548	dATP:cytidine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : datp + cytd <==> dadp + cmp
+R01549	dATP:uridine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : datp + uri <==> dadp + ump
+R08281	alcophosphamide:NAD+ oxidoreductase	.	Drug metabolism - cytochrome P450	1.1.1.1	[c] : C07645 + nadh + h <==> C16551 + nad
+R03051	2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)	.	Pantothenate and CoA biosynthesis	1.1.1.86	[c] : C00900 + nadph + h <==> C04039 + nadp
+R02740	alpha-D-Glucose 6-phosphate ketol-isomerase	.	Pentose phosphate pathway || Starch and sucrose metabolism || Glycolysis / Gluconeogenesis	5.3.1.9	[c] : C00668 <==> f6p-B
+R_MTHFD	5,10-methylenetetrahydrofolate:NADP+ oxidoreductase	.	One carbon pool by folate || Glyoxylate and dicarboxylate metabolism	1.5.1.5	[c] : mlthf + nadp <==> methf + nadph
+R02689	UDPglucose:1,2-diacylglycerol 3-D-glucosyltransferase	.	Glycerolipid metabolism	2.4.1.157	[c] : udpg + 12dgr_SC|12dgr_EC <==> udp + 3g12dgr_SA2
+R00516	UTP:cytidine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : utp + cytd <==> udp + cmp
+R_CYTDK2	GTP:cytidine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : cytd + gtp --> cmp + gdp + h
+R_CYTK1	ATP:CMP phosphotransferase	.	Pyrimidine metabolism	2.7.4.14	[c] : atp + cmp <==> adp + cdp
+R_CYTDK1	ATP:cytidine 5'-phosphotransferase	.	Pyrimidine metabolism	2.7.1.48	[c] : atp + cytd --> adp + cmp + h
+R_NTD4l	Cytidine-5'-monophosphate phosphohydrolase	.	Pyrimidine metabolism	3.1.3.5	[c] : cmp + h2o --> cytd + pi
+R_HEX1	ATP:D-glucose 6-phosphotransferase	.	Streptomycin biosynthesis || Glycolysis / Gluconeogenesis	2.7.1.1 2.7.1.2	[c] : atp + glc-D --> adp + g6p + h
+R_ILL_UNK	.	.	Phosphotransferase system (PTS) || ABC transporters	.	.
+R_UDPG4E	UDPglucose 4-epimerase	.	Galactose metabolism || Nucleotide sugars metabolism	5.1.3.2	[c] : udpg <==> udpgal
+R_PUNP5	inosine:phosphate alpha-D-ribosyltransferase	.	Purine metabolism	2.4.2.1 2.4.2.15	[c] : ins + pi <==> hxan + r1p
+R_DHORD	(S)-Dihydroorotate:oxygen oxidoreductase	.	Pyrimidine metabolism	1.3.3.1	[c] : dhor-S + o2 <==> h2o2 + orot
+R_CLS_hs	CDP-diacylglycerol:phosphatidylglycerol 3-phosphatidyltransferase	.	Glycerophospholipid metabolism	2.7.8.-	[c] : cdpdag_hs + pglyc_hs --> clpn_hs + cmp + h
+R_BIOMASS		.	Biomass		[c] : 0.25 glu-L + 0.488 ala-L + 0.229 asp-L + 0.25 gln-L + 0.176 phe-L + 0.131 tyr-L + 0.054 trp-L + 0.205 ser-L + 0.582 gly + 0.241 thr-L + 0.146 met-L + 0.087 cys-L + 0.428 leu-L + 0.276 ile-L + 0.402 val-L + 0.09 his-L + 0.326 lys-L + 0.281 arg-L + 0.21 pro-L + 0.229 asn-L + 0.00215 nad + 0.00005 nadh + 0.00013 nadp + 0.0004 nadph + 0.000006 coa + 0.00005 accoa + 0.05 5mthf + 0.0010 amp + 0.203 gtp + 0.0247 datp + 0.0254 dgtp + 0.136 utp + 0.126 ctp + 0.0247 dttp + 0.0254 dctp + 0.286 tcam + 0.178 uamr + 45.7318 atp + 45.7318 h2o --> 45.7318 adp + 45.7318 pi + 45.7318 h
+R_OMCDC	_2-Oxo-4-methyl-3-carboxypentanoatedecarboxylation	.	Valine, leucine and isoleucine biosynthesis	.	[c] : 3c4mop + h --> 4mop + co2
+R_HISTP	L-Histidinol-phosphate phosphohydrolase	.	Histidine metabolism	3.1.3.15	[c] : h2o + hisp --> histd + pi
+R_SDPTA	N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate amino-transferase	.	Lysine biosynthesis	2.6.1.17	[c] : akg + sl26da <==> glu-L + sl2a6o
+R_DAPE	LL-2,6-Diaminoheptanedioate 2-epimerase	.	Lysine biosynthesis	5.1.1.7	[c] : 26dap-LL <==> 26dap-M
+R_TALA	transaldolase	.	Pentose phosphate pathway	2.2.1.2	[c] : g3p + s7p <==> e4p + f6p
+R_NDPK2	nucleoside-diphosphatekinase(ATP:UDP)	.	Pyrimidine metabolism	2.7.4.6	[c] : atp + udp <==> adp + utp
+R_NDPK3	nucleoside-diphosphatekinase(ATP:CDP)	.	Pyrimidine metabolism	2.7.4.6	[c] : atp + cdp <==> adp + ctp
+R_NDPK4	ATP:dTDP phosphotransferase	.	Pyrimidine metabolism	2.7.4.6	[c] : atp + dtdp <==> adp + dttp
+R04364	Acetyl-CoA:L-2,3,4,5-tetrahydrodipicolinate N2-acetyltransferase	.	Lysine biosynthesis	2.3.1.89	[c] : thdp + accoa + h2o <==> nal2a6o + coa
+R_PPA	inorganicdiphosphatase	.	Other	3.6.1.1	[c] : h2o + ppi --> h + 2 pi
+R_G6PI	Glucose-6-phosphateisomerase	.	Pentose phosphate pathway || Glycolysis / Gluconeogenesis	5.3.1.9	[c] : g6p <==> g6p-B
+R_TECA4S	minorteichoicacidsynthesis(n=30)	.	Other	2.7.7.39	[c] : 30 h2o + 30 udpacgal + 30 udpg --> 60 h + tcam + 30 udp + 30 ump
+R_UAG4Ei	UDP-N-acetylglucosamine4-epimerase	.	Aminosugars metabolism	5.1.3.7	[c] : uacgam --> udpacgal
+R_PGMT	alpha-D-glucose 1,6-phosphomutase	.	Glycolysis / Gluconeogenesis || Nucleotide sugars metabolism	5.4.2.2	[c] : g1p <==> g6p
+R_ALATA_L	L-Alanine:2-oxoglutarate aminotransferase	.	Alanine and aspartate metabolism	2.6.1.2	[c] : akg + ala-L <==> glu-L + pyr
+R_ORNTA	ornithinetransaminase	.	Arginine and proline metabolism	2.6.1.13	[c] : akg + orn --> glu-L + glu5sa
+R_G5SADr	L-glutamate5-semialdehydedehydratase(spontaneous)	.	Arginine and proline metabolism	.	[c] : glu5sa <==> 1pyr5c + h + h2o
+R_ASPTA	L-Aspartate:2-oxoglutarate aminotransferase	.	Alanine and aspartate metabolism	2.6.1.1	[c] : akg + asp-L <==> glu-L + oaa
