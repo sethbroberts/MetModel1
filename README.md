@@ -1,5 +1,5 @@
 # metmodelCLI
-A Python framework for building / analyzing constraint based models of cellular metabolism.
+A Python framework for building / analyzing constraint based models of cellular metabolism, command line version.
 
 run.py has an example of how to load model info from text files and run FBA
 
